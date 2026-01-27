@@ -1,12 +1,6 @@
-THE ART OF WAR BY SUN TZU
-
-Translated by Lionel Giles
-Originally published 1910
-
-
 CHAPTER 1. LAYING PLANS
 
-1.  Sun Tzu said: The art of war is of vital importance to the State. 
+1. Sun Tzu said: The art of war is of vital importance to the State. 
 
 2. It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected. 
 
@@ -59,7 +53,7 @@ CHAPTER 1. LAYING PLANS
 
 CHAPTER 2. WAGING WAR
 
-1.  Sun Tzu said: In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers, with provisions enough to carry them a thousand LI, the expenditure at home and at the front, including entertainment of guests, small items such as glue and paint, and sums spent on chariots and armor, will reach the total of a thousand ounces of silver per day. Such is the cost of raising an army of 100,000 men. 
+1. Sun Tzu said: In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers, with provisions enough to carry them a thousand LI, the expenditure at home and at the front, including entertainment of guests, small items such as glue and paint, and sums spent on chariots and armor, will reach the total of a thousand ounces of silver per day. Such is the cost of raising an army of 100,000 men. 
 
 2. When you engage in actual fighting, if victory is long in coming, then men's weapons will grow dull and their ardor will be damped. If you lay siege to a town, you will exhaust your strength. 
 
@@ -132,14 +126,14 @@ CHAPTER 3. ATTACK BY STRATAGEM
 
 16. But when the army is restless and distrustful, trouble is sure to come from the other feudal princes. This is simply bringing anarchy into the army, and flinging victory away. 
 
-17. Thus we may know that there are five essentials for victory: (1) He will win who knows when to fight and when not to fight. (2) He will win who knows how to handle both superior and inferior forces. (3) He will win whose army is animated by the same spirit throughout all its ranks.  (4) He will win who, prepared himself, waits to take the enemy unprepared.  (5) He will win who has military capacity and is not interfered with by the sovereign. 
+17. Thus we may know that there are five essentials for victory: (1) He will win who knows when to fight and when not to fight. (2) He will win who knows how to handle both superior and inferior forces. (3) He will win whose army is animated by the same spirit throughout all its ranks. (4) He will win who, prepared himself, waits to take the enemy unprepared. (5) He will win who has military capacity and is not interfered with by the sovereign. 
 
 18. Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle. 
 
 
 CHAPTER 4. TACTICAL DISPOSITIONS
 
-1.  Sun Tzu said: The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy. 
+1. Sun Tzu said: The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy. 
 
 2. To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself. 
 
@@ -202,7 +196,7 @@ CHAPTER 5. ENERGY
 
 10. In battle, there are not more than two methods of attack: the direct and the indirect; yet these two in combination give rise to an endless series of maneuvers. 
 
-11. The direct and the indirect lead on to each other in turn. It is like moving in a circle---you never come to an end.  Who can exhaust the possibilities of their combination? 
+11. The direct and the indirect lead on to each other in turn. It is like moving in a circle---you never come to an end. Who can exhaust the possibilities of their combination? 
 
 12. The onset of troops is like the rush of a torrent which will even roll stones along in its course. 
 
@@ -231,7 +225,7 @@ CHAPTER 5. ENERGY
 
 CHAPTER 6. WEAK POINTS AND STRONG
 
-1.  Sun Tzu said: Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted. 
+1. Sun Tzu said: Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted. 
 
 2. Therefore the clever combatant imposes his will on the enemy, but does not allow the enemy's will to be imposed on him. 
 
@@ -312,7 +306,7 @@ CHAPTER 7. MANEUVERING
 
 5. Maneuvering with an army is advantageous; with an undisciplined multitude, most dangerous. 
 
-6. If you set a fully equipped army in march in order to snatch an advantage, the chances are that you will be too late.  On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores. 
+6. If you set a fully equipped army in march in order to snatch an advantage, the chances are that you will be too late. On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores. 
 
 7. Thus, if you order your men to roll up their buff-coats, and make forced marches without halting day or night, covering double the usual distance at a stretch, doing a hundred LI in order to wrest an advantage, the leaders of all your three divisions will fall into the hands of the enemy. 
 
@@ -379,7 +373,7 @@ CHAPTER 7. MANEUVERING
 
 CHAPTER 8. VARIATION IN TACTICS
 
-1.  Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces. 
+1. Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces. 
 
 2. When in difficult country, do not encamp. In country where high roads intersect, join hands with your allies. Do not linger in dangerously isolated positions. In hemmed-in situations, you must resort to stratagem. In desperate position, you must fight. 
 
@@ -405,12 +399,12 @@ CHAPTER 8. VARIATION IN TACTICS
 
 13. These are the five besetting sins of a general, ruinous to the conduct of war. 
 
-14. When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults.  Let them be a subject of meditation. 
+14. When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults. Let them be a subject of meditation. 
 
 
 CHAPTER 9. THE ARMY ON THE MARCH
 
-1.  Sun Tzu said: We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighborhood of valleys. 
+1. Sun Tzu said: We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighborhood of valleys. 
 
 2. Camp in high places, facing the sun. Do not climb heights in order to fight. So much for mountain warfare. 
 
@@ -503,7 +497,7 @@ CHAPTER 9. THE ARMY ON THE MARCH
 
 CHAPTER 10. TERRAIN
 
-1.  Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) temporizing ground; (4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy. 
+1. Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) temporizing ground; (4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy. 
 
 2. Ground which can be freely traversed by both sides is called ACCESSIBLE. 
 
@@ -624,7 +618,7 @@ CHAPTER 11. THE NINE SITUATIONS
 
 28. On the day they are ordered out to battle, your soldiers may weep, those sitting up bedewing their garments, and those lying down letting the tears run down their cheeks. But let them once be brought to bay, and they will display the courage of a Chu or a Kuei. 
 
-29. The skillful tactician may be likened to the SHUAI-JAN.  Now the SHUAI-JAN is a snake that is found in the Ch`ang mountains. Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle, and you will be attacked by head and tail both. 
+29. The skillful tactician may be likened to the SHUAI-JAN. Now the SHUAI-JAN is a snake that is found in the Ch`ang mountains. Strike at its head, and you will be attacked by its tail; strike at its tail, and you will be attacked by its head; strike at its middle, and you will be attacked by head and tail both. 
 
 30. Asked if an army can be made to imitate the SHUAI-JAN, I should answer, Yes. For the men of Wu and the men of Yueh are enemies; yet if they are crossing a river in the same boat and are caught by a storm, they will come to each other's assistance just as the left hand helps the right. 
 
@@ -707,7 +701,7 @@ CHAPTER 11. THE NINE SITUATIONS
 
 CHAPTER 12. THE ATTACK BY FIRE
 
-1.  Sun Tzu said: There are five ways of attacking with fire. The first is to burn soldiers in their camp; the second is to burn stores; the third is to burn baggage trains; the fourth is to burn arsenals and magazines; the fifth is to hurl dropping fire amongst the enemy. 
+1. Sun Tzu said: There are five ways of attacking with fire. The first is to burn soldiers in their camp; the second is to burn stores; the third is to burn baggage trains; the fourth is to burn arsenals and magazines; the fifth is to hurl dropping fire amongst the enemy. 
 
 2. In order to carry out an attack, we must have means available. the material for raising fire should always be kept in readiness. 
 
@@ -794,7 +788,7 @@ CHAPTER 13. THE USE OF SPIES
 
 20. Whether the object be to crush an army, to storm a city, or to assassinate an individual, it is always necessary to begin by finding out the names of the attendants, the aides-de-camp, and door-keepers and sentries of the general in command. Our spies must be commissioned to ascertain these. 
 
-21. The enemy's spies who have come to spy on us must be sought out, tempted with bribes, led away and comfortably housed.  Thus they will become converted spies and available for our service. 
+21. The enemy's spies who have come to spy on us must be sought out, tempted with bribes, led away and comfortably housed. Thus they will become converted spies and available for our service. 
 
 22. It is through the information brought by the converted spy that we are able to acquire and employ local and inward spies. 
 

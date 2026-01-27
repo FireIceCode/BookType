@@ -6,8 +6,10 @@ extends RichTextLabel
 @export var typed_color: String = "#dddddd"
 @export var incorrect_color: String = "#cc8888"
 @export var caret_highlight_color: String = "#509080"
+@export var font_size: int = 24
 @export var smooth_progress_bar: SmoothProgressBar
 @export var smooth_scroll_container: SmoothScrollContainer
+@export var smooth_caret: SmoothCaret
 
 var character_index: int = 0
 var number_incorrect: int = 0
@@ -27,6 +29,8 @@ const vaild_characters: Array[String] = ['_', '-', '+', '=', '.', ',', ':', ';',
 
 func _ready() -> void:
 	refresh_text()
+	if not smooth_caret == null:
+		smooth_caret.set_color(Color(caret_highlight_color))
 
 
 ## Restarts the current active text.
@@ -42,10 +46,16 @@ func setup_text(string: String) -> void:
 ## Takes the book text and formats it according to current index and incorrect characters.
 func refresh_text() -> void:
 	var display_text: String = book_text
+	
 	# Current character highlight
 	if !complete:
-		display_text = display_text.insert(character_index + 1, "[/bgcolor][color=" + untyped_color + "]")
-		display_text = display_text.insert(character_index, "[bgcolor=" + caret_highlight_color + "]")
+		if smooth_caret == null: # Default Caret
+			display_text = display_text.insert(character_index + 1, "[/bgcolor][color=" + untyped_color + "]")
+			display_text = display_text.insert(character_index, "[bgcolor=" + caret_highlight_color + "]")
+		else: # Smooth Caret
+			display_text = display_text.insert(character_index + 1, "[color=" + untyped_color + "]")
+			smooth_caret.set_target_position(Vector2(_get_character_position(character_index)))
+	
 	# Incorrect character color
 	incorrect_list.sort()
 	incorrect_list.reverse()
@@ -70,7 +80,7 @@ func _input(event: InputEvent) -> void:
 		# Check for backspace
 		if event.is_action("backspace"):
 			character_index -= 1
-			clamp(character_index, 0, -1)
+			character_index = maxi(0, character_index)
 			# Remove incorrect characters from list
 			if incorrect_list.has(character_index):
 				incorrect_list.erase(character_index)
@@ -129,3 +139,23 @@ func _update_scroll() -> void:
 	
 	var line_ratio: float = clampf((current_line / max_line * 100) - (5 / max_line * 100), 0, 100)
 	smooth_scroll_container.set_progress(line_ratio)
+
+
+# Gets the x and y position of the provided character's index.
+func _get_character_position(index: int) -> Vector2:
+	var line: int = get_character_line(index)
+	
+	# Get x
+	var font = get_theme_font("normal_font")
+	var x = 0
+	var line_range: Vector2 = get_line_range(line)
+	var line_position: float = (line_range.y - line_range.x) - (line_range.y - index)
+	for character in book_text.substr(int(line_range.x), int(line_position)):
+		if not character == null:
+			var char_size: float = font.get_char_size(character.to_ascii_buffer()[0], font_size).x
+			x += char_size
+	
+	# Get y
+	var y: float = (get_line_offset(line))
+	
+	return Vector2(x, y)

@@ -7,6 +7,7 @@
 [ext_resource type="Script" uid="uid://bfeogij7mmmf1" path="res://game/main/typing_interface/smooth_progress_bar.gd" id="3_6e2yo"]
 [ext_resource type="FontFile" uid="uid://bsg050005pfju" path="res://game/fonts/Sono-Medium.ttf" id="3_x3pcs"]
 [ext_resource type="Script" uid="uid://ciaey0scfxkr" path="res://game/main/typing_interface/smooth_scroll_container.gd" id="5_50335"]
+[ext_resource type="Script" uid="uid://bmjowt5qhpl6q" path="res://game/main/typing_interface/smooth_caret.gd" id="8_1dh2i"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_5kdno"]
 bg_color = Color(0.1764706, 0.1764706, 0.1764706, 1)
@@ -20,6 +21,14 @@ corner_radius_top_left = 5
 corner_radius_top_right = 5
 corner_radius_bottom_right = 5
 corner_radius_bottom_left = 5
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_1dh2i"]
+bg_color = Color(1, 1, 1, 1)
+corner_radius_top_left = 3
+corner_radius_top_right = 3
+corner_radius_bottom_right = 3
+corner_radius_bottom_left = 3
+corner_detail = 6
 
 [node name="TypingInterface" type="Control" unique_id=2025689700]
 layout_mode = 3
@@ -136,7 +145,7 @@ horizontal_scroll_mode = 0
 vertical_scroll_mode = 3
 script = ExtResource("5_50335")
 
-[node name="TypingLabel" type="RichTextLabel" parent="VBoxContainer/Body/HBoxContainer/SmoothScrollContainer" unique_id=1370903237 node_paths=PackedStringArray("smooth_progress_bar", "smooth_scroll_container")]
+[node name="TypingLabel" type="RichTextLabel" parent="VBoxContainer/Body/HBoxContainer/SmoothScrollContainer" unique_id=1370903237 node_paths=PackedStringArray("smooth_progress_bar", "smooth_scroll_container", "smooth_caret")]
 clip_contents = false
 custom_minimum_size = Vector2(750, 500)
 layout_mode = 2
@@ -157,6 +166,16 @@ hint_underlined = false
 script = ExtResource("2_v0rtb")
 smooth_progress_bar = NodePath("../../../../Topbar/VBoxContainer/SmoothProgressBar")
 smooth_scroll_container = NodePath("..")
+smooth_caret = NodePath("SmoothCaret")
+
+[node name="SmoothCaret" type="Panel" parent="VBoxContainer/Body/HBoxContainer/SmoothScrollContainer/TypingLabel" unique_id=1395442627]
+modulate = Color(0, 0, 0, 1)
+show_behind_parent = true
+layout_mode = 0
+offset_right = 16.0
+offset_bottom = 30.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_1dh2i")
+script = ExtResource("8_1dh2i")
 
 [node name="Divider2" type="Panel" parent="VBoxContainer/Body/HBoxContainer" unique_id=1245578536]
 custom_minimum_size = Vector2(5, 0)

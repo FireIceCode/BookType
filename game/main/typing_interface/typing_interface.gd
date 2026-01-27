@@ -1,4 +1,5 @@
 extends Control
+class_name TypingInterface
 
 
 @onready var title_node : Label = $VBoxContainer/Topbar/VBoxContainer/HBoxContainer/TitleLabel
@@ -11,7 +12,7 @@ extends Control
 @export var page_number : int = 1
 @export var max_page_number : int = 1
 
-signal typing_complete(page_number: int)
+signal page_complete()
 
 
 func _ready() -> void:
@@ -26,5 +27,5 @@ func setup_book() -> void:
 
 
 func _page_complete():
-	emit_signal("typing_complete", page_number)
+	emit_signal("page_complete")
 	print("page " + str(page_number) + " complete.")

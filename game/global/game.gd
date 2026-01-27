@@ -9,16 +9,19 @@ var transitioning: bool = false
 
 # Active book data
 var book_page: int = 0
-var book_directory: String = "user://books/builtin/ArtOfWar"
+var book_directory: String = "user://books/builtin/Art of War"
 var book_metadata: Dictionary = {
 	"title": "Art of War",
-	"pages": 1,
+	"pages": 0,
 	"author": "Sun Tzu"
 }
 
 
-
-# ----- Public Functions ----- #
+## Called on game startup
+func _ready() -> void:
+	_create_directory()
+	await _get_scene_manager()
+	await _get_animation_player()
 
 ## Transitions to main menu scene
 func transition_main_menu() -> void:
@@ -28,7 +31,7 @@ func transition_main_menu() -> void:
 func transition_typing_interface() -> void:
 	_transition_scene(Scene.TYPING_INTERFACE)
 
-## Directory in which the metadata file, and the page texts exists.
+## Sets up the requested book, using the directory in which the metadata file, and the page texts exists.
 func set_book_directory(dir: String) -> void:
 	if FileAccess.file_exists(dir + "/metadata.json"):
 		var json_string: String = FileAccess.get_file_as_string(dir + "/metadata.json")
@@ -36,19 +39,10 @@ func set_book_directory(dir: String) -> void:
 		book_directory = dir
 
 
-
-# ----- Private Functions ----- #
-
-## Called on game startup
-func _ready() -> void:
-	_create_directory()
-	await _get_scene_manager()
-	await _get_animation_player()
-
 ## Creates the main folders, and copies the built in files to the builtin folder
 func _create_directory() -> void:
 	# Main directory setup
-	if DirAccess.dir_exists_absolute("user://books"):
+	if DirAccess.dir_exists_absolute("user://books/custom"):
 		print("Book Directory found")
 	else:
 		DirAccess.make_dir_recursive_absolute("user://books/custom")
@@ -56,9 +50,12 @@ func _create_directory() -> void:
 	
 	# Copy buit in books.
 	DirAccess.make_dir_recursive_absolute("user://books/builtin")
-	var files = DirAccess.get_files_at("res://books_builtin/")
-	for file in files:
-		DirAccess.copy_absolute("res://books_builtin/" + file, "user://books/builtin/" + file)
+	var dirs = DirAccess.get_directories_at("res://books_builtin/")
+	for dir in dirs:
+		DirAccess.make_dir_recursive_absolute("user://books/builtin/" + dir)
+		var files = DirAccess.get_files_at("res://books_builtin/" + dir)
+		for file in files:
+			DirAccess.copy_absolute("res://books_builtin/" + dir + "/" + file, "user://books/builtin/" + dir + "/" + file)
 	print("Copy complete.")
 
 ## Use await keyword to continue code after supplied seconds
@@ -111,8 +108,11 @@ func _transition_scene(scene: int) -> void:
 		Scene.TYPING_INTERFACE:
 			child = load("res://game/main/typing_interface/typing_interface.tscn").instantiate()
 			child.book_title = book_metadata.get("title", "Title not found - Invalid metadata?")
-			child.page_number = str(book_page + 1)
+			child.page_number = book_page + 1
+			child.max_page_number = book_metadata.get("pages", 0) + 1
 			child.page_text = _get_current_book_page_text()
+			if child.has_signal("page_complete"):
+				child.connect("page_complete", _set_next_page)
 			
 	scene_node.add_child(child)
 	animation_player.play("clear")
@@ -120,7 +120,7 @@ func _transition_scene(scene: int) -> void:
 	await animation_player.animation_finished
 	transitioning = false
 
-
+## Returns the text of the currently selected book and page.
 func _get_current_book_page_text() -> String:
 	var page_path: String = book_directory + "/" + str(book_page) + ".txt"
 	if not FileAccess.file_exists(page_path):
@@ -132,3 +132,20 @@ func _get_current_book_page_text() -> String:
 		printerr(page_path + " returned null")
 		return "File access error!"
 	return text
+
+## Marks the current page as finished, and transitions to the next page.
+func _set_next_page() -> void:
+	book_page += 1
+	book_page = clampi(book_page, 0, book_metadata.get("pages", 0))
+	# Book completion check
+	#TODO ^
+	# Get typing interface
+	var typing_interface: TypingInterface = scene_node.get_child(0)
+	if not typing_interface is TypingInterface:
+		printerr("Typing interface not found!")
+		return
+	# Update typing interface
+	var page_text: String = _get_current_book_page_text()
+	typing_interface.page_number = book_page + 1
+	typing_interface.page_text = page_text
+	typing_interface.setup_book()

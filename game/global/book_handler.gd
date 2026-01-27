@@ -5,7 +5,7 @@ extends Node
 
 var terminating_characters: PackedStringArray = [" ", ".", ",", "
 "]
-var allowed_characters: String = "`1234567890-=~!@#$%^&*()_+qwertyuiop[]\\QWERTYUIOP{}|asdfghjkl;'ASDFGHJKL:\"zxcvbnm,./ZXCVBNM<>? 
+var allowed_characters: String = "`1234567890-=~!@#$%^&*()_+qwertyuiop[]\\QWERTYUIOP}{|asdfghjkl;'ASDFGHJKL:\"zxcvbnm,./ZXCVBNM<>? 
 "
 
 
@@ -54,7 +54,7 @@ func register_book(file_path_txt: String, book_title: String) -> void:
 	var metadata: Dictionary = {
 		"version": 1,
 		"title": book_title,
-		"pages": page_index + 1,
+		"pages": page_index,
 		"author":"",
 	}
 	var json_str: String = JSON.stringify(metadata)

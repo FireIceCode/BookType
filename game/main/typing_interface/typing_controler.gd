@@ -40,6 +40,8 @@ func setup_text(string: String) -> void:
 	incorrect_list = []
 	book_text = string
 	complete = false
+	if not smooth_caret == null:
+		smooth_caret.reset_position()
 	refresh_text()
 
 
@@ -99,6 +101,7 @@ func _input(event: InputEvent) -> void:
 			# Completion check
 			if character_index == book_text.length() - 1:
 				complete = true
+				await _timer(0.25)
 				emit_signal("typing_complete")
 			
 			character_index += 1
@@ -116,6 +119,7 @@ func _input(event: InputEvent) -> void:
 				# Completion check
 				if character_index == book_text.length() - 1:
 					complete = true
+					await _timer(0.25)
 					emit_signal("typing_complete")
 				
 				character_index += 1
@@ -159,3 +163,7 @@ func _get_character_position(index: int) -> Vector2:
 	var y: float = (get_line_offset(line))
 	
 	return Vector2(x, y)
+
+
+func _timer(seconds: float) -> void:
+	await get_tree().create_timer(seconds).timeout

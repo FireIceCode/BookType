@@ -1,0 +1,167 @@
+[gd_scene format=3 uid="uid://b2vdpeg06xfrk"]
+
+[ext_resource type="Script" uid="uid://d26u3utyrcxpq" path="res://game/main/typing_interface/typing_interface.gd" id="1_0860d"]
+[ext_resource type="Script" uid="uid://cb5eqotuq3bey" path="res://game/main/typing_interface/return_button.gd" id="2_5kdno"]
+[ext_resource type="Theme" uid="uid://dpl2do44yaxqr" path="res://game/themes/Dark.tres" id="2_6e2yo"]
+[ext_resource type="Script" uid="uid://cgl07dugsjk8f" path="res://game/main/typing_interface/typing_controler.gd" id="2_v0rtb"]
+[ext_resource type="Script" uid="uid://bfeogij7mmmf1" path="res://game/main/typing_interface/smooth_progress_bar.gd" id="3_6e2yo"]
+[ext_resource type="FontFile" uid="uid://bsg050005pfju" path="res://game/fonts/Sono-Medium.ttf" id="3_x3pcs"]
+[ext_resource type="Script" uid="uid://ciaey0scfxkr" path="res://game/main/typing_interface/smooth_scroll_container.gd" id="5_50335"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_5kdno"]
+bg_color = Color(0.1764706, 0.1764706, 0.1764706, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0860d"]
+bg_color = Color(0.3137255, 0.5647059, 0.5019608, 1)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_x3pcs"]
+bg_color = Color(1, 1, 1, 0.050980393)
+corner_radius_top_left = 5
+corner_radius_top_right = 5
+corner_radius_bottom_right = 5
+corner_radius_bottom_left = 5
+
+[node name="TypingInterface" type="Control" unique_id=2025689700]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_0860d")
+book_title = "Default Title"
+page_text = "Sample text for testing."
+
+[node name="Background" type="Panel" parent="." unique_id=1780821857]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("2_6e2yo")
+theme_type_variation = &"background"
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=593535609]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Topbar" type="PanelContainer" parent="VBoxContainer" unique_id=1304407945]
+layout_mode = 2
+size_flags_vertical = 4
+
+[node name="VBoxContainer" type="VBoxContainer" parent="VBoxContainer/Topbar" unique_id=11500559]
+layout_mode = 2
+
+[node name="SmoothProgressBar" type="ProgressBar" parent="VBoxContainer/Topbar/VBoxContainer" unique_id=97918004]
+custom_minimum_size = Vector2(0, 10)
+layout_mode = 2
+theme = ExtResource("2_6e2yo")
+theme_override_styles/background = SubResource("StyleBoxFlat_5kdno")
+theme_override_styles/fill = SubResource("StyleBoxFlat_0860d")
+step = 0.1
+show_percentage = false
+script = ExtResource("3_6e2yo")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/Topbar/VBoxContainer" unique_id=488164287]
+layout_mode = 2
+size_flags_vertical = 4
+alignment = 1
+
+[node name="ReturnButtonMarginContainer" type="MarginContainer" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer" unique_id=1542654652]
+custom_minimum_size = Vector2(100, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="Button" type="Button" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer/ReturnButtonMarginContainer" unique_id=1635084117]
+custom_minimum_size = Vector2(100, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource("2_6e2yo")
+text = "Return"
+script = ExtResource("2_5kdno")
+
+[node name="TitleLabel" type="Label" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer" unique_id=1108862742]
+layout_mode = 2
+size_flags_horizontal = 6
+theme = ExtResource("2_6e2yo")
+text = "Title"
+
+[node name="PageLabelMarginContainer" type="MarginContainer" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer" unique_id=917692457]
+custom_minimum_size = Vector2(100, 0)
+layout_mode = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="PageLabel" type="Label" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer/PageLabelMarginContainer" unique_id=932703280]
+layout_mode = 2
+size_flags_horizontal = 8
+theme = ExtResource("2_6e2yo")
+text = "0/0"
+horizontal_alignment = 2
+
+[node name="Body" type="MarginContainer" parent="VBoxContainer" unique_id=1833367591]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 5
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 5
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/Body" unique_id=267956751]
+layout_mode = 2
+alignment = 1
+
+[node name="Divider" type="Panel" parent="VBoxContainer/Body/HBoxContainer" unique_id=1103152276]
+custom_minimum_size = Vector2(5, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+theme_override_styles/panel = SubResource("StyleBoxFlat_x3pcs")
+
+[node name="SmoothScrollContainer" type="ScrollContainer" parent="VBoxContainer/Body/HBoxContainer" unique_id=184207834]
+custom_minimum_size = Vector2(750, 500)
+layout_mode = 2
+horizontal_scroll_mode = 0
+vertical_scroll_mode = 3
+script = ExtResource("5_50335")
+
+[node name="TypingLabel" type="RichTextLabel" parent="VBoxContainer/Body/HBoxContainer/SmoothScrollContainer" unique_id=1370903237 node_paths=PackedStringArray("smooth_progress_bar", "smooth_scroll_container")]
+clip_contents = false
+custom_minimum_size = Vector2(750, 500)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 2
+theme_override_constants/text_highlight_h_padding = 0
+theme_override_constants/text_highlight_v_padding = 0
+theme_override_fonts/normal_font = ExtResource("3_x3pcs")
+theme_override_font_sizes/normal_font_size = 24
+bbcode_enabled = true
+text = "TypingLabel"
+fit_content = true
+scroll_active = false
+autowrap_trim_flags = 0
+shortcut_keys_enabled = false
+meta_underlined = false
+hint_underlined = false
+script = ExtResource("2_v0rtb")
+smooth_progress_bar = NodePath("../../../../Topbar/VBoxContainer/SmoothProgressBar")
+smooth_scroll_container = NodePath("..")
+
+[node name="Divider2" type="Panel" parent="VBoxContainer/Body/HBoxContainer" unique_id=1245578536]
+custom_minimum_size = Vector2(5, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+theme_override_styles/panel = SubResource("StyleBoxFlat_x3pcs")
+
+[connection signal="pressed" from="VBoxContainer/Topbar/VBoxContainer/HBoxContainer/ReturnButtonMarginContainer/Button" to="VBoxContainer/Topbar/VBoxContainer/HBoxContainer/ReturnButtonMarginContainer/Button" method="_on_button_pressed"]

@@ -1,0 +1,64 @@
+[gd_scene format=3 uid="uid://dp451hvpy7nji"]
+
+[ext_resource type="Script" uid="uid://bcq4geggdnwyk" path="res://game/main/main_menu/book_selector_box.gd" id="1_trduw"]
+[ext_resource type="Theme" uid="uid://dpl2do44yaxqr" path="res://game/themes/Dark.tres" id="2_tg8t6"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_tg8t6"]
+content_margin_left = 0.0
+content_margin_top = 0.0
+content_margin_right = 0.0
+content_margin_bottom = 0.0
+bg_color = Color(0.1, 0.1, 0.1, 0.6)
+corner_radius_top_left = 10
+corner_radius_top_right = 10
+corner_radius_bottom_right = 10
+corner_radius_bottom_left = 10
+
+[node name="BookSelectorBox" type="MarginContainer" unique_id=940014575]
+custom_minimum_size = Vector2(200, 50)
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -100.0
+offset_right = 100.0
+offset_bottom = 50.0
+grow_horizontal = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 5
+theme_override_constants/margin_right = 5
+script = ExtResource("1_trduw")
+
+[node name="Background" type="Panel" parent="." unique_id=727513180]
+clip_contents = true
+layout_mode = 2
+theme = ExtResource("2_tg8t6")
+theme_override_styles/panel = SubResource("StyleBoxFlat_tg8t6")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="." unique_id=148195126]
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="HBoxContainer" unique_id=960364395]
+layout_mode = 2
+size_flags_horizontal = 0
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 5
+theme_override_constants/margin_right = 5
+theme_override_constants/margin_bottom = 5
+
+[node name="Button" type="Button" parent="HBoxContainer/MarginContainer" unique_id=826949978]
+custom_minimum_size = Vector2(75, 25)
+layout_mode = 2
+size_flags_horizontal = 0
+theme = ExtResource("2_tg8t6")
+text = "Type"
+
+[node name="Title" type="Label" parent="HBoxContainer" unique_id=78654079]
+layout_mode = 2
+size_flags_horizontal = 0
+theme = ExtResource("2_tg8t6")
+text = "Place"
+vertical_alignment = 1
+
+[connection signal="pressed" from="HBoxContainer/MarginContainer/Button" to="." method="_on_button_pressed"]

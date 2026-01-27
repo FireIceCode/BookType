@@ -1,7 +1,7 @@
 extends Panel
 class_name SmoothCaret
 
-@export var animation_speed: float = 20
+@export var animation_speed: float = 25
 
 var target_value: Vector2 = Vector2.ZERO
 var animated_value: Vector2 = Vector2.ZERO

@@ -10,7 +10,7 @@
 [ext_resource type="Script" uid="uid://bmjowt5qhpl6q" path="res://game/main/typing_interface/smooth_caret.gd" id="8_1dh2i"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_5kdno"]
-bg_color = Color(0.1764706, 0.1764706, 0.1764706, 1)
+bg_color = Color(0.09411765, 0.09411765, 0.09411765, 1)
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0860d"]
 bg_color = Color(0.3137255, 0.5647059, 0.5019608, 1)

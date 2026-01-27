@@ -2,14 +2,14 @@ extends Node
 
 @export var max_page_length: int = 750
 
+
 var terminating_characters: PackedStringArray = [" ", ".", ",", "
 "]
 var allowed_characters: String = "`1234567890-=~!@#$%^&*()_+qwertyuiop[]\\QWERTYUIOP{}|asdfghjkl;'ASDFGHJKL:\"zxcvbnm,./ZXCVBNM<>? 
 "
 
 
-# ----- Public Functions ----- #
-
+## Creates a directory containing metadata and pages from a txt file and title.
 func register_book(file_path_txt: String, book_title: String) -> void:
 	var book_text: String = FileAccess.get_file_as_string(file_path_txt)
 	if book_text == null:
@@ -52,6 +52,7 @@ func register_book(file_path_txt: String, book_title: String) -> void:
 	
 	# Create metadata JSON
 	var metadata: Dictionary = {
+		"version": 1,
 		"title": book_title,
 		"pages": page_index + 1,
 		"author":"",
@@ -60,11 +61,12 @@ func register_book(file_path_txt: String, book_title: String) -> void:
 	FileAccess.open(dir + "metadata.json", FileAccess.WRITE).store_string(json_str)
 
 
+# Adds a page into the specified directory with the specified text
 func _create_page(dir_path: String, page_index: int, page_text: String) -> void:
 	var page: FileAccess = FileAccess.open(dir_path + str(page_index) + ".txt", FileAccess.WRITE)
 	page.store_string(page_text)
 
-
+# Removes dissalowed characters from provided text.
 func _clean_text(text: String) -> String:
 	var index = 0
 	var length = text.length()

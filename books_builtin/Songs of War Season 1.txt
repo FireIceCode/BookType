@@ -428,7 +428,7 @@ Thalleous!?
 Thalleous is interested in the weapon Ria’s holding.
 
 THALLEOUS
-Is this weapon your handiwork, Senn? 
+Is this weapon your handiwork, Senn?
 
 Thalleous reaches for it, and she hands it over obediently.
 
@@ -1769,503 +1769,298 @@ THALLEOUS
 *concerned* Senn, wait.
 
 Timber suddenly starts getting even more agitated. Thalleous looks very worried. He runs ahead to the edge of the cliff. Smoke can be seen rising, and as the camera moves over the cliff all of Senn’s home village can be seen ablaze with fire.
-```
+
 SEASON 1, EPISODE 6
-Jalkar and Grim are walking through the Tabora Crags ravine. A few
-Ardoni come out of nowhere suddenly and stop them. They are
-seen to be Voltaris.
+
+Jalkar and Grim are walking through the Tabora Crags ravine. A few Ardoni come out of nowhere suddenly and stop them. They are seen to be Voltaris.
 
 ZINAIDA VOLTARIS
+We were beginning to think you had backed out on our arrangement, Jalkar.
 
-We were beginning to think you had backed
-out on our arrangement, Jalkar.
 JALKAR
-
 Yea... we had a few... delays along the way.
 
 Jalkar glares back at Grim, who shrugs.
+
 GRIM
 *shrugs-it-off grunt*
 
 Zinaida glares at Grim.
 
 ZINAIDA VOLTARIS
-
-I was informed you were to come alone. Your
-companion was not part of this agreement.
+I was informed you were to come alone. Your companion was not part of this agreement.
 
 Zinaida motions towards Grim.
 
 JALKAR
-
-Neither was the amount of trouble we ran into.
-I think compensation is in order.
+Neither was the amount of trouble we ran into. I think compensation is in order.
 
 Jalkar stares down Zinaida.
 
 JALKAR
+After all, this is a dragon egg we’re talking about.
 
-After all, this is a dragon egg we’re talking
-about.
-
-Jalkar points towards Grim who has been holding the Egg during
-this scene.
+Jalkar points towards Grim who has been holding the Egg during this scene.
 
 ZINAIDA VOLTARIS
-
-Have it your way mercenary. We’ll compensate
-for your extra “trouble,” but your companion is
-not part of the deal, the Voltaris will not pay a
-second share.
+Have it your way mercenary. We’ll compensate for your extra “trouble,” but your companion is not part of the deal, the Voltaris will not pay a second share.
 
 JALKAR
+Don’t worry your glowing little head about it, Grim is my problem. How much?
 
-Don’t worry your glowing little head about it,
-Grim is my problem. How much?
 ZINAIDA VOLTARIS
-
-I’m sure you’ll find the amount sufficient; now
-hand over the egg.
+I’m sure you’ll find the amount sufficient; now hand over the egg.
 
 Zinaida holds out his hand. Pause and tension.
 
 JALKAR
+I don’t think so. We’ll be collecting the reward first, thank you.
 
-I don’t think so. We’ll be collecting the reward
-first, thank you.
-
-More tension. Grim slowly lowers the egg down, signifying he’s
-freeing up his hands to fight.
+More tension. Grim slowly lowers the egg down, signifying he’s freeing up his hands to fight.
 
 ZINAIDA VOLTARIS
-
-Or we could just kill you, and forget the reward.
-Zinaida and two other Voltaris draw their weapons, but not Lucidius.
+Or we could just kill you, and forget the reward. Zinaida and two other Voltaris draw their weapons, but not Lucidius.
 
 LUCIDIUS VOLTARIS
-
-This could be unwise Zinaida. The mute one... I
-believe he is the Reaper.
+This could be unwise Zinaida. The mute one... I believe he is the Reaper.
 
 ZINAIDA VOLTARIS
-
-Shut it, Lucidius.
-Grim draws his scythe.
+Shut it, Lucidius. Grim draws his scythe.
 
 JALKAR
-
-Smart man, your second. The Reaper’s with
-me... has a debt to pay off. By my calculations,
-you’re outmatched.
+Smart man, your second. The Reaper’s with me... has a debt to pay off. By my calculations, you’re outmatched.
 
 ZINAIDA VOLTARIS
-
 Outmatched?
 
 Zinaida looks around at the three Voltaris beside him.
 
 ZINAIDA VOLTARIS
-
 *scoff* Kill them.
 
-Zinaida darts forward. Grim quickly activates his enchanted scythe
-and leaps forward as well. Jalkar fights Zinaida as Grim takes out
-two other Voltaris. Lucidius pulls out a weapon finally but Grim hits
-him in the chest knocking him down.
-Jalkar still fighting Zinaida, when suddenly he hits Jalkar back, raises
-his weapon and activates a Song. Small pebbles and rocks begin
-sliding towards Zinaida and swirling around him. Grim runs forward
-and tries to attack but the wall of rocks blocks his attack.
-
-Jalkar stands up and raises his knife, aims, and tosses it to the side.
-It is caught in the vortex, spins around the side and kills Zinaida from
-behind.
+Zinaida darts forward. Grim quickly activates his enchanted scythe and leaps forward as well. Jalkar fights Zinaida as Grim takes out two other Voltaris. Lucidius pulls out a weapon finally but Grim hits him in the chest knocking him down.
+Jalkar still fighting Zinaida, when suddenly he hits Jalkar back, raises his weapon and activates a Song. Small pebbles and rocks begin sliding towards Zinaida and swirling around him. Grim runs forward and tries to attack but the wall of rocks blocks his attack.
+Jalkar stands up and raises his knife, aims, and tosses it to the side. It is caught in the vortex, spins around the side and kills Zinaida from behind.
 
 ZINAIDA VOLTARIS
-
 *death noise*
 
 JALKAR
+I’ve always hated Ardoni and their blasted Songs.
 
-I’ve always hated Ardoni and their blasted
-Songs.
-
-As Zinaida dies, his Song forms next to his body and Jalkar picks it
-up.
+As Zinaida dies, his Song forms next to his body and Jalkar picks it up.
 
 JALKAR
-
 *happy* They do sell for a lot though.
 
 GRIM
-
 *happy grunt*
 
 JALKAR
+Well quit lookin’ so happy! Now we need to find a new buyer for this egg. Come on, someone in the Unyielding Legion should be able to find us one.
 
-Well quit lookin’ so happy! Now we need to find
-a new buyer for this egg. Come on, someone in
-the Unyielding Legion should be able to find us
-one.
-
-Jalkar and Grim continue forward. Camera lingers for a moment.
-Abbigails feet appear, then Sam walks up as well.
-Abbigail looks around, Sam starts barking.
-Abbigail goes over to Lucidius to find him still alive.
+Jalkar and Grim continue forward. Camera lingers for a moment. Abbigails feet appear, then Sam walks up as well. Abbigail looks around, Sam starts barking. Abbigail goes over to Lucidius to find him still alive.
 
 ABBIGAIL
-
 The two thieves, where were they heading?
 
 LUCIDIUS VOLTARIS
+*in pain* I don’t know... we were just sent to intercept them.
 
-*in pain* I don’t know... we were just sent to
-intercept them.
 Abbigail looks at him curiously.
 
 ABBIGAIL
-
 Are you an Ardoni?
 
 LUCIDIUS VOLTARIS
+Never seen an Ardoni before? *pained laugh* Well go on then, finish the job, girl.
 
-Never seen an Ardoni before? *pained laugh*
-Well go on then, finish the job, girl.
 Lucidius closes his eyes, but Abbigail stands up.
+
 ABBIGAIL
+I’m not here to kill you... I just want that dragon egg back.
 
-I’m not here to kill you... I just want that dragon
-egg back.
-
-A loaf of bread lands in Lucidius’s lap, and he looks up as Abbigail is
-heading off with Sam.
+A loaf of bread lands in Lucidius’s lap, and he looks up as Abbigail is heading off with Sam.
 
 LUCIDIUS VOLTARIS
-
-*raises his voice to be heard* They are heading
-north-east. Just follow the border of Conchord.
+*raises his voice to be heard* They are heading north-east. Just follow the border of Conchord.
 
 Abbigail looks back, nods and continues on.
-
-Transitions to Lucan in the Necromancer tunnels. He walks into a
-clearing and looks different directions, suddenly realizing he’s lost
-and doesn’t know which way to go.
-A zombie noise is heard from behind, and he whirls around to see a
-zombie slowly approaching.
+Transitions to Lucan in the Necromancer tunnels. He walks into a clearing and looks different directions, suddenly realizing he’s lost and doesn’t know which way to go.
+A zombie noise is heard from behind, and he whirls around to see a zombie slowly approaching.
 
 LUCAN
-
 Oh great!
 
 Lucan draws a weapon, then stops.
 
 LUCAN
-
 Wait...
 
-He puts his weapon away and pulls out the Wither skeleton skull.
-The zombie stops and cocks its head, looking at it confused.
+He puts his weapon away and pulls out the Wither skeleton skull. The zombie stops and cocks its head, looking at it confused.
 
 LUCAN
-
 Yeah... that’s right.
 
-Lucan smiles for a moment seeing it’s working, then another
-zombie comes up behind him. He turns around and stops that one.
-The first zombie starts approaching again.
-He steps back and tries to control both.
-A third one grabs at him from behind. He kicks at it and pulls out his
-sword.
-Even more zombies and skeletons appear. A creeper hiss is heard
-and a creeper enters the room.
-
-Suddenly a Wither noise is heard and a figure drops down beside
-Lucan.
-He spins around and grates his weapon along the ground. The
-mobs back up a few steps. The Necromancer pulls out a torch and
-shuns them away. They retreat into the tunnels.
-The Necromancer turns towards Lucan, who is still standing
-somewhat in shock.
+Lucan smiles for a moment seeing it’s working, then another zombie comes up behind him. He turns around and stops that one. The first zombie starts approaching again. He steps back and tries to control both. A third one grabs at him from behind. He kicks at it and pulls out his sword. Even more zombies and skeletons appear. A creeper hiss is heard and a creeper enters the room.
+Suddenly a Wither noise is heard and a figure drops down beside Lucan. He spins around and grates his weapon along the ground. The mobs back up a few steps. The Necromancer pulls out a torch and shuns them away. They retreat into the tunnels.
+The Necromancer turns towards Lucan, who is still standing somewhat in shock.
 
 XARIA
-
 I expected you would have learned by now.
 
 Lucan waits, not wanting to reveal who he is.
+
 XARIA
 I presume you’re the new rookie.
 
-Lucan realizes he needs to answer, so does so without actually
-speaking.
+Lucan realizes he needs to answer, so does so without actually speaking.
 
 LUCAN
-
 *affirmative* Mhm.
 
 XARIA
-
 And I imagine you haven’t killed the Felina girl.
 
 LUCAN
 *negative* Mm-mm.
-XARIA
-
-What happened to the undead under your
-control?
-
-Lucan realizes there’s no simple way to answer this in the yes or no
-without speaking. He raises his arms in defeat.
-LUCAN
-
-*makes the “I don’t know” sound without
-opening his mouth* Mmmmmm.
 
 XARIA
+What happened to the undead under your control?
 
-There’s no need to be embarrassed about
-failing the mission- at least you survived.
-However, the Felina is more dangerous and
-resourceful than we anticipated. We’ll have to
-report this to his Lordship.
-
-Xaria leaves, and Lucan follows, thankful he wasn’t required to
-speak.
+Lucan realizes there’s no simple way to answer this in the yes or no without speaking. He raises his arms in defeat.
 
 LUCAN
+*makes the “I don’t know” sound without opening his mouth* Mmmmmm.
 
+XARIA
+There’s no need to be embarrassed about failing the mission- at least you survived. However, the Felina is more dangerous and resourceful than we anticipated. We’ll have to report this to his Lordship.
+
+Xaria leaves, and Lucan follows, thankful he wasn’t required to speak.
+
+LUCAN
 *sigh of relief*
 
-Later he walks out into a large cavern and sees the Necrobase.
-Large pillars of lava pour from the ceiling and catwalks are
-everywhere. Down below he spots armies of undead being held in
-cages. At the far end of the room is a platform, and on it he sees a
-hooded figure turned away.
-The figure turns around and walks towards the edge of the platform
-and reveals himself as the Necrolord. He raises a staff with the skull
-of a Wither on top, eyes glowing bright white. The zombies and
-
-skeletons in the area begin getting louder and excited. Lucan stares
-at the Necrolord, worried.
-They make eye contact as an eerie bass noise occurs, and Lucan
-begins backing up slowly when suddenly Xaria interrupts.
+Later he walks out into a large cavern and sees the Necrobase. Large pillars of lava pour from the ceiling and catwalks are everywhere. Down below he spots armies of undead being held in cages. At the far end of the room is a platform, and on it he sees a hooded figure turned away.
+The figure turns around and walks towards the edge of the platform and reveals himself as the Necrolord. He raises a staff with the skull of a Wither on top, eyes glowing bright white. The zombies and skeletons in the area begin getting louder and excited. Lucan stares at the Necrolord, worried.
+They make eye contact as an eerie bass noise occurs, and Lucan begins backing up slowly when suddenly Xaria interrupts.
 
 XARIA
-
-You, up there! Come with us. We have a new
-mission.
+You, up there! Come with us. We have a new mission.
 
 Lucan looks around the place one last time, and follows Xaria out.
-The fires of the necrobase transition into the fires of burning
-Sendaria.
-Senn is running across the shallows towards his home.
-THALLEOUS
+The fires of the necrobase transition into the fires of burning Sendaria. Senn is running across the shallows towards his home.
 
+THALLEOUS
 Wait Senn!
 
 Senn doesn’t stop. Thalleous teleports in front of him and grabs him.
 
 SENN
-
 Let go of me!
 
 THALLEOUS
 Whoever did this could still be here!
+
 Senn stops struggling as he realizes what Thalleous means.
 
 THALLEOUS
-
 *firm* Wait here Senn. I will check for survivors.
 
-Thalleous draws his sword and walks into the burning village. There
-are dead Ardoni bodies around.
-Senn waits a moment, but can’t wait any longer. He hurries towards
-where Ria stays, and looks inside. The place is a mess.
-Cuts to Timber who’s waiting back on the other side of the shallows
-just outside the village. He whinnies nervously.
-Back to Senn, a hand grabs him suddenly and he whirls around.
+Thalleous draws his sword and walks into the burning village. There are dead Ardoni bodies around. Senn waits a moment, but can’t wait any longer. He hurries towards where Ria stays, and looks inside. The place is a mess.
+Cuts to Timber who’s waiting back on the other side of the shallows just outside the village. He whinnies nervously. Back to Senn, a hand grabs him suddenly and he whirls around.
 
 THALLEOUS
+We have to leave- now. We will go to Ataraxia-you will be safer there.
 
-We have to leave- now. We will go to Ataraxia-
-you will be safer there.
-
-Thalleous and Senn hurry out of the house and the suspense is
-rising. They both stop suddenly. From out of the flames, a few
-Voltaris walk, weapons drawn.
+Thalleous and Senn hurry out of the house and the suspense is rising. They both stop suddenly. From out of the flames, a few Voltaris walk, weapons drawn.
 
 THALLEOUS
-
 Run Senn, now!
 
-Senn starts sprinting. Three Voltaris charge but Thalleous holds
-them off and kills fights them, killing two.
-Timber starts running to meet Senn. Suddenly a Voltaris gets in front
-of Senn and attacks him.
-Thalleous kills the final of the three that initially charged him, when
-a fourth now attacks him with a spear. This one is more dangerous
-and better trained.
-Back with Senn, the Voltaris almost catches up to him before
-Timber arrives and kicks the Voltaris, killing him. Senn jumps on top
-
-of Timber and is about to ride back towards Thalleous when a few
-more Voltaris block his way.
-Thalleous finishes off the spear-wielder a moment later, using the
-spear to stab down into the body. Thalleous seems a bit worn out
-now as he also notices the Voltaris are now almost completely
-surrounding him.
+Senn starts sprinting. Three Voltaris charge but Thalleous holds them off and kills fights them, killing two. Timber starts running to meet Senn. Suddenly a Voltaris gets in front of Senn and attacks him. Thalleous kills the final of the three that initially charged him, when a fourth now attacks him with a spear. This one is more dangerous and better trained.
+Back with Senn, the Voltaris almost catches up to him before Timber arrives and kicks the Voltaris, killing him. Senn jumps on top of Timber and is about to ride back towards Thalleous when a few more Voltaris block his way.
+Thalleous finishes off the spear-wielder a moment later, using the spear to stab down into the body. Thalleous seems a bit worn out now as he also notices the Voltaris are now almost completely surrounding him.
 A familiar voice calls from behind Thalleous.
 
 TYGREN
-
 Thalleous Sendaris! We meet again!
 
 Thalleous turns slowly to face Tygren.
+
 TYGREN
+I noticed you moved the Prime Songs. I need them... can you not see? Look.... look what you made me do.
 
-I noticed you moved the Prime Songs. I need
-them... can you not see? Look.... look what you
-made me do.
+Tygren motions around to the burnt village insultingly, not seeming to care that he just killed everyone there.
 
-Tygren motions around to the burnt village insultingly, not seeming
-to care that he just killed everyone there.
 THALLEOUS
+I have fought against your kind for two hundred years Tygren. Whatever the Voltaris are planning...
 
-I have fought against your kind for two hundred
-years Tygren. Whatever the Voltaris are
-planning...
 Thalleous raises his sword.
 
 THALLEOUS
-
 I will stop it.
 
-He begins walking backwards slowly towards Senn and Timber,
-who await nervously.
+He begins walking backwards slowly towards Senn and Timber, who await nervously.
 
 TYGREN
-
 You won’t escape this time old man.
 
-Tygren motions to attack and the Voltaris charge forward.
-Thalleous waits until they’re upon him, then activates a shockwave
-Song sending the Voltaris flying.
-He runs forward and kills one of the survivors, then teleports to the
-side and kills the last.
-Tygren is now nearly upon Thalleous, and they fight. The intensity is
-strong once again between the two, but Thalleous uses his
-shockwave Song once more, which Tygren dries to block with his
-sword but it still sends him flying back.
-Thalleous starts to run away as Tygren gets back up and sees this.
-Senn gets ready to receive Thalleous.
-Tygren takes a few steps forward to where the dead Voltaris is
-laying with the spear still out of his back, and yanks the spear out
-not caring that the Voltaris was his clan member.
-Thalleous turns and sees this as he’s running, when Tygren then
-throws the spear. Tygren continues running but starts his
-teleporting Song, and barely manages to teleport a moment
-before the spear hits him.
-He arrives near Senn now, and nearly makes it before the spear
-continues flying- straight into Thalleous, causing him to stumble
-and stagger.
-
-Timber and Senn are in shock, Tygren merely smiles. We see
-Thalleous kneeling, spear completely through him as time slows
-and the fire continues burning around him. He drops his sword and
-it lands on the ground beside him.
-Timber lets out a pained neigh and rears up before running off.
-Thalleous falls over, dead, as Tygren approaches.
-The Voltaris turn towards Timber and Senn, who ride off.
-Tygren reaches down and takes Thalleous’ sword and smiles.
-Timber and Senn ride away into the night.
-To be continued.
+Tygren motions to attack and the Voltaris charge forward. Thalleous waits until they’re upon him, then activates a shockwave Song sending the Voltaris flying. He runs forward and kills one of the survivors, then teleports to the side and kills the last.
+Tygren is now nearly upon Thalleous, and they fight. The intensity is strong once again between the two, but Thalleous uses his shockwave Song once more, which Tygren dries to block with his sword but it still sends him flying back. Thalleous starts to run away as Tygren gets back up and sees this. Senn gets ready to receive Thalleous.
+Tygren takes a few steps forward to where the dead Voltaris is laying with the spear still out of his back, and yanks the spear out not caring that the Voltaris was his clan member.
+Thalleous turns and sees this as he’s running, when Tygren then throws the spear. Tygren continues running but starts his teleporting Song, and barely manages to teleport a moment before the spear hits him.
+He arrives near Senn now, and nearly makes it before the spear continues flying-straight into Thalleous, causing him to stumble and stagger.
+Timber and Senn are in shock, Tygren merely smiles. We see Thalleous kneeling, spear completely through him as time slows and the fire continues burning around him. He drops his sword and it lands on the ground beside him. Timber lets out a pained neigh and rears up before running off. Thalleous falls over, dead, as Tygren approaches. The Voltaris turn towards Timber and Senn, who ride off. Tygren reaches down and takes Thalleous’ sword and smiles. Timber and Senn ride away into the night.
 
 SEASON 1, EPISODE 7
 
-Lucan, Xaria, and Necromancers are sneaking through the woods.
-They come to a slight clearing and Lucan looks around trying to
-take in his bearings.
+Lucan, Xaria, and Necromancers are sneaking through the woods. They come to a slight clearing and Lucan looks around trying to take in his bearings.
 
 XARIA
-
 Time to put an end to this nuisance. Burn it.
-Xaria looks towards Lucan, so Lucan looks around in his
-Necromancer robes and pulls out a flint and steel. He walks over to
-the tree, then looks up realizing it’s Niika’s tree fort.
-He turns around suddenly wondering what to do as the
-Necromancers stand guard. He holds it and prepares to strike the
-tree, then feigns a miss.
+
+Xaria looks towards Lucan, so Lucan looks around in his Necromancer robes and pulls out a flint and steel. He walks over to the tree, then looks up realizing it’s Niika’s tree fort. He turns around suddenly wondering what to do as the Necromancers stand guard. He holds it and prepares to strike the tree, then feigns a miss.
 
 LUCAN
+*putting on a fake generic Necromancer voice* Oh... would you look at that. My flint and steel appears to be broken.
 
-*putting on a fake generic Necromancer
-voice* Oh... would you look at that. My flint and
-steel appears to be broken.
 XARIA
-
 Here, take mine.
 
-Xaria tosses Lucan a second flint and steel. Lucan grumbles, now
-that his attempt failed. Xaria starts watching Lucan more
-suspiciously now.
+Xaria tosses Lucan a second flint and steel. Lucan grumbles, now that his attempt failed. Xaria starts watching Lucan more suspiciously now.
 
 LUCAN
-
 *grumbles*
 
-Lucan is preparing to light it, and the music is tense.
-Suddenly Xaria snatches it out of his hand and lights the tree and
-the music kicks in. He turns towards Lucan and begins questioning
-him.
+Lucan is preparing to light it, and the music is tense. Suddenly Xaria snatches it out of his hand and lights the tree and the music kicks in. He turns towards Lucan and begins questioning him.
 
 XARIA
+What is your problem rookie?! Or should I say-traitor!
 
-What is your problem rookie?! Or should I say-
-traitor!
-
-Xaria pulls Lucan’s hood back and takes off his skeleton mask,
-revealing Lucan.
+Xaria pulls Lucan’s hood back and takes off his skeleton mask, revealing Lucan.
 
 XARIA
-
 I knew it!
 
-Xaria, the Necromacners, and Lucan all draw swords. Lucan is
-surrounded as the tree continues to burn.
+Xaria, the Necromacners, and Lucan all draw swords. Lucan is surrounded as the tree continues to burn.
 
 XARIA
+I knew there was something wrong about you the moment I found you. I should have let the undead kill you right then. But... perhaps this death will be more ceremonious. You will watch helplessly as everything you fought for is destroyed and burned. And after we finish, we will find the Felina... and we will kill her.
 
-I knew there was something wrong about you
-the moment I found you. I should have let the
-undead kill you right then. But... perhaps this
-death will be more ceremonious. You will
-watch helplessly as everything you fought for
-is destroyed and burned. And after we finish,
-we will find the Felina... and we will kill her.
-Lucan attacks uncontrollably, but is quickly thrown down and
-overwhelmed by Xaria’s sword fighting. Lucan is injured and slowly
-looks up as the tree continues to burn and Xaria draws near.
+Lucan attacks uncontrollably, but is quickly thrown down and overwhelmed by Xaria’s sword fighting. Lucan is injured and slowly looks up as the tree continues to burn and Xaria draws near.
 
 XARIA
+Perhaps we’ll feed her to the spiders-they have quite the appetite.
 
-Perhaps we’ll feed her to the spiders- they have
-quite the appetite.
-
-Suddenly an arrow hits and kills a Necromancer and then Niika
-drops down out of a nearby tree and kills two Necromancers. Lucan
-kick’s Xaria’s feet as he is distracted and rolls away and gets up.
-Niika fights for a little bit and kills the other random Necromancer.
-Xaria flees into the woods.
-
-She turns around and almost attacks Lucan.
+Suddenly an arrow hits and kills a Necromancer and then Niika drops down out of a nearby tree and kills two Necromancers. Lucan kick’s Xaria’s feet as he is distracted and rolls away and gets up. Niika fights for a little bit and kills the other random Necromancer. Xaria flees into the woods. She turns around and almost attacks Lucan.
 
 LUCAN
-
 Wait Niika it’s me!
 
 Niika stops.
 
 NIIKA
-
 Lucan?!
 
 They both look up at the fire going up the tree fort.
@@ -2273,83 +2068,62 @@ They both look up at the fire going up the tree fort.
 NIIKA
 All of my information is up there!
 
-She begins climbing the tree, but Lucan grabs her and pulls her
-down.
+She begins climbing the tree, but Lucan grabs her and pulls her down.
 
 NIIKA
-
 *annoyed* Hey!
 
 LUCAN
-
 There’s no time, we have to get across the river!
-Niika looks up one last time as her tree fort is now on fire. She turns
-away and they run to the shoreline. The fire is now roaring and they
-have to yell somewhat to be heard.
-NIIKA
 
+Niika looks up one last time as her tree fort is now on fire. She turns away and they run to the shoreline. The fire is now roaring and they have to yell somewhat to be heard.
+
+NIIKA
 Lucan wait, I can’t-
-LUCAN
 
-You’re not afraid of heights but you’re scared of
-jumping in the water?!
+LUCAN
+You’re not afraid of heights but you’re scared of jumping in the water?!
 
 NIIKA
+I can’t swim! Felinas hate water, Lucan, we hate-
 
-I can’t swim! Felinas hate water, Lucan, we
-
-hate-
 Lucan shoves Niika into the river.
 
 NIIKA
+*a short scream as you’re pushed into the water*
 
-*a short scream as you’re pushed into the
-water*
-
-Lucan dives in as well, and Niika climbs on top of Lucan who’s
-struggling to stay above the water.
+Lucan dives in as well, and Niika climbs on top of Lucan who’s struggling to stay above the water.
 
 LUCAN
 Ow, watch the claws!
 
-They swim to the far bank and Niika quickly jumps to land and
-hurries further away from the shore a bit and shakes some of the
-water off.
+They swim to the far bank and Niika quickly jumps to land and hurries further away from the shore a bit and shakes some of the water off.
 
 NIIKA
-
 Don’t you ever throw me in the water again!
 
 Lucan sits down beside her.
 
 LUCAN
-
 Yeah, yeah.
 
-They look out across the river at the burning jungle on the far side.
-The fire sparkles elegantly across the river at night.
-LUCAN
+They look out across the river at the burning jungle on the far side. The fire sparkles elegantly across the river at night.
 
+LUCAN
 Sorry about your tree fort.
 
 Niika waits a moment.
 
 NIIKA
+I’m not worried about the tree fort, I never liked that one anyway.
 
-I’m not worried about the tree fort, I never liked
-that one anyway.
 She waits another moment.
 
 NIIKA
-
-We lost all that information though. All my
-records, my maps, my notes... everything I’ve
-learned about the Necromancers.
+We lost all that information though. All my records, my maps, my notes... everything I’ve learned about the Necromancers.
 
 LUCAN
-
-We didn’t lose all of it. That information is still
-with you... and with me.
+We didn’t lose all of it. That information is still with you... and with me.
 
 Niika looks up at Lucan.
 
@@ -2365,551 +2139,343 @@ Directly under Mount Tempus.
 She stands up excitedly.
 
 NIIKA
+Of course! No miner would ever go near there because of all the lava! It’s the perfect place for a hiding spot.
 
-Of course! No miner would ever go near there
-because of all the lava! It’s the perfect place for
-a hiding spot.
 Lucan stands up as well.
 
 LUCAN
+I need to report this to Felden. I guess this is um... where we part ways...
 
-I need to report this to Felden. I guess this is
-um... where we part ways...
-
-After a brief pause, Niika tries to make up an excuse to accompany
-him.
+After a brief pause, Niika tries to make up an excuse to accompany him.
 
 NIIKA
+I... I should accompany you to Felora. They might want some of my information as well. not to mention you might need my help again.
 
-I... I should accompany you to Felora. They
-might want some of my information as well.
-Not to mention you might need my help again.
-Lucan smiles at this and the scene cuts to Senn riding Timber
-through the woods.
-A branch hits his face and he falls off Timber and lands with a
-thump behind him.
+Lucan smiles at this and the scene cuts to Senn riding Timber through the woods. A branch hits his face and he falls off Timber and lands with a thump behind him.
 
 SENN
+*hit by a branch and then falls with an umph a second later*
 
-*hit by a branch and then falls with an umph a
-second later*
-
-Timber stops and comes back to Senn and nuzzles him as he gets
-back up.
+Timber stops and comes back to Senn and nuzzles him as he gets back up.
 
 SENN
+*tired* We have to keep going- we need to get help.
 
-*tired* We have to keep going- we need to get
-help.
-
-Senn climbs back on Timber and spots a small town through the
-trees.
-Cuts to some quick shots of Timber racing into town and nearly
-knocking people over.
+Senn climbs back on Timber and spots a small town through the trees.
+Cuts to some quick shots of Timber racing into town and nearly knocking people over.
 
 HOGTOWN CIVILIAN 1
-
 Slow down you moron!
 
-Senn quickly ties Timber up and hurries through the town to what
-appears as the town hall. He bursts open the door hurriedly.
+Senn quickly ties Timber up and hurries through the town to what appears as the town hall. He bursts open the door hurriedly.
 
 SENN
+*desperate and still in shock* Help! Somebody-I need help. My village was attacked. It’s not far, we need to look for survivors!
 
-*desperate and still in shock* Help! Somebody-
-I need help. My village was attacked. It’s not far,
+The place is revealed as a tavern. Everyone is looking at Senn awkwardly. The bartender doesn’t seem to even understand.
 
-we need to look for survivors!
-
-The place is revealed as a tavern. Everyone is looking at Senn
-awkwardly. The bartender doesn’t seem to even understand.
 HOGTOWN BARTENDER
-
-Yeah we don’t sell that here- buy a drink or get
-out.
+Yeah we don’t sell that here- buy a drink or get out.
 
 Cuts to Senn back outside. He’s walking through the street solemnly.
 
 SENN
-
 Anyone...? Please...
+
 He accidentally bumps into a passerby.
 
 HOGTOWN CIVILIAN 2
-
 Watch where you’re walkin’!
 
-He sinks down onto his knees and puts his head in his hands nearly
-on the verge of tears as things are finally starting to sink in.
+He sinks down onto his knees and puts his head in his hands nearly on the verge of tears as things are finally starting to sink in.
 
 SENN
 *sad* They’re all gone...
 
 He suddenly frowns. Cuts to him untying Timber.
+
 SENN
+*serious* We’re not going back to Sendaria... there’s nothing left for us. Thalleous spoke of Ataraxia... our mission now is to find the place and figure out why he wanted us to go there.
+Some commotion is heard which distracts Senn. He ties Timber back up and goes to investigate. There are some people near the edge of town. A pig walks up to Senn and sniffs and oinks at him. Senn gets up and goes towards the crowd.
 
-*serious* We’re not going back to Sendaria...
-there’s nothing left for us. Thalleous spoke of
-Ataraxia... our mission now is to find the place
-and figure out why he wanted us to go there.
-Some commotion is heard which distracts Senn. He ties Timber
-back up and goes to investigate.
-There are some people near the edge of town. A pig walks up to
-Senn and sniffs and oinks at him.
-
-Senn gets up and goes towards the crowd.
 SENN
-
 What’s going on?
 
 One of the people in the crowd responds.
 
 HOGTOWN CIVILIAN 1
-
-One of them Magnorites is on the edge of our
-town. Been stirrin’ up trouble with the local folk−
-absolute menace I tell you, the lot of ‘em.
+One of them Magnorites is on the edge of our town. Been stirrin’ up trouble with the local folk−absolute menace I tell you, the lot of ‘em.
 
 SENN
-
 Well, have you tried asking it to leave?
-HOGTOWN CIVILIAN 1
-
-Like anyone’s dumb enough to go near that
-thing!
-
-Farmer throws an empty glass bottle towards it. It hits the tree and
-shatters.
 
 HOGTOWN CIVILIAN 1
+Like anyone’s dumb enough to go near that thing!
 
-I don’t think you belong here either, eh? Why
-don’t you get that Magnorite to leave with you?
-Senn looks around to the villagers who are eyeing him
-uncomfortably as well.
+Farmer throws an empty glass bottle towards it. It hits the tree and shatters.
+
+HOGTOWN CIVILIAN 1
+I don’t think you belong here either, eh? Why don’t you get that Magnorite to leave with you?
+
+Senn looks around to the villagers who are eyeing him uncomfortably as well.
 
 SENN
-
 Fine. I will.
 
-He frowns and goes to the tree and walks around the far side of it.
-Slow suspense as the large and dangerous Magnorite comes into
-view.
+He frowns and goes to the tree and walks around the far side of it. Slow suspense as the large and dangerous Magnorite comes into view.
+The Magnorite is leaning against the tree reading a book. He looks up innocently and happily as Senn approaches.
 
-The Magnorite is leaning against the tree reading a book. He looks
-up innocently and happily as Senn approaches.
 IGNEOUS
-
-Oh hello there! I hope you don’t mind if I read
-here.
+Oh hello there! I hope you don’t mind if I read here.
 
 SENN
-
-Uh... well I don’t mind... but I think the people
-here want you to leave.
+Uh... well I don’t mind... but I think the people here want you to leave.
 
 He stands up suddenly.
 
 IGNEOUS
-
-Ah... pity. *sigh* It’s difficult to find a place to
-catch up on my reading. Been forced to travel
-my whole life.
+Ah... pity. *sigh* It’s difficult to find a place to catch up on my reading. Been forced to travel my whole life.
 
 SENN
+Hang on... would you, by chance, know where Ataraxia is?
 
-Hang on... would you, by chance, know where
-Ataraxia is?
+In the middle of this next sentence, another bottle flies into Igneous and breaks apart on him. He doesn’t even notice.
 
-In the middle of this next sentence, another bottle flies into Igneous
-and breaks apart on him. He doesn’t even notice.
 IGNEOUS
-
-Never heard of it. It appears you need a map!
-But you’ll never find one here... this town is too
-small, and rather lacking in the educational
-department if I might add.
-
+Never heard of it. It appears you need a map! But you’ll never find one here... this town is too small, and rather lacking in the educational department if I might add.
 Senn is surprised when the bottle breaks apart on him.
 
 SENN
 Did you- isn’t that bothering you?
+
 IGNEOUS
+Oh no- I’m used to it. Hey, you know what, why don’t we travel to Biggerton? It’s just up the road. Surely they have a map available for purchase.
 
-Oh no- I’m used to it. Hey, you know what, why
-don’t we travel to Biggerton? It’s just up the
-road. Surely they have a map available for
-purchase.
-
-Another bottle breaks apart on him. Senn glares at the Hogtown
-farmers.
+Another bottle breaks apart on him. Senn glares at the Hogtown farmers.
 
 SENN
+Yeah, getting out of here sounds like a good idea. I’ll grab my horse.
 
-Yeah, getting out of here sounds like a good
-idea. I’ll grab my horse.
 IGNEOUS
-
-Oh you have a horse! I can’t ride horses
-because I’m too heavy. But wait! We haven’t
-been introduced. My name’s Igneous... and
-you?
+Oh you have a horse! I can’t ride horses because I’m too heavy. But wait! We haven’t been introduced. My name’s Igneous... and you?
 
 A rock hits Igneous and deflects harmlessly.
 
 SENN
-
 Senn.
 
 IGNEOUS
+It’ll be great to have some company on the road, Senn! You see, I’ve been alone for a while and have had no one to talk to so I mostly just read books or descant with animals but that’s rarely an enjoyable experience because the animals don’t actually talk back so the conversation is often very one-sided...
 
-It’ll be great to have some company on the
-road, Senn! You see, I’ve been alone for a while
-
-and have had no one to talk to so I mostly just
-read books or descant with animals but that’s
-rarely an enjoyable experience because the
-animals don’t actually talk back so the
-conversation is often very one-sided...
-
-His voice fades out as the scene changes back to the Tabora Crags.
-Jalkar and Grim are walking along. In front of them some ender
-particles form and start swirling.
+His voice fades out as the scene changes back to the Tabora Crags. Jalkar and Grim are walking along. In front of them some ender particles form and start swirling.
 
 JALKAR
-
 Get down!
 
-Jalkar motions to Grim and they both hurry behind a nearby rock.
-An enderman teleporting sound is heard. Jalkar is a bit quiet as to
-not be heard.
+Jalkar motions to Grim and they both hurry behind a nearby rock. An enderman teleporting sound is heard. Jalkar is a bit quiet as to not be heard.
 
 JALKAR
-
 *quiet* An enderman. Don’t look at it, Grim.
-They wait for a moment and the camera holds still. It is very quiet.
-Suddenly its feet can be seen walking past them. The music is
-suspenseful. It slowly passes.
+
+They wait for a moment and the camera holds still. It is very quiet. Suddenly its feet can be seen walking past them. The music is suspenseful. It slowly passes.
 
 JALKAR
-
 Come on!
 
-Jalkar starts hurrying. Grim follows. Grim stops for a second, and
-slowly turns around to peek. He finishes turning around, but the
-enderman is gone. He turns back around and the enderman is in
-front of him and shrieks.
-
-It hits Grim off the terrace and he falls down a bit and lands on the
-lower outcrop.
+Jalkar starts hurrying. Grim follows. Grim stops for a second, and slowly turns around to peek. He finishes turning around, but the enderman is gone. He turns back around and the enderman is in front of him and shrieks.
+It hits Grim off the terrace and he falls down a bit and lands on the lower outcrop.
 
 GRIM
-
 *pained grunt*
 
 JALKAR
-
 Grim!
 
-Jalkar turns around and sets the egg down and hurries forward.
-The enderman turns, and teleports behind Jalkar and grabs the
-egg. Jalkar leaps for it and holds onto it, preventing the enderman
-from teleporting. It spins around and tries to fling Jalkar off, who
-hangs on. It shrieks at Jalkar trying to scare him.
-Grim stands back up painfully, spins around and throws his Scythe,
-which whirls towards the enderman, causing him to let go and
-teleport away.
+Jalkar turns around and sets the egg down and hurries forward. The enderman turns, and teleports behind Jalkar and grabs the egg. Jalkar leaps for it and holds onto it, preventing the enderman from teleporting. It spins around and tries to fling Jalkar off, who hangs on. It shrieks at Jalkar trying to scare him.
+Grim stands back up painfully, spins around and throws his Scythe, which whirls towards the enderman, causing him to let go and teleport away.
 Jalkar picks up Grim’s scythe and tosses it back to him.
 
 JALKAR
+This job has already become far more trouble than it was worth. Let’s hurry and get out of here.
 
-This job has already become far more trouble
-than it was worth. Let’s hurry and get out of
-here.
-
-Grim starts trying to climb, but is injured from the Enderman. He
-struggles.
+Grim starts trying to climb, but is injured from the Enderman. He struggles.
 
 JALKAR
-
 Oh come on Grim, put your back into it!
 
 GRIM
 *impatient and pained growl*
 
-Jalkar reaches to take Grim’s hand. Just before their hands meet
-an arrow flies into the back of Grim and he falls further down the
-cliff and lands on a small outcrop with another painful thump.
-Jalkar looks up to see Abbigail and Sam at the bottom of the ravine
-again.
-Grim staggers up in pain and looks up at Jalkar.
+Jalkar reaches to take Grim’s hand. Just before their hands meet an arrow flies into the back of Grim and he falls further down the cliff and lands on a small outcrop with another painful thump. Jalkar looks up to see Abbigail and Sam at the bottom of the ravine again. Grim staggers up in pain and looks up at Jalkar.
+
 JALKAR
+Sorry mate, but I can’t be slowed down any more.
 
-Sorry mate, but I can’t be slowed down any
-more.
-
-Jalkar disappears over the top of the cliff.
-Grim reaches a hand up in Jalkar’s direction as he disappears.
+Jalkar disappears over the top of the cliff. Grim reaches a hand up in Jalkar’s direction as he disappears.
 
 GRIM
-
 *gasp-grunt*
 
-Grim then turns around and faces Abbigail. He is angry now, and
-rips the arrow out of his back.
-Abbigail lets another arrow fly. Grim spins his scythe around and
-cuts the arrow in half out of the air.
-Abbigail’s eyes widen in surprise.
-Grim leaps off the outcrop and falls into the water near Abbigail.
-
-Abbigail backs up worriedly she aims the bow at the water, but
-doesn’t know from where Grim is about to appear.
-Sam starts barking behind her and she whirls around as Grim
-jumps up out of the water and blocks her next arrow. He spins
-forward with his scythe and Abbigail ducks just in time as she draws
-her sword.
-She attacks but he blocks that as well and strikes at her as she darts
-out of the way and the scythe glances off the rock with a loud clang.
-Abbigail gets at a distance and prepares for the next attack. Sam
-goes around behind Grim to confuse him. Grim charges Abbigail
-but Sam leaps on him and bites his leg. When he turns around to
-strike Sam, Abbigail lunges forward and pushes Grim off the next
-ledge.
-Grim lands and his scythe is further ahead. He rolls over and looks
-up at Abbigail who has another arrow drawn.
-Grim covers his face and prepares to be killed.
-A loaf of bread lands on his lap. He looks up. Abbigail is walking off.
-Suddenly Sam starts barking, and Abbigail turns around expecting
-Grim to be attacking again.
-At the far end of the canyon, three endermen stand and watch.
-They make eye contact. Then one by one, each teleports away.
-Abbigail remains confused.
-To be continued.
+Grim then turns around and faces Abbigail. He is angry now, and rips the arrow out of his back. Abbigail lets another arrow fly. Grim spins his scythe around and cuts the arrow in half out of the air. Abbigail’s eyes widen in surprise. Grim leaps off the outcrop and falls into the water near Abbigail. Abbigail backs up worriedly she aims the bow at the water, but doesn’t know from where Grim is about to appear.
+Sam starts barking behind her and she whirls around as Grim jumps up out of the water and blocks her next arrow. He spins forward with his scythe and Abbigail ducks just in time as she draws her sword.
+She attacks but he blocks that as well and strikes at her as she darts out of the way and the scythe glances off the rock with a loud clang. Abbigail gets at a distance and prepares for the next attack. Sam goes around behind Grim to confuse him. Grim charges Abbigail but Sam leaps on him and bites his leg. When he turns around to strike Sam, Abbigail lunges forward and pushes Grim off the next ledge.
+Grim lands and his scythe is further ahead. He rolls over and looks up at Abbigail who has another arrow drawn.
+Grim covers his face and prepares to be killed. A loaf of bread lands on his lap. He looks up. Abbigail is walking off. Suddenly Sam starts barking, and Abbigail turns around expecting Grim to be attacking again.
+At the far end of the canyon, three endermen stand and watch. They make eye contact. Then one by one, each teleports away. Abbigail remains confused.
 
 SEASON 1, EPISODE 8
 
-Senn and Igneous are traveling along the countryside. Senn sits on
-Timber and Igneous walks beside, chatting away.
+Senn and Igneous are traveling along the countryside. Senn sits on Timber and Igneous walks beside, chatting away.
+
 IGNEOUS
 
-It’s really convenient that we don’t need to eat
-or sleep, but our life goes by so quickly! I’m 14...
-so even though I’m still a child by most
-standards I’m already about half way through
-my life! I’d love to experience everything I can,
-but being a Magnorite born outside of K’arthen
-is tough. That reminds me... where are you from
-Senn?
+It’s really convenient that we don’t need to eat or sleep, but our life goes by so quickly! I’m 14... so even though I’m still a child by most standards I’m already about half way through my life! I’d love to experience everything I can, but being a Magnorite born outside of K’arthen is tough. That reminds me... where are you from Senn?
 
-There’s a pause while Igneous waits patiently, with a big smile on
-his face. Senn wasn’t listening really, and notices Igneous asked him
-something.
+There’s a pause while Igneous waits patiently, with a big smile on his face. Senn wasn’t listening really, and notices Igneous asked him something.
 
 SENN
-
 What’s that?
 
 IGNEOUS
-
-Where are you from? Why aren’t you with the
-rest of your family?
+Where are you from? Why aren’t you with the rest of your family?
 
 Senn feels a sting of pain.
 
 SENN
-
 My family is no longer around Igneous.
 
 IGNEOUS
-
 Oh... I’m sorry...
+
 It gets a bit quiet all of a sudden.
 
 IGNEOUS
+There’s nothing you can do to alter the past, so it’s best not to dwell on it. What’s important is moving forward and making the most of your current situation.
 
-There’s nothing you can do to alter the past, so
-it’s best not to dwell on it. What’s important is
-moving forward and making the most of your
-current situation.
 Senn looks over and smiles a bit.
 
 IGNEOUS
+But I don’t need to tell you! Here we are journeying to-
 
-But I don’t need to tell you! Here we are
-
-journeying to-
-Suddenly a figure jumps out of the nearby bushes and knocks Senn
-
-off Timber.
+Suddenly a figure jumps out of the nearby bushes and knocks Senn off Timber.
 
 SENN
-
 *grunt as you’re knocked off your horse*
-Timber runs a head a little bit at the surprise. The figure is revealed
-to be Jalkar as he pulls out his large knife.
+
+Timber runs a head a little bit at the surprise. The figure is revealed to be Jalkar as he pulls out his large knife.
+
 JALKAR
 Give me the horse, now!
+
 Jalkar runs over and tries to control Timber.
 
 IGNEOUS
+Excuse me sir, but this horse belongs to my friend Senn over here.
 
-Excuse me sir, but this horse belongs to my
-friend Senn over here.
+Jalkar whirls around and stabs Igneous in the chest. The knife just stops and clangs against Igneous’ rocky body. Igneous looks up angrily, and lays a solid punch across Jalkar’s face sending him flying through the air as well as the dragon egg.
+Jalkar lands in the distance, his ear is ringing as he stumbles towards the egg, grabs it, and runs off.
 
-Jalkar whirls around and stabs Igneous in the chest. The knife just
-stops and clangs against Igneous’ rocky body.
-Igneous looks up angrily, and lays a solid punch across Jalkar’s face
-sending him flying through the air as well as the dragon egg.
-Jalkar lands in the distance, his ear is ringing as he stumbles
-towards the egg, grabs it, and runs off.
 IGNEOUS
+*shouting* W-wait! I didn’t mean to hurt you! *to himself* I really don’t know what came over me-
 
-*shouting* W-wait! I didn’t mean to hurt you!
-*to himself* I really don’t know what came over
-
-me-
 Jalkar is gone at this point. Igneous turns back towards Senn.
 
 IGNEOUS
 I hope I didn’t hurt him too much.
 
 Senn is just starring with his eyes wide.
+
 IGNEOUS
+Oh look! We’ve arrived at Biggerton! Come on Senn!
 
-Oh look! We’ve arrived at Biggerton! Come on
-Senn!
-
-Senn smiles and gives a short laugh, and walks Timber towards the
-stables.
+Senn smiles and gives a short laugh, and walks Timber towards the stables.
 
 SENN
-
 *single quiet laugh*
 
-They enter the town and the camera raises up revealing the dense
-city of Biggerton.
+They enter the town and the camera raises up revealing the dense city of Biggerton.
+
 Scene fades back to Felora, the capital of Felden.
+
 FELDEN OFFICIAL 1
 You are absolutely sure of this, Lucan?
 
 LUCAN
+Yes. The Necromancers are living beneath Mount Tempus. They appear to be preparing for a large-scale invasion.
 
-Yes. The Necromancers are living beneath
-Mount Tempus. They appear to be preparing
-for a large-scale invasion.
 FELDEN OFFICIAL 2
-
-If the Necromancers are raising an army, we
-must strike them now.
+If the Necromancers are raising an army, we must strike them now.
 
 Felden Official 1 finishes signing some papers.
-FELDEN OFFICIAL 1
 
-I agree. Lucan, take this directive to Fort Zuka.
-We will send the armies of Felden to eradicate
-this threat before it has time to spread.
+FELDEN OFFICIAL 1
+I agree. Lucan, take this directive to Fort Zuka. We will send the armies of Felden to eradicate this threat before it has time to spread.
 
 The officials hand Lucan a sheet of paper.
-Cuts to Lucan walking outside, holding the paper by his side. Niika is
-there.
+Cuts to Lucan walking outside, holding the paper by his side. Niika is here.
 
 NIIKA
-
 What’d they say?
 
 LUCAN
+Well they’ve officially declared war on the Necromancers. We have orders to deliver a message to Fort Zuka.
 
-Well they’ve officially declared war on the
-Necromancers. We have orders to deliver a
-message to Fort Zuka.
 NIIKA
 They actually said for both of us?
-LUCAN
-
-Uh... yep, looks like we’re stuck together for just
-a bit longer.
-
-Niika is surprised, and Lucan pockets the paper as they start
-walking.
-
-NIIKA
-
-So after we deliver the orders... what then? Any
-plans for what comes next?
-
-Lucan tries to avoid the fact that he’s still a criminal and will
-probably have to do more duty.
 
 LUCAN
+Uh... yep, looks like we’re stuck together for just a bit longer.
 
-Oh I uh... I haven’t given it much thought... how
-about yourself?
+Niika is surprised, and Lucan pockets the paper as they start walking.
 
 NIIKA
+So after we deliver the orders... what then? Any plans for what comes next?
 
-I don’t know either... this is what I’ve been doing
-for years. I can’t imagine it coming to an end,
-let alone what comes after.
+Lucan tries to avoid the fact that he’s still a criminal and will probably have to do more duty.
 
-They both continue walking, each looking a bit confused and trying
-not to make eye contact at their similar predicament.
+LUCAN
+Oh I uh... I haven’t given it much thought... how about yourself?
+
+NIIKA
+I don’t know either... this is what I’ve been doing for years. I can’t imagine it coming to an end, let alone what comes after.
+
+They both continue walking, each looking a bit confused and trying not to make eye contact at their similar predicament.
 Back in Biggerton, Senn and Igneous walk towards a tavern.
 
 IGNEOUS
-
 Maybe we can locate a map in here.
 
-Shot from inside of the door opening, Igneous and Senn step inside
-a bit and look around.
-Warm crowded tavern with a lot of different people hanging out. A
-bunch of them turn and look towards Igneous, a bit worried. A
-
-guard who was sitting nearby slowly draws his sword pre-
-emptively.
+Shot from inside of the door opening, Igneous and Senn step inside a bit and look around.
+Warm crowded tavern with a lot of different people hanging out. A bunch of them turn and look towards Igneous, a bit worried. A guard who was sitting nearby slowly draws his sword pre-emptively.
 
 Igneous walks happily over to the bartender.
 
 BIGGERTON CIVILIAN 1
+Back in the old days, taverns were filled with tales of heroes and villains. People sang songs of war, adventure, and magic.
 
-Back in the old days, taverns were filled with
-tales of heroes and villains. People sang songs
-of war, adventure, and magic.
 BIGGERTON BARTENDER
-
-*passively arguing* And those same people
-used to worry about legends such as
-Herobrine.
+*passively arguing* And those same people used to worry about legends such as Herobrine.
 
 BIGGERTON CIVILIAN 1
-
 Don’t say his name! It’s bad luck.
 
 They stop as Igneous walks over.
 
 IGNEOUS
-
-Sorry to interrupt, but do you know where we
-might find a map?
+Sorry to interrupt, but do you know where we might find a map?
 
 BIGGERTON BARTENDER
+Marshall’s map shop is across the street. You should find what yer’ lookin’ for there.
 
-Marshall’s map shop is across the street. You
-should find what yer’ lookin’ for there.
-
-Everyone still looks a bit worried, guards are nearby. Senn turns
-towards Igneous.
+Everyone still looks a bit worried, guards are nearby. Senn turns towards Igneous.
 
 SENN
+I haven’t eaten anything since yesterday, could we stop here and eat first?
 
-I haven’t eaten anything since yesterday, could
-we stop here and eat first?
 IGNEOUS
-
-Oh Magnorites don’t eat, remember when I told
-you that?
+Oh Magnorites don’t eat, remember when I told you that?
 
 SENN
-
 Ah... yes I must have... missed that part.
 
 Senn turns towards bartender.
@@ -2918,24 +2484,22 @@ SENN
 I’ll just take some bread please.
 
 BIGGERTON BARTENDER
-
 Got money to pay for it?
+
 One of the tavern drinkers snickers.
 
 BIGGERTON CIVILIAN 1
-
 Stupid Ardoni...
 
 Senn looks over at the civilian with contempt having heard it.
-BIGGERTON BARTENDER
 
+BIGGERTON BARTENDER
 No money, no service.
+
 The guard is worried about Igneous.
 
 IGNEOUS
-
-Here Senn, I have some gold you can borrow.
-Let’s get your food and go.
+Here Senn, I have some gold you can borrow. Let’s get your food and go.
 
 BIGGERTON CIVILIAN 1
 That’s right you better leave.
@@ -2946,24 +2510,18 @@ SENN
 What was that all about?
 
 IGNEOUS
+No one really trusts Magnorites. Most of us tend to be aggressive... and the whole “attacking our neighbor” fiasco hasn’t helped our reputation. But now is not the time to digress, let’s go find that map!
 
-No one really trusts Magnorites. Most of us tend
-to be aggressive... and the whole “attacking our
-neighbor” fiasco hasn’t helped our reputation.
-
-But now is not the time to digress, let’s go find
-that map!
 Inside the map shop.
 
 MARSHALL
-
 Welcome! What can I help you with today?
 
 SENN
-
 Hi, we’d like to purchase a map of Ardonia.
 
 Marshall pulls out a map and sets it on the table.
+
 MARSHALL
 Alright, that’ll be 50 gold.
 
@@ -2971,111 +2529,86 @@ Senn looks at the map.
 
 SENN
 This is a map of Conchord...
-MARSHALL
 
-If you want all of Ardonia it’s going to cost you
-double.
+MARSHALL
+If you want all of Ardonia it’s going to cost you double.
 
 SENN
-
-*in disbelief* Yes we want all of Ardonia, that’s
-what we asked for.
+*in disbelief* Yes we want all of Ardonia, that’s what we asked for.
 
 Marshall pulls out a larger map and sets it on the table.
 
 MARSHALL
 Alright, that’ll be 200 gold.
+
 IGNEOUS
 I thought you said it’d be double?
-MARSHALL
 
+MARSHALL
 It’s 200 gold pal.
 
 The door opens from behind them and someone else walks in.
 
 MARSHALL
-
-Welcome to Marshall’s Map Shop, we’ve got
-maps of Ardonia for the price of 50 gold.
+Welcome to Marshall’s Map Shop, we’ve got maps of Ardonia for the price of 50 gold.
 
 SENN
-
 Wait I thought you just said it was 200-
 
 MARSHALL
+For you and your friend it’s 200, now do you want to buy it or not?!
 
-For you and your friend it’s 200, now do you
-want to buy it or not?!
-
-Cuts to them standing outside and collecting themselves. A wolf
-sits near them waiting patiently.
+Cuts to them standing outside and collecting themselves. A wolf sits near them waiting patiently.
 
 IGNEOUS
-
-Well Senn, I’m truly sorry about that, it might
-have been better if you’d gone in without me.
-People tend to act like that once they see a
-Magnorite.
+Well Senn, I’m truly sorry about that, it might have been better if you’d gone in without me. People tend to act like that once they see a Magnorite.
 
 SENN
+This is ridiculous. And how are we ever going to get to Ataraxia without a map?
 
-This is ridiculous. And how are we ever going to
-get to Ataraxia without a map?
 A voice suddenly re-assures them from behind.
-ABBIGAIL
 
+ABBIGAIL
 You can borrow mine for a moment.
 
-They look back as Abbigail walks outside the shop, she’s holding the
-map out.
+They look back as Abbigail walks outside the shop, she’s holding the map out.
 
 IGNEOUS
-
 Really? Thank you! We appreciate it.
-Igneous takes the map and starts looking it over.
-ABBIGAIL
 
-Merchants like to take advantage of young
-travelers.
+Igneous takes the map and starts looking it over.
+
+ABBIGAIL
+Merchants like to take advantage of young travelers.
 
 Senn reaches down and pets Sam.
-SENN
 
+SENN
 Are you a traveler?
 
 ABBIGAIL
-
-For the moment. I’m tracking someone. He stole
-an Enderdragon egg from Etherea.
+For the moment. I’m tracking someone. He stole an Enderdragon egg from Etherea.
 
 Igneous looks up from the map.
 
 IGNEOUS
-
-An Enderdragon egg? I believe we ran into
-someone earlier today who had one.
+An Enderdragon egg? I believe we ran into someone earlier today who had one.
 
 ABBIGAIL
-
 You did? Where?!
 
 IGNEOUS
-
-Not far. Just northeast of Biggerton, he tried to
-steal our horse.
+Not far. Just northeast of Biggerton, he tried to steal our horse.
 
 Abbigail starts hurrying off.
 
 ABBIGAIL
-
 That’s him! Oh...
 
 She stops.
 
 ABBIGAIL
-
-Sorry, but I’ll need my map back. Did you find
-the place you were looking for?
+Sorry, but I’ll need my map back. Did you find the place you were looking for?
 
 IGNEOUS
 I did, fortunately it’s close by.
@@ -3083,70 +2616,47 @@ I did, fortunately it’s close by.
 Igneous hands her map back.
 
 ABBIGAIL
-
 Thanks for your help.
 
 SENN
-
 You as well.
 
 Abbigail walks quickly away with Sam.
 
 IGNEOUS
-
-What a nice person, shame we didn’t even
-catch her name. Oh well! Off to Ataraxia!
+What a nice person, shame we didn’t even catch her name. Oh well! Off to Ataraxia!
 
 Igneous and Senn walk out of Biggerton.
 Cuts to Fort Zuka. Lucan and Niika are walking towards the gate.
 
 NIIKA
+I’ve always wanted to see the inside of Fort Zuka.
 
-I’ve always wanted to see the inside of Fort
-Zuka.
-
-A guard motions towards Lucan, who holds up his paper, and the
-guard waves him on in. A soldier walks to greet them.
+A guard motions towards Lucan, who holds up his paper, and the guard waves him on in. A soldier walks to greet them.
 
 ALEC
-
-You must be Lucan! A messenger bird flew in
-yesterday and alerted us of your arrival.
+You must be Lucan! A messenger bird flew in yesterday and alerted us of your arrival.
 
 LUCAN
 I have a directive for the Captain.
 
 ALEC
-
 Right this way.
 
-They walk into Fort Zuka and see some of the army training. In one
-of the fighting pits there are two soldiers fighting. One of them is
-completely destroying the other. He throws the other one down
-over his shoulder and faces the camera.
-He is a male Felina with silver hair, and missing a piece out of one
-ear.
-Lucan frowns as he realizes this is an old enemy of his.
+They walk into Fort Zuka and see some of the army training. In one of the fighting pits there are two soldiers fighting. One of them is completely destroying the other. He throws the other one down over his shoulder and faces the camera.
+He is a male Felina with silver hair, and missing a piece out of one ear. Lucan frowns as he realizes this is an old enemy of his.
 
 LUCAN
 *annoyed* Kiyoshi?!
 
 KIYOSHI
-
-Fancy seeing you here, Lucan. And it’s Captain
-Kiyoshi now.
+Fancy seeing you here, Lucan. And it’s Captain Kiyoshi now.
 
 LUCAN
-
-Well it’s good to see Felden is willing to promote
-anyone with the right father. The realm is much
-safer in your capable hands.
+Well it’s good to see Felden is willing to promote anyone with the right father. The realm is much safer in your capable hands.
 
 KIYOSHI
-
-*scoff* And how about you then? You talk big
-for someone who’s been to prison more times
-than the claws on my hands.
+*scoff* And how about you then? You talk big for someone who’s been to prison more times than the claws on my hands.
 
 Niika is a bit surprised.
 
@@ -3154,212 +2664,155 @@ NIIKA
 You’ve been to prison?
 
 LUCAN
-
 It was nothing.
 
 KIYOSHI
-
-Oh I’m sure he knows most of the local prisons
-quite well by now. But enough of these
-pointless insults, hand over the orders from
-Felora.
+Oh I’m sure he knows most of the local prisons quite well by now. But enough of these pointless insults, hand over the orders from Felora.
 
 Lucan takes the paper out and hands it to Kiyoshi.
 
 LUCAN
 Come on Niika, let’s go.
 
-Lucan starts leaving, Niika looks at Kiyoshi once more then follows.
-Kiyoshi reads over the directive.
+Lucan starts leaving, Niika looks at Kiyoshi once more then follows. Kiyoshi reads over the directive.
 
 KIYOSHI
+Hold it! It says here, Lucan, you’re to accompany me in the attack.
 
-Hold it! It says here, Lucan, you’re to
-accompany me in the attack.
-
-Lucan whirls around surprised, not having actually read the order
-himself.
+Lucan whirls around surprised, not having actually read the order himself.
 
 LUCAN
-
 Wait... what?!
 
 Niika puts her hand to her mouth and stifles a giggle.
 
 NIIKA
-
 *stifled giggle*
 
 KIYOSHI
+Let’s try to be professional about this. I don’t want a criminal in my ranks any more than you want to be under my command, but orders are orders. So let’s get this mission over quickly for both of our sakes.
 
-Let’s try to be professional about this. I don’t
-want a criminal in my ranks any more than you
-want to be under my command, but orders are
-orders. So let’s get this mission over quickly for
-both of our sakes.
-Kiyoshi holds out his hand to shake.
-Lucan frowns, but finally gives in and shakes.
+Kiyoshi holds out his hand to shake. Lucan frowns, but finally gives in and shakes.
+
 KIYOSHI
 Try not to mess things up.
 
-Cuts back to Senn and Igneous, who are traveling along the
-countryside again. Senn pulls out his Song and looks at it, still unsure
-of what it does.
+Cuts back to Senn and Igneous, who are traveling along the countryside again. Senn pulls out his Song and looks at it, still unsure of what it does.
 
 SENN
-
-Hey, Igneous what do you know about the
-Songs?
+Hey, Igneous what do you know about the Songs?
 
 IGNEOUS
-
-Well I’m no expert... but I’ve certainly read about
-them. You’d be better off talking to another
-Ardoni though.
+Well I’m no expert... but I’ve certainly read about them. You’d be better off talking to another Ardoni though.
 
 Suddenly timber stops at a water edge.
 
 IGNEOUS
+According to the map, Ataraxia should be on the other side of that mountain. I didn’t notice this river though... not quite sure how to cross.
+Huh, that’s funny, there’s no road leading to the city.
 
-According to the map, Ataraxia should be on
-the other side of that mountain. I didn’t notice
-this river though... not quite sure how to cross.
-Huh, that’s funny, there’s no road leading to the
-city.
-
-Senn dismounts as Igneous is looking over the map talking about it,
-and wades into the water a bit.
+Senn dismounts as Igneous is looking over the map talking about it, and wades into the water a bit.
 
 IGNEOUS
+Uh Senn, another thing about Magnorites... I don’t think we can swim...
 
-Uh Senn, another thing about Magnorites... I
-don’t think we can swim...
-
-Senn continues wading, suddenly a small Guardian appears in the
-water ahead.
+Senn continues wading, suddenly a small Guardian appears in the water ahead.
 
 IGNEOUS
 Oh look at that! A Guardian!
 
 SENN
-
 Are they friendly?
 
 IGNEOUS
-
 I think so...
 
-Senn looks at it and smiles. Suddenly it hits him with a beam and
-starts pulling him forward.
+Senn looks at it and smiles. Suddenly it hits him with a beam and starts pulling him forward.
 
 SENN
 *frightened* Ahh! Igneous!
 
 Igneous runs forward. Timber gets frightened.
-IGNEOUS
 
+IGNEOUS
 I’ve got you Senn!
 
-Igneous grabs onto Senn to prevent him from being pulled under.
-The guardian stops, and disappears under water.
-IGNEOUS
+Igneous grabs onto Senn to prevent him from being pulled under. The guardian stops, and disappears under water.
 
-I guess they’re not so friendly after all. It’s going
-to take more than that to take my friend!
-Shot holds for a moment. Suddenly six come up and start beaming
-Senn, who is pulled away quickly.
+IGNEOUS
+I guess they’re not so friendly after all. It’s going to take more than that to take my friend!
+
+Shot holds for a moment. Suddenly six come up and start beaming Senn, who is pulled away quickly.
 
 SENN
-
 Ah!
 
 IGNEOUS
-
 Senn!
 
 Senn disappears under water, Igneous remains up top.
 
 IGNEOUS
-
 Senn? Senn?
 
-Cuts under water, Senn is being dragged down by Guardians. He is
-surrounded by them, when suddenly a large shape appears behind
-him. He turns around to see an Elder Guardian approaching slowly.
-To be continued.
+Cuts under water, Senn is being dragged down by Guardians. He is surrounded by them, when suddenly a large shape appears behind him. He turns around to see an Elder Guardian approaching slowly.
 
 SEASON 1, EPISODE 9
 
-Opens at Mahoa docks. Felden army gearing up and preparing to
-sail. Lucan sits on the pier looking out at a ship in the harbor. He
-swings his legs over the edge.
+Opens at Mahoa docks. Felden army gearing up and preparing to sail. Lucan sits on the pier looking out at a ship in the harbor. He swings his legs over the edge.
 
 NIIKA
-
 I wish you wouldn’t sit so close to the edge.
 
 Lucan slides back a bit onto the pier.
-LUCAN
 
+LUCAN
 Is that better?
+
 Niika sits down beside Lucan.
 
 NIIKA
-
 Much better.
 
 They sit together for a moment, both too shy to start conversation.
 
 NIIKA
-
 You never told me you’ve been to prison.
 
 LUCAN
-
 Yeah... it’s not something I share often.
 
 NIIKA
-
 What’d you do?
 
 LUCAN
-
 Ehh it was... I mean it wasn’t really anything-
+
 NIIKA
-
 Did you kill someone?
-LUCAN
 
-What? No! I just have a tendency to... get into
-trouble. I’m not like Kiyoshi, who knew exactly
-what he wanted to be all his life. I just can’t see
-myself working a normal job... the same routine
-every single day. I’m probably not making any
-sense...
+LUCAN
+What? No! I just have a tendency to... get into trouble. I’m not like Kiyoshi, who knew exactly what he wanted to be all his life.
+I just can’t see myself working a normal job... the same routine every single day. I’m probably not making any sense...
 
 Niika is a bit surprised that they can relate again.
+
 NIIKA
+No, I know what you mean. Even before I hunted the Necromancers... I never really fit in with society. I think... I was-
 
-No, I know what you mean. Even before I hunted
-the Necromancers... I never really fit in with
-
-society. I think... I was-
 Kiyoshi’s voice interrupts.
 
 KIYOSHI
+Hurry it up, Lucan! We’re ready to sail... unless you’d rather swim.
 
-Hurry it up, Lucan! We’re ready to sail... unless
-you’d rather swim.
 Lucan stands up and looks down at Niika.
-LUCAN
 
-Well... I guess this is it. It was nice getting to
-know you Niika.
+LUCAN
+Well... I guess this is it. It was nice getting to know you Niika.
 
 Niika stands up as well.
 
 NIIKA
-
 Yeah... likewise.
 
 They stand for a moment with their arms awkwardly at their sides.
@@ -3370,234 +2823,137 @@ Alright, well, goodbye.
 Lucan begins leaving.
 
 NIIKA
-
 Be safe.
 
-Lucan walks almost out of sight, and looks back once more at Niika.
-Their eyes meet and they each smile. He then disappears and
-boards the ship.
-Cuts to the bow of the ship, Alec is looking over the edge. Kiyoshi
-approaches and Alec stands at attention.
+Lucan walks almost out of sight, and looks back once more at Niika. Their eyes meet and they each smile. He then disappears and boards the ship.
+Cuts to the bow of the ship, Alec is looking over the edge. Kiyoshi approaches and Alec stands at attention.
 
 ALEC
 Captain Kiyoshi, sir!
 
 KIYOSHI
-
 At ease, soldier.
 
-Kiyoshi walks to the railing beside Alec and they both look out over
-the ocean.
+Kiyoshi walks to the railing beside Alec and they both look out over the ocean.
 
 KIYOSHI
-
-As a Felina, I can understand being fearful of
-the oceans, but I suspect this is not what
-troubles you, Alec.
+As a Felina, I can understand being fearful of the oceans, but I suspect this is not what troubles you, Alec.
 
 ALEC
-
-No sir. It’s just... defending against undead and
-rooting out bandits is one thing, but this...
+No sir. It’s just... defending against undead and rooting out bandits is one thing, but this...
 
 Alec trails off.
 
 KIYOSHI
-
 This is greater.
 
 ALEC
-
-These undead are coordinated, armed, and
-ruled by that dangerous psychopath they call
-the Necrolord.
+These undead are coordinated, armed, and ruled by that dangerous psychopath they call the Necrolord.
 
 KIYOSHI
-
-I’ve been serving Felden ever since my
-grandfather was Captain of the Guard. I was
-half your age and expected to become the
-next Captain after... my father. How long have
-you been in the military?
+I’ve been serving Felden ever since my grandfather was Captain of the Guard. I was half your age and expected to become the next Captain after... my father. How long have you been in the military?
 
 ALEC
 Only three years, sir.
 
 KIYOSHI
-
-In those three years you’ve had more training
-than any of these Necromancer scum. When
-we find this Necrolord, I’ll kill him myself and the
-rest will falter. If you obey my orders and
-remember your training, we will sail to victory
-today.
+In those three years you’ve had more training than any of these Necromancer scum. When we find this Necrolord, I’ll kill him myself and the rest will falter. If you obey my orders and remember your training, we will sail to victory today.
 
 Kiyoshi pats Alec on his shoulder. Alec smiles a bit.
 
 ALEC
-
 Yes, sir.
 
-Alec salutes, and the music rises as a few ships sail out towards Mt.
-Tempus.
-Cuts to Sendaria. Senn’s village is still in ruins, but the fire has settled.
-There are dead Ardoni still around.
-Some Sendaris scouts are seen looking over the place, one of them
-picks up some of the debris and looks it over trying to piece
-together what happened.
-Music rises and cuts to a funeral, night time. Many Sendaris and a
-few other clan members are gathered. We see some Sendaris
-bodies being carried, including Thalleous.
-They are buried, and stones are placed above their graves, flat with
-the grass. The Sendaris master arrives with his staff and touches
-each stone, and the markings of the dead Ardoni appear on the
-stone, glowing brightly in the night.
-Scene cuts to a small cave where many Ardoni are meeting. The
-four Ardoni masters and some others are gathered around talking.
+Alec salutes, and the music rises as a few ships sail out towards Mt. Tempus.
+Cuts to Sendaria. Senn’s village is still in ruins, but the fire has settled. There are dead Ardoni still around. Some Sendaris scouts are seen looking over the place, one of them picks up some of the debris and looks it over trying to piece together what happened.
+Music rises and cuts to a funeral, night time. Many Sendaris and a few other clan members are gathered. We see some Sendaris bodies being carried, including Thalleous. They are buried, and stones are placed above their graves, flat with the grass. The Sendaris master arrives with his staff and touches each stone, and the markings of the dead Ardoni appear on the stone, glowing brightly in the night.
+Scene cuts to a small cave where many Ardoni are meeting. The four Ardoni masters and some others are gathered around talking.
 
 ZULIUS KALTARIS
-
-Unbelievable! This is unprecedented! All four
-Ardoni clans were attacked- one village each,
-all dead. Slaughtered.
+Unbelievable! This is unprecedented! All four Ardoni clans were attacked- one village each, all dead. Slaughtered.
 
 MASTER SIDERIAN MENDORIS
-
-Not just any villages either... they were after the
-Prime Songs.
+Not just any villages either... they were after the Prime Songs.
 
 They pause a moment to let this sink in.
 
 GALADAR MENDORIS
-
-Many times has Thalleous Sendaris warned of
-this, and because of his efforts the Prime Songs
-are safe from the Voltaris... for now.
+Many times has Thalleous Sendaris warned of this, and because of his efforts the Prime Songs are safe from the Voltaris... for now.
 
 HADION MENDORIS
-
-Do not be so hasty Galadar, we are not certain
-this tragedy was the work of the Voltaris. It may
-have been bandits... or the Unyielding Legion. I
-have also heard about a Necromancer group
-rising in the west.
+Do not be so hasty Galadar, we are not certain this tragedy was the work of the Voltaris. It may have been bandits... or the Unyielding Legion. I have also heard about a Necromancer group rising in the west.
 
 GALADAR MENDORIS
-
 Then what will we do?
 
 MASTER SIDERIAN MENDORIS
-
-As much as it pains me, I must concede with
-our previous judgement. We are too weak to
-attack, and we risk too much.
+As much as it pains me, I must concede with our previous judgement. We are too weak to attack, and we risk too much.
 
 The Nestoris Master walks out from the side and speaks.
-MASTER AURELIUS NESTORIS
 
-Long has it been an honor for us masters to
-light the graves of our dead... so that their
-markings may shine forever. But the stones we
-lit today did not signify the passage of elders
-concluding long life. Today we buried
-innocents− massacred by an enemy we no
-longer have the strength or courage to repel.
+MASTER AURELIUS NESTORIS
+Long has it been an honor for us masters to light the graves of our dead... so that their markings may shine forever. But the stones we lit today did not signify the passage of elders concluding long life. Today we buried innocents− massacred by an enemy we no longer have the strength or courage to repel.
+
 They all bow their heads, some in reverence, others in shame.
 
 ZULIUS KALTARIS
-
-Master Aurelius speaks wisely. I will go forth
-against the Voltaris.
+Master Aurelius speaks wisely. I will go forth against the Voltaris.
 
 They all turn towards Zulius.
 
 ZULIUS KALTARIS
-
-Thalleous warned us of a Voltaris attack on the
-Prime Songs... and the attack came. Before
-moving them, he told me that the Voltaris were
-on Mount Velgrin where they killed a
-companion of his- Hawken. I am no master,
-and I have no partner in life. I will do what I must
-to eliminate the Voltaris once and for all.
+Thalleous warned us of a Voltaris attack on the Prime Songs... and the attack came. Before moving them, he told me that the Voltaris were on Mount Velgrin where they killed a companion of his- Hawken. I am no master, and I have no partner in life. I will do what I must to eliminate the Voltaris once and for all.
 
 MASTER SIDERIAN MENDORIS
-
-*worried* What you propose would bring our
-clans to war.
+*worried* What you propose would bring our clans to war.
 
 Galadar steps in.
 
 GALADAR MENDORIS
-
-Master Siderian... we face an even greater
-danger if we allow the Voltaris to grow in
-strength. I will go with you Zulius Kaltaris.
+Master Siderian... we face an even greater danger if we allow the Voltaris to grow in strength. I will go with you Zulius Kaltaris.
 
 HADION MENDORIS
-
-As will I, brother. The only way to end this threat
-is to face it.
+As will I, brother. The only way to end this threat is to face it.
 
 MASTER AURELIUS NESTORIS
+The Ardoni will go to war once again. We will send word to the other clans and gather all Ardoni warriors who are willing to fight.
 
-The Ardoni will go to war once again. We will
-send word to the other clans and gather all
-Ardoni warriors who are willing to fight.
-
-Hadion walks out one doorways, Zulius and Galadar go out the
-other way.
+Hadion walks out one doorways, Zulius and Galadar go out the other way.
 
 GALADAR MENDORIS
-
-Many years has it been since we last wielded
-the Songs of war.
+Many years has it been since we last wielded the Songs of war.
 
 ZULIUS KALTARIS
-
 Let us hope... we remember how to use them.
 
 Zulius fires off an Aggressium Song to test his memory.
-Cuts to Senn under water. The Elder Guardian swims over, and looks
-at Senn, then beams him for a moment as well.
-
-Senn starts passing out, when the Elder guardian throws Senn up
-and out of the water.
+Cuts to Senn under water. The Elder Guardian swims over, and looks at Senn, then beams him for a moment as well.
+Senn starts passing out, when the Elder guardian throws Senn up and out of the water.
 
 IGNEOUS
 Senn! Senn are you alright?
 
-Senn slowly sits back up, coughing a bit. Timber comes over and
-nuzzles him.
+Senn slowly sits back up, coughing a bit. Timber comes over and nuzzles him.
 
 SENN
-
 *coughing a bit* Yeah... yeah I’m fine.
 
 IGNEOUS
-
 What happened?
 
 SENN
-
 I... I don’t know... they just suddenly let me go.
-Igneous and Senn look over towards the water. Blocks begin raising
-out of the water and forming a bridge. Beams are seen coming
-from the Guardians as they hold the temporary bridge up.
-Senn and Igneous look at each other, surprised.
+
+Igneous and Senn look over towards the water. Blocks begin raising out of the water and forming a bridge. Beams are seen coming from the Guardians as they hold the temporary bridge up. Senn and Igneous look at each other, surprised.
 
 IGNEOUS
-
 I guess we’re clear to pass! Come on.
 
 SENN
 Wait! We don’t know if it’s safe!
 
-Igneous hurries off happily across the bridge. Senn gets up and
-follows, Timber in the rear.
-
-Cuts to Abbigail who sets her bow down, and sits on a rock. She
-reaches into her inventory and pulls out a pork chop.
+Igneous hurries off happily across the bridge. Senn gets up and follows, Timber in the rear.
+Cuts to Abbigail who sets her bow down, and sits on a rock. She reaches into her inventory and pulls out a pork chop.
 
 ABBIGAIL
 This is the last one Sam.
@@ -3605,42 +2961,28 @@ This is the last one Sam.
 Sam whimpers.
 
 ABBIGAIL
+I know...I know. I shouldn’t have given that much food away.
 
-I know...I know. I shouldn’t have given that much
-food away.
 Sam whimpers again.
 
 ABBIGAIL
-
-Well we’re just going to have to go hunting
-then!
+Well we’re just going to have to go hunting then!
 
 Abbigail picks up her bow and stands up. Sam perks up happily.
-Cuts to a moment later, they’re pursuing an animal.
-Sam is moving ahead getting closer as Abbigail draws her bow.
-Suddenly Sam turns and lets out a bark as Jalkar bursts out of the
-side and tumbles over the edge with Sam.
+Cuts to a moment later, they’re pursuing an animal. Sam is moving ahead getting closer as Abbigail draws her bow. Suddenly Sam turns and lets out a bark as Jalkar bursts out of the side and tumbles over the edge with Sam.
 
 ABBIGAIL
-
 Sam!
 
-Abbigail runs forward in a hurry, but Jalkar appears in her face and
-cuts her bow sending her arrow flying away aimlessly.
+Abbigail runs forward in a hurry, but Jalkar appears in her face and cuts her bow sending her arrow flying away aimlessly.
 
 ABBIGAIL
-
 *pain as you are cut by a sword* Ah!
 
 JALKAR
 I’ve had enough of you, girl!
 
-Jalkar swings at Abbigail who rolls to the side narrowly dodging
-Jalkar’s blade. She draws her sword and they fight briefly.
-She reaches towards her fallen sword, but can’t quite reach it and
-it falls over the edge of a small ledge, completely out of reach. She
-turns around, worried, to see Jalkar closing in for another attack.
-Suddenly Sam barks and bites Jalkar firmly on the leg.
+Jalkar swings at Abbigail who rolls to the side narrowly dodging Jalkar’s blade. She draws her sword and they fight briefly. She reaches towards her fallen sword, but can’t quite reach it and it falls over the edge of a small ledge, completely out of reach. She turns around, worried, to see Jalkar closing in for another attack. Suddenly Sam barks and bites Jalkar firmly on the leg.
 
 JALKAR
 *pain as you are bitten* Aah!
@@ -3648,129 +2990,73 @@ JALKAR
 Jalkar stumbles backwards over the cliff with Sam still biting his leg.
 
 ABBIGAIL
-
 *in shock* Sam!
 
-Abbigail gets up painfully and hurries over to the edge to see Sam
-laying limp in a clearing.
-Music is very sad. Abbigail hurries down. Jalkar is seen picking the
-egg back up and hurrying off.
-
-Abbigail reaches Sam and props him up.
+Abbigail gets up painfully and hurries over to the edge to see Sam laying limp in a clearing. Music is very sad. Abbigail hurries down. Jalkar is seen picking the egg back up and hurrying off. Abbigail reaches Sam and props him up.
 
 ABBIGAIL
+*on the verge of tears* Sam? Come on boy, don’t leave me... don’t leave, Sam... please...
 
-*on the verge of tears* Sam? Come on boy,
-don’t leave me... don’t leave, Sam... please...
-Sam’s head slowly goes limp as Abbigail continues holding him in
-her arms.
+Sam’s head slowly goes limp as Abbigail continues holding him in her arms.
 
 ABBIGAIL
-
 *on the verge of tears* No... *sniffle*
 
-Abbigail sets him down on the ground carefully, then looks up
-angrily.
-Cut to Jalkar still limping along. An arrow flies into his arm and he
-drops the dragon egg.
+Abbigail sets him down on the ground carefully, then looks up angrily.
+Cut to Jalkar still limping along. An arrow flies into his arm and he drops the dragon egg.
 
 JALKAR
-
 *pain* Ahhh!
 
-Jalkar turns around and draws his knife back out. Another arrow
-flies into his chest, and he drops his knife.
-Abbigail approaches, and fires once more, killing him. She walks
-ahead to where the Enderdragon egg sits. She grabs it with both
-hands, and cradles it as the music quiets for a moment, then
-crescendos once more.
-To be continued.
+Jalkar turns around and draws his knife back out. Another arrow flies into his chest, and he drops his knife. Abbigail approaches, and fires once more, killing him. She walks ahead to where the Enderdragon egg sits. She grabs it with both hands, and cradles it as the music quiets for a moment, then crescendos once more.
 
 SEASON 1, EPISODE 10
 
-Senn and Igneous are walking along, talking to each other. Timber
-follows up the rear.
+Senn and Igneous are walking along, talking to each other. Timber follows up the rear.
 
 IGNEOUS
-
-I once read in a book that Guardians are some
-of the oldest species in Ardonia- older than
-even the Glacians.
+I once read in a book that Guardians are some of the oldest species in Ardonia- older than even the Glacians.
 
 SENN
-
-What were they doing though? They nearly
-drowned me!
+What were they doing though? They nearly Drowned me!
 
 IGNEOUS
+They were probably trying to figure out which Ardoni clan you’re from. As their name implies, they guard some of the most ancient and treasured locations from unwanted intrusion. Ataraxia must be important if it has Guardians defending it.
 
-They were probably trying to figure out which
-Ardoni clan you’re from. As their name implies,
-they guard some of the most ancient and
-treasured locations from unwanted intrusion.
-Ataraxia must be important if it has Guardians
-defending it.
-
-They continue up the path and come into a very small town, built
-very naturally in the style of the Ardoni. It’s quite empty, but a few
-Ardoni walk here and there.
+They continue up the path and come into a very small town, built very naturally in the style of the Ardoni. It’s quite empty, but a few Ardoni walk here and there.
 
 IGNEOUS
+Well I guess this is Ataraxia. It’s a bit smaller than I expected, but nice to be in an Ardoni city for once. So what is it we should be looking for again?
 
-Well I guess this is Ataraxia. It’s a bit smaller
-than I expected, but nice to be in an Ardoni city
-
-for once. So what is it we should be looking for
-again?
-
-Timber whinnies to get their attention. They stop suddenly as they
-nearly walk off the edge of a cliff. They look up and are surprised at
-what they see.
+Timber whinnies to get their attention. They stop suddenly as they nearly walk off the edge of a cliff. They look up and are surprised at what they see.
 
 IGNEOUS
-
 Oh my...
 
-The camera turns and reveals the city of Ataraxia, floating on large
-chunks of land between the mountains, with small rope bridges
-connecting some of the largest chunks.
+The camera turns and reveals the city of Ataraxia, floating on large chunks of land between the mountains, with small rope bridges connecting some of the largest chunks.
 
 SENN
 *amazed* It’s incredible.
 
 IGNEOUS
+Come on. Let’s find a place for Timber and go check it out.
 
-Come on. Let’s find a place for Timber and go
-check it out.
-
-Cuts to them walking into the center plaza of Ataraxia. A few others
-are walking about. An Ardoni is speaking to another two Ardoni.
+Cuts to them walking into the center plaza of Ataraxia. A few others are walking about. An Ardoni is speaking to another two Ardoni.
 
 HUBRIS
-
-Their attacks were just the beginning. The
-Voltaris are indeed returning and we need an
-army to face them.
+Their attacks were just the beginning. The Voltaris are indeed returning and we need an army to face them.
 
 ZULIUS KALTARIS
-
-Did you not hear? We have been gathering
-Ardoni and are attacking the Voltaris within a
-fortnight. They will threaten the clans no longer.
+Did you not hear? We have been gathering Ardoni and are attacking the Voltaris within a fortnight. They will threaten the clans no longer.
 
 HUBRIS
-
-This is bigger than that! We need to be ready to
-defend all of Ardonia.
+This is bigger than that! We need to be ready to defend all of Ardonia.
 
 HADION MENDORIS
-
 Hmph, you exaggerate.
 
 ZULIUS KALTARIS
-
-I am disappointed you will not join us. Let us go,
-Hadion.
+I am disappointed you will not join us. Let us go, Hadion.
 
 Zulius and Hadion leave. Senn pipes in.
 
@@ -3780,578 +3066,334 @@ I agree with what you said.
 Hubris looks down at Senn.
 
 SENN
-
-My village was destroyed by the Voltaris, and I
-know what they’re capable of.
+My village was destroyed by the Voltaris, and I know what they’re capable of.
 
 Hubris looks over at Senn suspiciously.
 
 HUBRIS
-
-Interesting, I’ve never met an Ardoni without a
-clan before. I am Hubris Nestoris. Your turn.
+Interesting, I’ve never met an Ardoni without a clan before. I am Hubris Nestoris. Your turn.
 
 SENN
-
 I’m Senn, this is my companion Igneous.
 
 IGNEOUS
-
 Greetings!
 
 HUBRIS
-
-A clanless Ardoni and a Magnorite. *pause*
-You two could work.
+A clanless Ardoni and a Magnorite. *pause* You two could work.
 
 Hubris approaches them more closely.
-HUBRIS
 
-I am recruiting for a new resistance group
-known as the Knights of Ardonia. We could
-certainly use a Magnorite in our ranks.
+HUBRIS
+I am recruiting for a new resistance group known as the Knights of Ardonia. We could certainly use a Magnorite in our ranks.
 
 Senn looks away for a moment thinking.
 
 SENN
-
-That’s a tempting offer... but I have some things
-to take care of first.
+That’s a tempting offer... but I have some things to take care of first.
 
 HUBRIS
-
-The Knights of Ardonia will always be recruiting.
-Seek us out if the opportunity presents itself.
-Good day.
+The Knights of Ardonia will always be recruiting. Seek us out if the opportunity presents itself. Good day.
 
 Hubris leaves.
 
 IGNEOUS
-
 What a strange fellow. So! Where to next, Senn?
 
 Senn looks around.
 
 SENN
+Well, I’m not quite sure what we’re looking for... or why-
 
-Well, I’m not quite sure what we’re looking for...
-
-or why-
 Igneous has already walked off.
 
 SENN
-
 Igneous wait up!
 
-Senn hurries after Igneous and they arrive inside what appears to
-be a blacksmith.
-An Ardoni is facing away from them working on an anvil. He calls
-out in a familiar voice.
+Senn hurries after Igneous and they arrive inside what appears to be a blacksmith. An Ardoni is facing away from them working on an anvil. He calls out in a familiar voice.
 
 GALLEOUS
+Have you come for fresh tools, or do you require repairs of your own?
 
-Have you come for fresh tools, or do you
-require repairs of your own?
 Galleous strikes his tool with a hammer.
 
 SENN
 *in awe* Thalleous...?
 
-Galleous stops mid-swing with his hammer and turns around,
-resembling Thalleous nearly identically. He is a bit intrigued by the
-stranger referring to him as his brother.
+Galleous stops mid-swing with his hammer and turns around, resembling Thalleous nearly identically. He is a bit intrigued by the stranger referring to him as his brother.
 
 GALLEOUS
-
-Thalleous is my brother. I am Galleous...
-although most in this city should know that...
+Thalleous is my brother. I am Galleous... although most in this city should know that...
 
 SENN
-
-I didn’t know Thalleous had any surviving
-brothers.
+I didn’t know Thalleous had any surviving brothers.
 
 GALLEOUS
-
 Yeah... I get that a lot.
+
 He turns and strikes the tool again.
 
 GALLEOUS
-
-He never spoke about me, nor I him. While he is
-out there adventuring and exploring- I just live
-the “mundane” life.
+He never spoke about me, nor I him. While he is out there adventuring and exploring- I just live the “mundane” life.
 
 Senn is silent for a moment, unsure of how to break the news.
 
 SENN
-
-Galleous, sir. Your brother... Thalleous is dead.
-He was killed in a Voltaris ambush.
+Galleous, sir. Your brother... Thalleous is dead. He was killed in a Voltaris ambush.
 
 Galleous sets his hammer down slowly.
 
 GALLEOUS
-
-Was he...? *angry scoff* I always told him to
-stay away from the Voltaris.
+Was he...? *angry scoff* I always told him to stay away from the Voltaris.
 
 He picks up the hammer again.
 
 GALLEOUS
-
-But no... why listen to Galleous... Galleous who
-never leaves his workshop?
+But no... why listen to Galleous... Galleous who never leaves his workshop?
 
 He strikes his tool loudly.
 
 GALLEOUS
 And now I am the last of my family!
 
-He strikes the tool again but misses slightly and the tool flies off the
-anvil with a loud clang. He throws his hammer down onto the anvil
-with another clang and storms out of the room.
-Galleous walks towards a railing overlooking the beautiful city of
-Ataraxia. He leans on the railing and swells up with sadness.
-Senn walks up behind him slowly.
+He strikes the tool again but misses slightly and the tool flies off the anvil with a loud clang. He throws his hammer down onto the anvil with another clang and storms out of the room.
+Galleous walks towards a railing overlooking the beautiful city of Ataraxia. He leans on the railing and swells up with sadness. Senn walks up behind him slowly.
 
 GALLEOUS
+*avoiding showing sadness* I have not seen him in many years. My brother and I never... agreed on much, but despite our differences.... I am going to miss him.
 
-*avoiding showing sadness* I have not seen
-him in many years. My brother and I never...
-agreed on much, but despite our differences....
-I am going to miss him.
 Galleous turns back towards them.
 
 GALLEOUS
-
-*composing himself* You must be Senn, the
-clanless Ardoni whom Thalleous rescued. And
-who might you be?
+*composing himself* You must be Senn, the clanless Ardoni whom Thalleous rescued. And who might you be?
 
 IGNEOUS
 Hello sir, my name’s Igneous!
-SENN
 
+SENN
 He’s a friend.
+
 Galleous nods affirmingly.
 
 GALLEOUS
+Let us take this conversation to the lower level, we will be more comfortable there.
 
-Let us take this conversation to the lower level,
-we will be more comfortable there.
-
-They head down below. There’s a forge full of lava. Senn spots a
-Song sitting on top a shelf which gains his interest before Igneous
-suddenly notices the forge.
+They head down below. There’s a forge full of lava. Senn spots a Song sitting on top a shelf which gains his interest before Igneous suddenly notices the forge.
 
 IGNEOUS
-
 *excited* Oh, lava, thank goodness!
 
-Igneous runs over to the forge and sticks his face in the lava and
-begins drinking thirstily. Senn is surprised for a moment, then looks
-back to Galleous.
+Igneous runs over to the forge and sticks his face in the lava and begins drinking thirstily. Senn is surprised for a moment, then looks back to Galleous.
 
 SENN
-
-Thalleous never gave me any final words, but
-he did speak of this place, of Ataraxia, just
-before the ambush.
+Thalleous never gave me any final words, but he did speak of this place, of Ataraxia, just before the ambush.
 
 GALLEOUS
+I know what he would have wanted. There is a war coming... that much is certain. We must prepare for it as best we can. We will not get any help from the Kingdoms, with Cydonia and K’arthen locked in their conflict.
 
-I know what he would have wanted. There is a
-war coming... that much is certain. We must
-prepare for it as best we can. We will not get
-any help from the Kingdoms, with Cydonia and
-K’arthen locked in their conflict.
-
-Before Senn can respond, Igneous interrupts and they turn towards
-him.
+Before Senn can respond, Igneous interrupts and they turn towards him.
 
 IGNEOUS
-
-I’ve actually... always wanted to visit K’arthen.
-Perhaps I can help with that issue?
+I’ve actually... always wanted to visit K’arthen. Perhaps I can help with that issue?
 
 SENN
-
 Igneous? But, we’ve only just arrived.
 
 IGNEOUS
-
-I’m a traveler, Senn, and if I can end this conflict
-I may end the oppression of Magnorites
-everywhere.
+I’m a traveler, Senn, and if I can end this conflict I may end the oppression of Magnorites everywhere.
 
 GALLEOUS
-
-Cydonia and K’arthen have the two largest
-armies of Ardonia. Uniting them is a necessity,
-and who better than a Magnorite to do it?
+Cydonia and K’arthen have the two largest armies of Ardonia. Uniting them is a necessity, and who better than a Magnorite to do it?
 
 IGNEOUS
-
-Sounds good to me. It really was nice meeting
-you Senn, I’m going to miss the only friend I’ve
-ever had.
+Sounds good to me. It really was nice meeting you Senn, I’m going to miss the only friend I’ve ever had.
 
 Igneous turns and starts leaving.
 
 SENN
-
-Wait Igneous? You’re going to leave just like
-that?
+Wait Igneous? You’re going to leave just like that?
 
 Igneous continues to remain positive and happy.
 
 IGNEOUS
-
-Hey, I have a short lifespan remember? There’s
-not a moment to waste.
+Hey, I have a short lifespan remember? There’s not a moment to waste.
 
 GALLEOUS
-
-A bit of patience may save you even more time,
-my young friend. The borders of K’arthen are
-closed and the people suspicious. However, I
-have a contact in Cydonia who can aid you.
-Take this gold, sail to Meridian, and find Aren
-the Fletcher. Be cautious, Magnorites are not
-welcome in Cydonia.
+A bit of patience may save you even more time, my young friend. The borders of K’arthen are closed and the people suspicious. However, I have a contact in Cydonia who can aid you. Take this gold, sail to Meridian, and find Aren the Fletcher. Be cautious, Magnorites are not welcome in Cydonia.
 
 Galleous hands Igneous some gold.
 
 IGNEOUS
-
-Thank you Galleous. I hope we’ll see each other
-again Senn.
+Thank you Galleous. I hope we’ll see each other again Senn.
 
 SENN
-
 I think we will. Goodbye Igneous, and good luck!
 
 Igneous turns and walks off.
-Fades to Abbigail. She sticks a wooden shovel in the dirt, and stands
-by her work.
-It is night time, and she has made a small grave for Sam.
-She lowers down onto her knees in sadness.
+Fades to Abbigail. She sticks a wooden shovel in the dirt, and stands by her work. It is night time, and she has made a small grave for Sam. She lowers down onto her knees in sadness.
 
 ABBIGAIL
-
 *sad, but not in tears* I’m sorry Sam.
 
-She puts her hand on the dirt above his grave.
-Slowly a light can be seen growing in brightness behind Abbigail.
-She turns around and sees the Enderdragon egg glowing brightly.
-She stands up as energy begins swirling around the egg.
-Suddenly the egg explodes and Abbigail holds up her hands to
-protect herself.
-When she removes her arms the egg is gone.
+She puts her hand on the dirt above his grave. Slowly a light can be seen growing in brightness behind Abbigail. She turns around and sees the Enderdragon egg glowing brightly. She stands up as energy begins swirling around the egg. Suddenly the egg explodes and Abbigail holds up her hands to protect herself. When she removes her arms the egg is gone.
 
 ABBIGAIL
 *to herself* What happened?
-She goes over to where the egg was. Nothing is there.
-Just then, an animal noise is heard to the side.
 
-Abbigail turns and sees a baby Enderdragon climbing onto a
-nearby rock. Her eyes open wide.
-The dragon climbs higher onto the rock.
+She goes over to where the egg was. Nothing is there. Just then, an animal noise is heard to the side. Abbigail turns and sees a baby Enderdragon climbing onto a nearby rock. Her eyes open wide. The dragon climbs higher onto the rock.
+
 ABBIGAIL
 No wait, wait come back!
 
-The dragon stops on the top of the rock and makes a silhouette
-against the bright moon which it gazes towards.
-Abbigail stops to admire it.
+The dragon stops on the top of the rock and makes a silhouette against the bright moon which it gazes towards. Abbigail stops to admire it.
 
 ABBIGAIL
-
 Luna...
 
-Camera cuts back a bit, shows a messenger bird sitting by
-watching, which flies off.
-Cuts to Niika. She’s sitting in a park at Riverstead. She looks up
-suddenly and seems a bit worried, and sniffs the air. Music
-becomes suspenseful.
+Camera cuts back a bit, shows a messenger bird sitting by watching, which flies off.
+Cuts to Niika. She’s sitting in a park at Riverstead. She looks up suddenly and seems a bit worried, and sniffs the air. Music becomes suspenseful.
 
 NIIKA
-
 *sniffs the air*
 
-Cuts to the Felden armies, they enter the tunnels of Mt. Tempus and
-make it to the Necrobase. As they charge in though, the camera
-spins around slowly and reveals the place empty.
-Back to Niika, she walks to the edge of town, still looking concerned.
-Some nearby farm animals begin to get very worried and panicky.
-
+Cuts to the Felden armies, they enter the tunnels of Mt. Tempus and make it to the Necrobase. As they charge in though, the camera spins around slowly and reveals the place empty.
+Back to Niika, she walks to the edge of town, still looking concerned. Some nearby farm animals begin to get very worried and panicky.
 Cuts back to Lucan, he looks towards Kiyoshi realizing the worst.
 
 LUCAN
-
 We’re too late...
 
-Cuts back to Niika, camera turns slowly to show what she’s looking
-at.
-Suspenseful music cuts out with a loud boom as it reveals the
-Necrolord standing just outside the city.
-Niika turns and runs.
-The Necrolord holds his staff up slowly with the Wither skull on top.
-Undead begin walking out of the shadowy cave beneath him.
-Cut to black.
-
-Back to Galleous and Senn eating.
+Cuts back to Niika, camera turns slowly to show what she’s looking at. Suspenseful music cuts out with a loud boom as it reveals the Necrolord standing just outside the city. Niika turns and runs. The Necrolord holds his staff up slowly with the Wither skull on top. Undead begin walking out of the shadowy cave beneath him.
+Cut to black. Back to Galleous and Senn eating.
 
 GALLEOUS
 I see you have quite the appetite.
 
 SENN
-
-I haven’t had much to eat since... well... since
-everything happened.
+I haven’t had much to eat since... well... since everything happened.
 
 GALLEOUS
-
-You may feast and rest easy now. As long as
-you are here you will be under our protection.
+You may feast and rest easy now. As long as you are here you will be under our protection.
 
 SENN
+Thank you. *eats then pause* Galleous... if the Voltaris were nearly wiped out in the Great War, why do you believe such drastic preparations are necessary?
 
-Thank you. *eats then pause* Galleous... if the
-Voltaris were nearly wiped out in the Great War,
-why do you believe such drastic preparations
-are necessary?
-
-Galleous doesn’t respond, then gets up and walks to the side of the
-room and looks out over Ataraxia.
+Galleous doesn’t respond, then gets up and walks to the side of the room and looks out over Ataraxia.
 
 GALLEOUS
+Times are changing, and Thalleous knew it before the rest of us. I myself may not get around much, but acquiring information has been somewhat of a specialty of mine.
 
-Times are changing, and Thalleous knew it
-before the rest of us. I myself may not get
-around much, but acquiring information has
-been somewhat of a specialty of mine.
-
-As Galleous says these next things, it shows them happening. We
-see Riverstead destroyed as the Felden armies arrives back, too
-late. Lucan and Niika meet back up. The Ardoni warriors ride on
-horseback across the wilderness. Igneous is sailing south on a ship.
-Abbigail walks off into the wilderness with Luna on her shoulder.
+As Galleous says these next things, it shows them happening. We see Riverstead destroyed as the Felden armies arrives back, too late. Lucan and Niika meet back up. The Ardoni warriors ride on horseback across the wilderness. Igneous is sailing south on a ship. Abbigail walks off into the wilderness with Luna on her shoulder.
 
 GALLEOUS
+At this very moment, the armies of Felden have begun their war against the Necromancers. A dark shroud will soon spread across the kingdom of Felden. The Ardoni clans have called many warriors south to exact revenge on the Voltaris and destroy them once and for all. Your friend Igneous travels to K’arthen to settle a civil war between kingdoms. And, most exciting of all, there have even been reports that the first Enderdragon has been hatched in over a hundred years.
 
-At this very moment, the armies of Felden have
-begun their war against the Necromancers. A
-dark shroud will soon spread across the
-kingdom of Felden. The Ardoni clans have
-called many warriors south to exact revenge
-on the Voltaris and destroy them once and for
-all. Your friend Igneous travels to K’arthen to
-settle a civil war between kingdoms. And, most
-
-exciting of all, there have even been reports
-that the first Enderdragon has been hatched in
-over a hundred years.
 Back to Galleous talking to Senn.
 
 GALLEOUS
+If we are to prevent a Second Great War, we are going to need everyone.
 
-If we are to prevent a Second Great War, we are
-going to need everyone.
 Senn stands up and walks towards Galleous.
+
 SENN
 I will gladly fight. What must I do?
 
 GALLEOUS
-
-I will train you Senn, as Thalleous would have.
-Now come with me, there is something I must
-show you.
+I will train you Senn, as Thalleous would have. Now come with me, there is something I must show you.
 
 Galleous starts walking off. Senn follows.
 
 GALLEOUS
+Even though I avoided the battles and ignored my brother’s warnings... part of me believed in him.
 
-Even though I avoided the battles and ignored
-my brother’s warnings... part of me believed in
-him.
-
-Cuts to a trapdoor opening. Galleous climbs down a ladder. Senn
-follows and looks around surprised.
+Cuts to a trapdoor opening. Galleous climbs down a ladder. Senn follows and looks around surprised.
 
 GALLEOUS
+I do not just make tools Senn. I have been preparing for the Voltaris in my own way.
 
-I do not just make tools Senn. I have been
-preparing for the Voltaris in my own way.
-The camera slides away down the room. It is filled with high-quality
-weapons and armor, some even diamond.
-Cuts to the mountain clearing where Thalleous first met the Voltaris
-and Hawken died. There is a large and mysterious energy sphere in
-the center.
-Voltaris surround the event.
+The camera slides away down the room. It is filled with high-quality weapons and armor, some even diamond.
+Cuts to the mountain clearing where Thalleous first met the Voltaris and Hawken died. There is a large and mysterious energy sphere in the center. Voltaris surround the event.
 
 TYGREN
+How long has it been...? One and a half centuries?
 
-How long has it been...? One and a half
-centuries?
 Tygren turns around.
 
 TYGREN
+Well what are you all gawking at?! Stand firm. Our days of hiding in the shadows are at an end, my brothers.
 
-Well what are you all gawking at?! Stand firm.
-Our days of hiding in the shadows are at an
-end, my brothers.
-
-Cuts to the side of the clearing. Camera slides to reveal a pair of
-feet. The feet start walking forward into the clearing.
-Tygren turns to see Zulius Kaltaris.
+Cuts to the side of the clearing. Camera slides to reveal a pair of feet. The feet start walking forward into the clearing. Tygren turns to see Zulius Kaltaris.
 
 ZULIUS KALTARIS
-
-Voltaris... even after all this time, you do not
-know when to admit defeat. You continue to
-
-harness dark magic and slaughter the
-innocent. For this, you must be destroyed.
+Voltaris... even after all this time, you do not know when to admit defeat. You continue to harness dark magic and slaughter the innocent. For this, you must be destroyed.
 
 TYGREN
+You traveled all this way for us... I’m flattered. However, you should have come better prepared.
 
-You traveled all this way for us... I’m flattered.
-However, you should have come better
-prepared.
-
-Tygren draws Thalleous’ sword out.
-Zulius draws his sword as well, and suddenly other Ardoni reveal
-themselves around the outcrop as well, drawing swords.
-Tygren looks worried, but just then the energy sphere in the middle
-expands rapidly and begins resembling a portal.
-Tygren turns to look at it, then turns back to Zulius.
+Tygren draws Thalleous’ sword out. Zulius draws his sword as well, and suddenly other Ardoni reveal themselves around the outcrop as well, drawing swords. Tygren looks worried, but just then the energy sphere in the middle expands rapidly and begins resembling a portal. Tygren turns to look at it, then turns back to Zulius.
 
 TYGREN
-
-On second thought, you should have come
-sooner! Even your combined forces are too late
-to stop the coming doom!
+On second thought, you should have come sooner! Even your combined forces are too late to stop the coming doom!
 
 ZULIUS KALTARIS
-
 We will soon see which of us is doomed.
 
 Zulius raises his sword up.
 
 ZULIUS KALTARIS
-
 Ardoni!
 
-The Ardoni charge down the outcrop and engage battle with the
-Voltaris. Tygren and Zulius charge each other. Trygren fires his
-offensive song. Zulius jumps over it as it soars below him. He lands
-and continues running. They clash with the portal behind them. It’s
-an all-out battle.
-The good Ardoni appear to be losing however, and many are dying.
-At one point Zulius fires his offensive Song in desperation at Tygren
-which grazes him and knocks him down.
-When he gets back up, Zulius and Hadion are standing side by side.
-Tygren backs up towards the portal.
-Suddenly a deep bass noise is heard, and Hadion and Zulius look
-towards the portal. Tygren turns around.
-Suddenly the portal explodes outwards, breaking the obsidian.
-The portal is now opened, and through it they are able to see a
-different looking image of the same location.
+The Ardoni charge down the outcrop and engage battle with the Voltaris. Tygren and Zulius charge each other. Trygren fires his offensive song. Zulius jumps over it as it soars below him. He lands and continues running. They clash with the portal behind them. It’s an all-out battle.
+The good Ardoni appear to be losing however, and many are dying. At one point Zulius fires his offensive Song in desperation at Tygren which grazes him and knocks him down. When he gets back up, Zulius and Hadion are standing side by side. Tygren backs up towards the portal.
+Suddenly a deep bass noise is heard, and Hadion and Zulius look towards the portal. Tygren turns around. Suddenly the portal explodes outwards, breaking the obsidian. The portal is now opened, and through it they are able to see a different looking image of the same location.
 
 HADION MENDORIS
-
 *worried* It cannot be...
 
 ZULIUS KALTARIS
 *realizing* The Great War....
 
-The camera does a continuous pan across the portal and the
-scene transitions from their dark snowy mountaintop to the exact
-same mountaintop seamlessly, however the snow is lacking and a
-bright red sun shines over a scorched terrain, with a large battle
-going on below the mountain.
+The camera does a continuous pan across the portal and the scene transitions from their dark snowy mountaintop to the exact same mountaintop seamlessly, however the snow is lacking and a bright red sun shines over a scorched terrain, with a large battle going on below the mountain.
 
-On the mountain top, two figures fight, and a few dead bodies are
-scattered. The figures are not yet identifiable, but they fight with
-such ferocity and elegance that has not been seen before.
-The Deathsinger knocks Tidesinger down, and his staff falls a bit out
-of reach, showing the Deathsinger’s superiority.
-He finally speaks as the Tidesinger regains himself.
+On the mountain top, two figures fight, and a few dead bodies are scattered. The figures are not yet identifiable, but they fight with such ferocity and elegance that has not been seen before.
+The Deathsinger knocks Tidesinger down, and his staff falls a bit out of reach, showing the Deathsinger’s superiority. He finally speaks as the Tidesinger regains himself.
+
 DEATHSINGER
 
-*slightly winded* They call me... Deathsinger,
-yet it was they who slaughtered my people and
-denied me the Prime Songs which were
-rightfully mine. Why, Achillean, do they call you
-Tidesinger?
+*slightly winded* They call me... Deathsinger, yet it was they who slaughtered my people and denied me the Prime Songs which were rightfully mine. Why, Achillean, do they call you Tidesinger?
 
 The Tidesinger gets back up and faces Deathsinger.
-TIDESINGER
-
-Because I have united the people of Ardonia
-against this nightmare you have created.
-They fight a bit more and the Tidesinger fires a song at the
-Deathsinger causing him to back up a bit and deflect.
-DEATHSINGER
-
-You certainly have improved your ability to
-wield the Songs. I wonder... what you would
-have done had you been given the Primes.
 
 TIDESINGER
+Because I have united the people of Ardonia against this nightmare you have created.
 
-The Prime Songs have always been your desire,
-not mine. I would have refused them, for no one
-should wield their combined power.
+They fight a bit more and the Tidesinger fires a song at the Deathsinger causing him to back up a bit and deflect.
+
 DEATHSINGER
-
-That is what they all say... until you have felt
-them for yourself.
-
-The Tidesinger attacks again, but the Deathsinger keeps him held
-back.
+You certainly have improved your ability to wield the Songs. I wonder... what you would have done had you been given the Primes.
 
 TIDESINGER
-
-What are you doing here Ingressus? What sort
-of magic are you attempting to unleash? You
-have already lost.
+The Prime Songs have always been your desire, not mine. I would have refused them, for no one should wield their combined power.
 
 DEATHSINGER
+That is what they all say... until you have felt them for yourself.
 
-You are right... I have lost this war... but you have
-not defeated me. You are my greatest
-adversary, Achillean. You united the clans,
-allied with the Enderknights, and brought
-together an army which I could never have
-hoped to destroy. *pause* And you- you
-Achillean, stood between me and the Prime
-Songs. Do you remember who it was− who
-suggested I enter the tournament in the first
-place?
+The Tidesinger attacks again, but the Deathsinger keeps him held back.
+
+TIDESINGER
+What are you doing here Ingressus? What sort of magic are you attempting to unleash? You have already lost.
+
+DEATHSINGER
+You are right... I have lost this war... but you have not defeated me. You are my greatest adversary, Achillean. You united the clans, allied with the Enderknights, and brought together an army which I could never have hoped to destroy. *pause* And you- you Achillean, stood between me and the Prime Songs. Do you remember who it was− who suggested I enter the tournament in the first place?
 
 The Tidesinger remains silent, but looks slightly hurt.
+
 DEATHSINGER
+I cannot win this war- not now. But I will return... long after this battle is over and I have been forgotten, when Ardonia has grown weak and my enemies are gone, and when you are no longer there to stop me.
 
-I cannot win this war- not now. But I will return...
-long after this battle is over and I have been
-forgotten, when Ardonia has grown weak and
-my enemies are gone, and when you are no
-longer there to stop me.
-
-Deathsinger attacks the Tidesinger one last time and forces him off
-over the edge of a cliff.
-Deathsinger turns and goes towards the portal. Through it you can
-see Tygren, Hadion, and the other Ardoni from present time all
-watching with awestruck eyes.
-As the Deathsinger approaches the portal, his Songs are stripped
-away and land on the ground. He looks down at them, then
-continues. The camera slides down to the Prime Songs laying on
-the ground, just as they had been in the opening narration of
-Episode 1.
-Music is rising and becoming tense. The Deathsinger walks through
-the portal and steps out of the past into present time.
+Deathsinger attacks the Tidesinger one last time and forces him off over the edge of a cliff.
+Deathsinger turns and goes towards the portal. Through it you can see Tygren, Hadion, and the other Ardoni from present time all watching with awestruck eyes.
+As the Deathsinger approaches the portal, his Songs are stripped away and land on the ground. He looks down at them, then continues. The camera slides down to the Prime Songs laying on the ground, just as they had been in the opening narration of Episode 1. Music is rising and becoming tense. The Deathsinger walks through the portal and steps out of the past into present time.
 Camera slides back as music crescendos.
 
 To be continued in Season 2.

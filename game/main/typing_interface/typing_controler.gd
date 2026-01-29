@@ -20,7 +20,7 @@ var complete: bool = false
 signal typing_complete
 
 
-const vaild_characters: Array[String] = ['_', '-', '+', '=', '.', ',', ':', ';', '?', '!',
+const vaild_characters: Array[String] = ['_', '-', '+', '=', '.', ',', ':', ';', '?', '!', "'",
 '@', '#', '$', '%', '^', '&', '*', '(', ')', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9',
 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P',
@@ -42,6 +42,8 @@ func setup_text(string: String) -> void:
 	complete = false
 	if not smooth_caret == null:
 		smooth_caret.reset_position()
+	if not smooth_progress_bar == null:
+		smooth_progress_bar.reset_progress()
 	refresh_text()
 
 
@@ -103,6 +105,7 @@ func _input(event: InputEvent) -> void:
 				complete = true
 				await _timer(0.25)
 				emit_signal("typing_complete")
+				return
 			
 			character_index += 1
 			refresh_text()
@@ -121,6 +124,7 @@ func _input(event: InputEvent) -> void:
 					complete = true
 					await _timer(0.25)
 					emit_signal("typing_complete")
+					return
 				
 				character_index += 1
 				refresh_text()

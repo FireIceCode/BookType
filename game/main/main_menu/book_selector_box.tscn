@@ -2,6 +2,7 @@
 
 [ext_resource type="Script" uid="uid://bcq4geggdnwyk" path="res://game/main/main_menu/book_selector_box.gd" id="1_trduw"]
 [ext_resource type="Theme" uid="uid://dpl2do44yaxqr" path="res://game/themes/Dark.tres" id="2_tg8t6"]
+[ext_resource type="Texture2D" uid="uid://uhhc27d2ywhr" path="res://game/assets/white_play.svg" id="3_fgq7b"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_tg8t6"]
 content_margin_left = 0.0
@@ -16,15 +17,12 @@ corner_radius_bottom_left = 10
 
 [node name="BookSelectorBox" type="MarginContainer" unique_id=940014575]
 custom_minimum_size = Vector2(200, 50)
-anchors_preset = 5
-anchor_left = 0.5
-anchor_right = 0.5
-offset_left = -100.0
-offset_right = 100.0
-offset_bottom = 50.0
+anchors_preset = 10
+anchor_right = 1.0
+offset_bottom = 46.0
 grow_horizontal = 2
-size_flags_horizontal = 3
 size_flags_vertical = 4
+size_flags_stretch_ratio = 0.0
 theme_override_constants/margin_left = 5
 theme_override_constants/margin_top = 5
 theme_override_constants/margin_right = 5
@@ -48,11 +46,14 @@ theme_override_constants/margin_right = 5
 theme_override_constants/margin_bottom = 5
 
 [node name="Button" type="Button" parent="HBoxContainer/MarginContainer" unique_id=826949978]
-custom_minimum_size = Vector2(75, 25)
+custom_minimum_size = Vector2(100, 25)
 layout_mode = 2
 size_flags_horizontal = 0
 theme = ExtResource("2_tg8t6")
-text = "Type"
+text = "Resume"
+icon = ExtResource("3_fgq7b")
+autowrap_trim_flags = 192
+expand_icon = true
 
 [node name="Title" type="Label" parent="HBoxContainer" unique_id=78654079]
 layout_mode = 2

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="BookType.svg"
+   inkscape:export-filename="..\Documents\booktype\game\assets\booktype_logo.svg"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1691"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.25"
+     inkscape:cx="60.0"
+     inkscape:cy="60.0"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:export-bgcolor="#ffffff00">
+    <inkscape:grid
+       type="xygrid"
+       id="grid254"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="32"
+       height="32"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1686" />
+  <g
+     inkscape:label="Book"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2188"
+       inkscape:label="book">
+      <path
+         id="rect363"
+         style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 8.4561673,6.0000001 21.436672,6 c 0,0 -0.0061,13.333347 5e-6,20 H 8.4561673 c -1.1045695,0 -2,-0.895431 -2,-2 V 8.0000001 c 0,-1.1045695 0.8954305,-2 2,-2 z"
+         sodipodi:nodetypes="ccccssc"
+         inkscape:label="page" />
+      <path
+         id="rect2057"
+         d="M 8.4553972,21.999529 21.436672,22 c 0,0 4.69e-4,0.89496 4.69e-4,1.999529 v 9.4e-4 C 21.437141,25.105038 21.436672,26 21.436672,26 l -12.9812748,4.69e-4 c -1.1045695,4e-5 -2,-0.895431 -2,-2 v -9.4e-4 c 0,-1.104569 0.8954305,-2.00004 2,-2 z"
+         style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         sodipodi:nodetypes="scsscssss"
+         inkscape:label="cover" />
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect2182"
+         width="10"
+         height="2"
+         x="9"
+         y="9"
+         ry="1"
+         inkscape:label="title" />
+      <rect
+         style="fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect2190"
+         width="8"
+         height="2"
+         x="10"
+         y="12"
+         ry="1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Cursor">
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect2064"
+       width="2.016"
+       height="22"
+       x="24.473595"
+       y="5"
+       ry="1"
+       inkscape:label="caret" />
+  </g>
+</svg>

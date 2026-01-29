@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7vecbcoo6ply"
-path="res://.godot/imported/booktype_logo.svg-5f5a33365662a6a74bd856c53aeeb76a.ctex"
+uid="uid://dixgdbjn2f8w8"
+path="res://.godot/imported/booktype_desktop_logo.svg-0e45530b4fbcf39db4f4635e171f1940.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/logos/booktype_logo.svg"
-dest_files=["res://.godot/imported/booktype_logo.svg-5f5a33365662a6a74bd856c53aeeb76a.ctex"]
+source_file="res://game/assets/booktype_desktop_logo.svg"
+dest_files=["res://.godot/imported/booktype_desktop_logo.svg-0e45530b4fbcf39db4f4635e171f1940.ctex"]
 
 [params]
 

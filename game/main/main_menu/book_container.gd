@@ -28,7 +28,7 @@ func load_books() -> void:
 
 # Takes in a list of folders, and gets the metadata of the book from the metadata.json file.
 func _create_child_book_selector_boxes(directories : PackedStringArray) -> void:
-	# Ensure only ".txt" files
+	# Ensure correct format.
 	var metadatas: Array[Dictionary]
 	for dir : String in directories:
 		if FileAccess.file_exists(dir + "/metadata.json"):
@@ -42,4 +42,8 @@ func _create_child_book_selector_boxes(directories : PackedStringArray) -> void:
 		var child = book_selector_box.instantiate()
 		child.book_directory = metadata.get("directory", "user://books/builtin/ArtofWar")
 		child.book_title = metadata.get("title", "Title metadata not found!")
+		if FileAccess.file_exists("user://saves/" + metadata.get("title") + ".save"):
+			child.button_text = "Resume"
+		else:
+			child.button_text = "Start"
 		self.add_child(child)

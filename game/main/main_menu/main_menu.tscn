@@ -22,7 +22,8 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-size_flags_horizontal = 4
+size_flags_horizontal = 6
+size_flags_vertical = 3
 
 [node name="Panel" type="Panel" parent="." unique_id=499001987]
 layout_mode = 1
@@ -52,8 +53,24 @@ theme_override_constants/margin_bottom = 5
 [node name="VBoxContainer" type="VBoxContainer" parent="Main Menu/SidebarMarginContainer" unique_id=116647438]
 layout_mode = 2
 
-[node name="Label" type="Label" parent="Main Menu/SidebarMarginContainer/VBoxContainer" unique_id=1287935044]
+[node name="Control" type="Control" parent="Main Menu/SidebarMarginContainer/VBoxContainer" unique_id=1481284083]
+custom_minimum_size = Vector2(0, 50)
 layout_mode = 2
+
+[node name="Label" type="Label" parent="Main Menu/SidebarMarginContainer/VBoxContainer/Control" unique_id=1287935044]
+custom_minimum_size = Vector2(0, 50)
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -150.0
+offset_top = -25.0
+offset_right = 150.0
+offset_bottom = 25.0
+grow_horizontal = 2
+grow_vertical = 2
 size_flags_vertical = 0
 theme = ExtResource("1_kp4qi")
 theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.101960786)
@@ -65,6 +82,12 @@ theme_override_constants/shadow_outline_size = 5
 theme_override_font_sizes/font_size = 32
 text = "-= BookType =-"
 horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="TextureRect" type="TextureRect" parent="Main Menu/SidebarMarginContainer/VBoxContainer/Control" unique_id=1012579158]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
 
 [node name="AddFileButton" type="Button" parent="Main Menu/SidebarMarginContainer/VBoxContainer" unique_id=1063680482]
 custom_minimum_size = Vector2(300, 25)
@@ -102,11 +125,12 @@ theme_override_styles/panel = SubResource("StyleBoxFlat_0o1p5")
 [node name="BodyScrollContainer" type="ScrollContainer" parent="Main Menu" unique_id=754148199]
 layout_mode = 2
 size_flags_horizontal = 3
+size_flags_stretch_ratio = 0.0
 
 [node name="BookContainer" type="VBoxContainer" parent="Main Menu/BodyScrollContainer" unique_id=133058819]
 layout_mode = 2
 size_flags_horizontal = 3
-size_flags_vertical = 3
+size_flags_stretch_ratio = 0.0
 script = ExtResource("2_fu7sn")
 
 [connection signal="pressed" from="Main Menu/SidebarMarginContainer/VBoxContainer/AddFileButton" to="Main Menu/SidebarMarginContainer/VBoxContainer/AddFileButton" method="_on_pressed"]

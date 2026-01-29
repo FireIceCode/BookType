@@ -32,21 +32,34 @@ func transition_typing_interface() -> void:
 	_transition_scene(Scene.TYPING_INTERFACE)
 
 ## Sets up the requested book, using the directory in which the metadata file, and the page texts exists.
-func set_book_directory(dir: String) -> void:
+func set_book(dir: String) -> void:
 	if FileAccess.file_exists(dir + "/metadata.json"):
 		var json_string: String = FileAccess.get_file_as_string(dir + "/metadata.json")
 		book_metadata = JSON.parse_string(json_string)
 		book_directory = dir
+		var save_file: String = "user://saves/" + book_metadata.get("title") + ".save"
+		if FileAccess.file_exists(save_file):
+			var save: Dictionary = JSON.parse_string(FileAccess.get_file_as_string(save_file))
+			book_page = save.get("page", 0) + 1
+		else:
+			book_page = 0
 
 
 ## Creates the main folders, and copies the built in files to the builtin folder
 func _create_directory() -> void:
 	# Main directory setup
 	if DirAccess.dir_exists_absolute("user://books/custom"):
-		print("Book Directory found")
+		print("Book Directory found!")
 	else:
 		DirAccess.make_dir_recursive_absolute("user://books/custom")
 		print("Main directory created.")
+	
+	# Saves directory setup
+	if DirAccess.dir_exists_absolute("user://saves"):
+		print("Saves Directory found!")
+	else:
+		DirAccess.make_dir_absolute("user://saves")
+		print("Saves directory created.")
 	
 	# Copy buit in books.
 	DirAccess.make_dir_recursive_absolute("user://books/builtin")
@@ -105,14 +118,15 @@ func _transition_scene(scene: int) -> void:
 	match scene:
 		Scene.MAIN_MENU:
 			child = load("res://game/main/main_menu/main_menu.tscn").instantiate()
+			
 		Scene.TYPING_INTERFACE:
 			child = load("res://game/main/typing_interface/typing_interface.tscn").instantiate()
 			child.book_title = book_metadata.get("title", "Title not found - Invalid metadata?")
-			child.page_number = book_page + 1
-			child.max_page_number = book_metadata.get("pages", 0) + 1
+			child.page_number = book_page
+			child.max_page_number = book_metadata.get("pages", 0)
 			child.page_text = _get_current_book_page_text()
 			if child.has_signal("page_complete"):
-				child.connect("page_complete", _set_next_page)
+				child.connect("page_complete", _page_complete)
 			
 	scene_node.add_child(child)
 	animation_player.play("clear")
@@ -137,8 +151,6 @@ func _get_current_book_page_text() -> String:
 func _set_next_page() -> void:
 	book_page += 1
 	book_page = clampi(book_page, 0, book_metadata.get("pages", 0))
-	# Book completion check
-	#TODO ^
 	# Get typing interface
 	var typing_interface: TypingInterface = scene_node.get_child(0)
 	if not typing_interface is TypingInterface:
@@ -146,6 +158,26 @@ func _set_next_page() -> void:
 		return
 	# Update typing interface
 	var page_text: String = _get_current_book_page_text()
-	typing_interface.page_number = book_page + 1
+	typing_interface.page_number = book_page
 	typing_interface.page_text = page_text
 	typing_interface.setup_book()
+
+
+func _page_complete() -> void:
+	_save_book_progress()
+	#TODO Book completion check.
+	_set_next_page()
+
+
+func _save_book_progress() -> void:
+	var save: Dictionary
+	# Check for existing file
+	if FileAccess.file_exists(book_metadata.get("title") + ".save"):
+		var json: String = FileAccess.get_file_as_string(book_metadata.get("title") + ".save")
+		save = JSON.parse_string(json)
+	
+	save.set("page", book_page)
+	
+	# Save data
+	var json_string: String = JSON.stringify(save)
+	FileAccess.open("user://saves/" + book_metadata.get("title") + ".save", FileAccess.WRITE).store_string(json_string)

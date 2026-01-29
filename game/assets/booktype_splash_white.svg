@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="SVGRoot"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1686" />
+  <g
+     id="layer1">
+    <g
+       id="g2188">
+      <path
+         id="rect363"
+         style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.910341;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 12.365936,11.182772 h 6.253006 c 0,0 -0.0029,6.422977 3e-6,9.634456 h -6.253009 c -0.532096,0 -0.963445,-0.431349 -0.963445,-0.963445 v -7.707566 c 0,-0.532096 0.431349,-0.963445 0.963445,-0.963445 z" />
+      <path
+         id="rect2057"
+         d="m 12.365565,18.89011 6.253377,2.27e-4 c 0,0 2.26e-4,0.431122 2.26e-4,0.963219 v 4.52e-4 c 0,0.532097 -2.26e-4,0.96322 -2.26e-4,0.96322 l -6.253377,2.26e-4 c -0.532096,1.9e-5 -0.963445,-0.431349 -0.963445,-0.963446 v -4.52e-4 c 0,-0.532097 0.431349,-0.963465 0.963445,-0.963446 z"
+         style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.910341;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect2182"
+         width="4.8172288"
+         height="0.96344572"
+         x="12.627913"
+         y="12.627939"
+         ry="0.48172286" />
+      <rect
+         style="fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect2190"
+         width="3.8537829"
+         height="0.96344572"
+         x="13.109636"
+         y="14.073109"
+         ry="0.48172286" />
+    </g>
+  </g>
+  <g
+     id="layer2">
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect2064"
+       width="0.97115332"
+       height="10.597903"
+       x="20.081898"
+       y="10.701048"
+       ry="0.48172286" />
+  </g>
+</svg>

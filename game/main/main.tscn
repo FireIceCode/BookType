@@ -1,4 +1,4 @@
-[gd_scene load_steps=6 format=3 uid="uid://c0qw427rtanlr"]
+[gd_scene format=3 uid="uid://c0qw427rtanlr"]
 
 [ext_resource type="PackedScene" uid="uid://oh0q0nknvqrb" path="res://game/main/main_menu/main_menu.tscn" id="1_5520f"]
 
@@ -56,17 +56,17 @@ _data = {
 &"clear": SubResource("Animation_psm6y")
 }
 
-[node name="Main" type="Control"]
+[node name="Main" type="Control" unique_id=151038722]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-size_flags_horizontal = 3
-size_flags_vertical = 3
+size_flags_horizontal = 4
+size_flags_vertical = 4
 
-[node name="Scenes" type="Control" parent="." groups=["scene_manager"]]
+[node name="Scenes" type="Control" parent="." unique_id=436448027 groups=["scene_manager"]]
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -74,10 +74,10 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 
-[node name="Main Menu" parent="Scenes" instance=ExtResource("1_5520f")]
+[node name="Main Menu" parent="Scenes" unique_id=1365054508 instance=ExtResource("1_5520f")]
 layout_mode = 1
 
-[node name="ColorRect" type="ColorRect" parent="."]
+[node name="ColorRect" type="ColorRect" parent="." unique_id=403924080]
 light_mask = 0
 layout_mode = 1
 anchors_preset = 15
@@ -89,9 +89,7 @@ mouse_filter = 2
 mouse_behavior_recursive = 1
 color = Color(0, 0, 0, 0)
 
-[node name="AnimationPlayer" type="AnimationPlayer" parent="." groups=["scene_animation_player"]]
+[node name="AnimationPlayer" type="AnimationPlayer" parent="." unique_id=66513338 groups=["scene_animation_player"]]
 root_node = NodePath("../ColorRect")
-libraries = {
-&"": SubResource("AnimationLibrary_8y833")
-}
-autoplay = "clear"
+libraries/ = SubResource("AnimationLibrary_8y833")
+autoplay = &"clear"

@@ -1,7 +1,7 @@
 extends ProgressBar
 class_name SmoothProgressBar
 
-@export var animation_speed: float = 2.5
+@export var animation_speed: float = 4
 
 var target_value: float = 0
 var animated_value: float = 0
@@ -13,8 +13,9 @@ func set_progress(num: float) -> void:
 
 
 func reset_progress() -> void:
-	animated_value = 0
 	target_value = 0
+	animated_value = 0
+	
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.

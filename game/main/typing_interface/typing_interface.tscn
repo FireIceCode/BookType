@@ -39,7 +39,6 @@ grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_0860d")
 book_title = "Default Title"
-page_text = "Sample text for testing."
 
 [node name="Background" type="Panel" parent="." unique_id=1780821857]
 layout_mode = 1
@@ -95,6 +94,8 @@ custom_minimum_size = Vector2(100, 0)
 layout_mode = 2
 size_flags_horizontal = 4
 size_flags_vertical = 4
+focus_next = NodePath("../../TitleLabel")
+focus_previous = NodePath("../../TitleLabel")
 theme = ExtResource("2_6e2yo")
 text = "Return"
 script = ExtResource("2_5kdno")
@@ -102,6 +103,8 @@ script = ExtResource("2_5kdno")
 [node name="TitleLabel" type="Label" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer" unique_id=1108862742]
 layout_mode = 2
 size_flags_horizontal = 6
+focus_previous = NodePath("../ReturnButtonMarginContainer/Button")
+focus_mode = 2
 theme = ExtResource("2_6e2yo")
 text = "Title"
 

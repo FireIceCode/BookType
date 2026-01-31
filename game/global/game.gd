@@ -40,7 +40,7 @@ func set_book(dir: String) -> void:
 		var save_file: String = "user://saves/" + book_metadata.get("title") + ".save"
 		if FileAccess.file_exists(save_file):
 			var save: Dictionary = JSON.parse_string(FileAccess.get_file_as_string(save_file))
-			book_page = save.get("page", 0) + 1
+			book_page = save.get("page", -1) + 1 #-1 ensures a completed book will start on page 0.
 		else:
 			book_page = 0
 
@@ -165,8 +165,11 @@ func _set_next_page() -> void:
 
 func _page_complete() -> void:
 	_save_book_progress()
-	#TODO Book completion check.
-	_set_next_page()
+	# Completion Check
+	if book_page >= book_metadata.get("pages", 0):
+		transition_main_menu()
+	else:
+		_set_next_page()
 
 
 func _save_book_progress() -> void:
@@ -176,7 +179,11 @@ func _save_book_progress() -> void:
 		var json: String = FileAccess.get_file_as_string(book_metadata.get("title") + ".save")
 		save = JSON.parse_string(json)
 	
-	save.set("page", book_page)
+	if book_page >= book_metadata.get("pages", 0):
+		save.set("complete", true)
+		save.erase("page")
+	else:
+		save.set("page", book_page)
 	
 	# Save data
 	var json_string: String = JSON.stringify(save)

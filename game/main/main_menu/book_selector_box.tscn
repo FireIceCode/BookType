@@ -3,6 +3,7 @@
 [ext_resource type="Script" uid="uid://bcq4geggdnwyk" path="res://game/main/main_menu/book_selector_box.gd" id="1_trduw"]
 [ext_resource type="Theme" uid="uid://dpl2do44yaxqr" path="res://game/themes/Dark.tres" id="2_tg8t6"]
 [ext_resource type="Texture2D" uid="uid://uhhc27d2ywhr" path="res://game/assets/white_play.svg" id="3_fgq7b"]
+[ext_resource type="Texture2D" uid="uid://ddjofxucphtxx" path="res://game/assets/extra_white.svg" id="4_fr86m"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_tg8t6"]
 content_margin_left = 0.0
@@ -14,6 +15,10 @@ corner_radius_top_left = 10
 corner_radius_top_right = 10
 corner_radius_bottom_right = 10
 corner_radius_bottom_left = 10
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_fr86m"]
+resource_name = "BookSelector"
+allow_unpress = true
 
 [node name="BookSelectorBox" type="MarginContainer" unique_id=940014575]
 custom_minimum_size = Vector2(200, 50)
@@ -56,10 +61,41 @@ autowrap_trim_flags = 192
 expand_icon = true
 
 [node name="Title" type="Label" parent="HBoxContainer" unique_id=78654079]
+modulate = Color(0.8175213, 0.8175213, 0.81752115, 1)
 layout_mode = 2
 size_flags_horizontal = 0
 theme = ExtResource("2_tg8t6")
-text = "Place"
+text = "Title"
 vertical_alignment = 1
+
+[node name="MarginContainer2" type="MarginContainer" parent="HBoxContainer" unique_id=399764500]
+layout_mode = 2
+size_flags_horizontal = 10
+theme_override_constants/margin_left = 5
+theme_override_constants/margin_top = 5
+theme_override_constants/margin_right = 5
+theme_override_constants/margin_bottom = 5
+
+[node name="MenuButton" type="MenuButton" parent="HBoxContainer/MarginContainer2" unique_id=1191754733]
+custom_minimum_size = Vector2(30, 0)
+layout_mode = 2
+button_group = SubResource("ButtonGroup_fr86m")
+shortcut_feedback = false
+shortcut_in_tooltip = false
+icon = ExtResource("4_fr86m")
+icon_alignment = 2
+expand_icon = true
+item_count = 5
+popup/item_0/text = "Options"
+popup/item_0/id = 0
+popup/item_0/separator = true
+popup/item_1/text = "Edit Author"
+popup/item_1/id = 1
+popup/item_2/text = "Edit Title"
+popup/item_2/id = 2
+popup/item_3/text = "Reset Data"
+popup/item_3/id = 3
+popup/item_4/text = "Delete"
+popup/item_4/id = 4
 
 [connection signal="pressed" from="HBoxContainer/MarginContainer/Button" to="." method="_on_button_pressed"]

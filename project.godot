@@ -32,6 +32,8 @@ Game="*res://game/global/game.gd"
 
 [display]
 
+window/size/viewport_width=1150
+window/size/viewport_height=655
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
 

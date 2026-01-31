@@ -42,8 +42,18 @@ func _create_child_book_selector_boxes(directories : PackedStringArray) -> void:
 		var child = book_selector_box.instantiate()
 		child.book_directory = metadata.get("directory", "user://books/builtin/ArtofWar")
 		child.book_title = metadata.get("title", "Title metadata not found!")
-		if FileAccess.file_exists("user://saves/" + metadata.get("title") + ".save"):
-			child.button_text = "Resume"
-		else:
+		
+		var page: int = 0
+		var json_string: String = FileAccess.get_file_as_string("user://saves/" + metadata.get("title") + ".save")
+		if not json_string == "":
+			var save: Dictionary = JSON.parse_string(json_string)
+			page = save.get("page", 0)
+			if save.get("complete", false):
+				child.complete = true
+		
+		if page == 0:
 			child.button_text = "Start"
+		else:
+			child.button_text = "Resume"
+		
 		self.add_child(child)

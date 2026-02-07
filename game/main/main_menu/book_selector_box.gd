@@ -8,8 +8,6 @@ extends Control
 @onready var title_label: Label = $HBoxContainer/Title
 @onready var button: Button = $HBoxContainer/MarginContainer/Button
 
-
-
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
 	title_label.text = book_title

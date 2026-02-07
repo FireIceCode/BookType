@@ -168,6 +168,7 @@ func _page_complete() -> void:
 	# Completion Check
 	if book_page >= book_metadata.get("pages", 0):
 		transition_main_menu()
+		MessageService.message_success(book_metadata.get("title", "BookType"), "Book Completed! You're book has become gold.")
 	else:
 		_set_next_page()
 
@@ -188,3 +189,4 @@ func _save_book_progress() -> void:
 	# Save data
 	var json_string: String = JSON.stringify(save)
 	FileAccess.open("user://saves/" + book_metadata.get("title") + ".save", FileAccess.WRITE).store_string(json_string)
+	

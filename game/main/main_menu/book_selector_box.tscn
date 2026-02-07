@@ -4,6 +4,7 @@
 [ext_resource type="Theme" uid="uid://dpl2do44yaxqr" path="res://game/themes/Dark.tres" id="2_tg8t6"]
 [ext_resource type="Texture2D" uid="uid://uhhc27d2ywhr" path="res://game/assets/white_play.svg" id="3_fgq7b"]
 [ext_resource type="Texture2D" uid="uid://ddjofxucphtxx" path="res://game/assets/extra_white.svg" id="4_fr86m"]
+[ext_resource type="Script" uid="uid://bjmxim8ysmvve" path="res://game/main/main_menu/book_selector_menu.gd" id="5_lrt5l"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_tg8t6"]
 content_margin_left = 0.0
@@ -76,7 +77,7 @@ theme_override_constants/margin_top = 5
 theme_override_constants/margin_right = 5
 theme_override_constants/margin_bottom = 5
 
-[node name="MenuButton" type="MenuButton" parent="HBoxContainer/MarginContainer2" unique_id=1191754733]
+[node name="MenuButton" type="MenuButton" parent="HBoxContainer/MarginContainer2" unique_id=1191754733 node_paths=PackedStringArray("BookSelectorBox")]
 custom_minimum_size = Vector2(30, 0)
 layout_mode = 2
 button_group = SubResource("ButtonGroup_fr86m")
@@ -89,13 +90,15 @@ item_count = 5
 popup/item_0/text = "Options"
 popup/item_0/id = 0
 popup/item_0/separator = true
-popup/item_1/text = "Edit Author"
+popup/item_1/text = "Edit Title"
 popup/item_1/id = 1
-popup/item_2/text = "Edit Title"
+popup/item_2/text = "Edit Author"
 popup/item_2/id = 2
 popup/item_3/text = "Reset Data"
 popup/item_3/id = 3
 popup/item_4/text = "Delete"
 popup/item_4/id = 4
+script = ExtResource("5_lrt5l")
+BookSelectorBox = NodePath("../../..")
 
 [connection signal="pressed" from="HBoxContainer/MarginContainer/Button" to="." method="_on_button_pressed"]

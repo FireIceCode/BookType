@@ -1,0 +1,23 @@
+[gd_scene format=3 uid="uid://xgib6ts11o2y"]
+
+[ext_resource type="Script" uid="uid://c1juhoccstfo2" path="res://game/global/message_service/message_service.gd" id="1_fka6o"]
+
+[node name="MessageService" type="Control" unique_id=1796665796 node_paths=PackedStringArray("container")]
+z_index = 1
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_fka6o")
+container = NodePath("VBoxContainer")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=743669225]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -287.5
+offset_right = 287.5
+grow_horizontal = 2

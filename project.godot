@@ -29,6 +29,7 @@ boot_splash/minimum_display_time=1000
 
 BookHandler="*res://game/global/book_handler.gd"
 Game="*res://game/global/game.gd"
+MessageService="*uid://xgib6ts11o2y"
 
 [display]
 

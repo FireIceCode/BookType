@@ -1,3 +1,4 @@
+class_name TypingControler
 extends RichTextLabel
 
 
@@ -13,7 +14,7 @@ extends RichTextLabel
 
 var character_index: int = 0
 var number_incorrect: int = 0
-var starting_timestamp = 0
+var starting_timestamp: int = 0
 var incorrect_list: Array[int] = []
 var complete: bool = false
 
@@ -37,6 +38,7 @@ func _ready() -> void:
 func setup_text(string: String) -> void:
 	character_index = 0
 	number_incorrect = 0
+	starting_timestamp = 0
 	incorrect_list = []
 	book_text = string
 	complete = false
@@ -73,6 +75,13 @@ func refresh_text() -> void:
 	_update_scroll()
 
 
+## Returns current WPM
+func get_wpm() -> float:
+	var seconds: float = float(Time.get_ticks_msec()) / 1000
+	# Takes character index, considers a word to be length 5, and divides by seconds.
+	var WPM = snappedf(float(character_index) / 5 / seconds * 60, 0.01)
+	return WPM
+
 # Handle typing input, and feedback.
 func _input(event: InputEvent) -> void:
 	# Check for completion
@@ -81,6 +90,10 @@ func _input(event: InputEvent) -> void:
 	
 	# Ensure correct input type
 	if event is InputEventKey and !event.is_echo() and !event.is_released():
+		# Check for typing start, or calculate WPM
+		if starting_timestamp == 0:
+			starting_timestamp = Time.get_ticks_msec()
+		
 		# Check for backspace
 		if event.is_action("backspace"):
 			character_index -= 1

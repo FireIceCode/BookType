@@ -8,13 +8,14 @@ enum Scene {MAIN_MENU, TYPING_INTERFACE}
 var transitioning: bool = false
 
 # Active book data
-var book_page: int = 0
 var book_directory: String = "user://books/builtin/Art of War"
 var book_metadata: Dictionary = {
 	"title": "Art of War",
 	"pages": 0,
-	"author": "Sun Tzu"
+	"author": "Sun Tzu",
 }
+var book_page: int = 0
+var page_WPM: float = 0.0
 
 
 ## Called on game startup
@@ -23,13 +24,16 @@ func _ready() -> void:
 	await _get_scene_manager()
 	await _get_animation_player()
 
+
 ## Transitions to main menu scene
 func transition_main_menu() -> void:
 	_transition_scene(Scene.MAIN_MENU)
 
+
 ## Transitions to typing interface
 func transition_typing_interface() -> void:
 	_transition_scene(Scene.TYPING_INTERFACE)
+
 
 ## Sets up the requested book, using the directory in which the metadata file, and the page texts exists.
 func set_book(dir: String) -> void:
@@ -40,7 +44,7 @@ func set_book(dir: String) -> void:
 		var save_file: String = "user://saves/" + book_metadata.get("title") + ".save"
 		if FileAccess.file_exists(save_file):
 			var save: Dictionary = JSON.parse_string(FileAccess.get_file_as_string(save_file))
-			book_page = save.get("page", -1) + 1 #-1 ensures a completed book will start on page 0.
+			book_page = save.get("page", 0) #-1 ensures a completed book will start on page 0.
 		else:
 			book_page = 0
 
@@ -71,9 +75,11 @@ func _create_directory() -> void:
 			DirAccess.copy_absolute("res://books_builtin/" + dir + "/" + file, "user://books/builtin/" + dir + "/" + file)
 	print("Copy complete.")
 
+
 ## Use await keyword to continue code after supplied seconds
 func _timer(seconds: float) -> void:
 	await get_tree().create_timer(seconds).timeout
+
 
 ## Gets the scence manager node
 func _get_scene_manager() -> void:
@@ -85,6 +91,7 @@ func _get_scene_manager() -> void:
 			print("Scene Manager node not found! (retrying)")
 			await _timer(0.1)
 
+
 ## Gets the scene animation player
 func _get_animation_player() -> void:
 	while true:
@@ -94,6 +101,7 @@ func _get_animation_player() -> void:
 		else:
 			print("Animation Player not found! (retrying)")
 			await _timer(0.1)
+
 
 ## Transitions to the requested scene with a short blackout animation.
 func _transition_scene(scene: int) -> void:
@@ -134,6 +142,7 @@ func _transition_scene(scene: int) -> void:
 	await animation_player.animation_finished
 	transitioning = false
 
+
 ## Returns the text of the currently selected book and page.
 func _get_current_book_page_text() -> String:
 	var page_path: String = book_directory + "/" + str(book_page) + ".txt"
@@ -146,6 +155,7 @@ func _get_current_book_page_text() -> String:
 		printerr(page_path + " returned null")
 		return "File access error!"
 	return text
+
 
 ## Marks the current page as finished, and transitions to the next page.
 func _set_next_page() -> void:
@@ -163,8 +173,8 @@ func _set_next_page() -> void:
 	typing_interface.setup_book()
 
 
-func _page_complete() -> void:
-	_save_book_progress()
+func _page_complete(WPM: int = 0, incorrect: int = 0) -> void:
+	_save_book_progress(WPM, incorrect)
 	# Completion Check
 	if book_page >= book_metadata.get("pages", 0):
 		transition_main_menu()
@@ -173,20 +183,30 @@ func _page_complete() -> void:
 		_set_next_page()
 
 
-func _save_book_progress() -> void:
+func _save_book_progress(WPM: int = 0, incorrect: int = 0) -> void:
 	var save: Dictionary
+	var filepath = "user://saves/" + book_metadata.get("title") + ".save"
 	# Check for existing file
-	if FileAccess.file_exists(book_metadata.get("title") + ".save"):
-		var json: String = FileAccess.get_file_as_string(book_metadata.get("title") + ".save")
+	if FileAccess.file_exists(filepath):
+		var json: String = FileAccess.get_file_as_string(filepath)
 		save = JSON.parse_string(json)
+		print(save)
 	
-	if book_page >= book_metadata.get("pages", 0):
+	# Book completion check
+	if book_page >= book_metadata.get("pages", 0): # Book complete
 		save.set("complete", true)
 		save.erase("page")
-	else:
-		save.set("page", book_page)
+	else: # Book not complete
+		save.set("page", book_page + 1)
+	
+	# Page data
+	var page_data: Dictionary = {
+		"incorrect" : incorrect,
+		"WPM" : WPM,
+	}
+	save.set("page" + str(book_page), page_data)
 	
 	# Save data
 	var json_string: String = JSON.stringify(save)
-	FileAccess.open("user://saves/" + book_metadata.get("title") + ".save", FileAccess.WRITE).store_string(json_string)
+	FileAccess.open(filepath, FileAccess.WRITE).store_string(json_string)
 	

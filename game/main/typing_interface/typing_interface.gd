@@ -3,8 +3,8 @@ class_name TypingInterface
 
 
 @onready var title_node : Label = $VBoxContainer/Topbar/VBoxContainer/HBoxContainer/TitleLabel
-@onready var page_label : Label = $VBoxContainer/Topbar/VBoxContainer/HBoxContainer/PageLabelMarginContainer/PageLabel
-@onready var main_textbox : RichTextLabel = $VBoxContainer/Body/HBoxContainer/SmoothScrollContainer/TypingLabel
+@onready var page_label : Label = $VBoxContainer/Topbar/VBoxContainer/HBoxContainer/HBoxContainer/PageLabelMarginContainer/PageLabel
+@onready var main_textbox : TypingControler = $VBoxContainer/Body/HBoxContainer/SmoothScrollContainer/TypingLabel
 
 
 @export var book_title : String = "Title Ununsuplied"
@@ -12,7 +12,7 @@ class_name TypingInterface
 @export var page_number : int = 1
 @export var max_page_number : int = 1
 
-signal page_complete()
+signal page_complete(WPM: int, incorrect: int)
 
 
 func _ready() -> void:
@@ -27,4 +27,6 @@ func setup_book() -> void:
 
 
 func _page_complete():
-	emit_signal("page_complete")
+	print(main_textbox.number_incorrect)
+	print(main_textbox.get_wpm())
+	emit_signal("page_complete", main_textbox.get_wpm(), main_textbox.number_incorrect)

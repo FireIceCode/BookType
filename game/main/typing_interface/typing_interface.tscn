@@ -6,6 +6,7 @@
 [ext_resource type="Script" uid="uid://cgl07dugsjk8f" path="res://game/main/typing_interface/typing_controler.gd" id="2_v0rtb"]
 [ext_resource type="Script" uid="uid://bfeogij7mmmf1" path="res://game/main/typing_interface/smooth_progress_bar.gd" id="3_6e2yo"]
 [ext_resource type="FontFile" uid="uid://bsg050005pfju" path="res://game/fonts/Sono-Medium.ttf" id="3_x3pcs"]
+[ext_resource type="Script" uid="uid://dsmdwrkn7tim4" path="res://game/main/typing_interface/wpm_label.gd" id="5_6q2ix"]
 [ext_resource type="Script" uid="uid://ciaey0scfxkr" path="res://game/main/typing_interface/smooth_scroll_container.gd" id="5_50335"]
 [ext_resource type="Script" uid="uid://bmjowt5qhpl6q" path="res://game/main/typing_interface/smooth_caret.gd" id="8_1dh2i"]
 
@@ -39,6 +40,9 @@ grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_0860d")
 book_title = "Default Title"
+page_text = null
+page_number = null
+max_page_number = null
 
 [node name="Background" type="Panel" parent="." unique_id=1780821857]
 layout_mode = 1
@@ -81,9 +85,9 @@ size_flags_vertical = 4
 alignment = 1
 
 [node name="ReturnButtonMarginContainer" type="MarginContainer" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer" unique_id=1542654652]
-custom_minimum_size = Vector2(100, 0)
+custom_minimum_size = Vector2(150, 0)
 layout_mode = 2
-size_flags_horizontal = 4
+size_flags_horizontal = 0
 theme_override_constants/margin_left = 10
 theme_override_constants/margin_top = 10
 theme_override_constants/margin_right = 10
@@ -92,7 +96,7 @@ theme_override_constants/margin_bottom = 10
 [node name="Button" type="Button" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer/ReturnButtonMarginContainer" unique_id=1635084117]
 custom_minimum_size = Vector2(100, 0)
 layout_mode = 2
-size_flags_horizontal = 4
+size_flags_horizontal = 0
 size_flags_vertical = 4
 focus_next = NodePath("../../TitleLabel")
 focus_previous = NodePath("../../TitleLabel")
@@ -108,15 +112,40 @@ focus_mode = 2
 theme = ExtResource("2_6e2yo")
 text = "Title"
 
-[node name="PageLabelMarginContainer" type="MarginContainer" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer" unique_id=917692457]
-custom_minimum_size = Vector2(100, 0)
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer" unique_id=12575359]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+size_flags_horizontal = 8
+alignment = 2
+
+[node name="WPMLabelContainer" type="MarginContainer" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer/HBoxContainer" unique_id=1083138859]
+custom_minimum_size = Vector2(80, 0)
+layout_mode = 2
+size_flags_horizontal = 8
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 0
+theme_override_constants/margin_bottom = 10
+
+[node name="WPMLabel" type="Label" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer/HBoxContainer/WPMLabelContainer" unique_id=651160153 node_paths=PackedStringArray("typing_controler")]
+modulate = Color(0.5409905, 0.5409905, 0.5409905, 1)
+layout_mode = 2
+size_flags_horizontal = 8
+theme = ExtResource("2_6e2yo")
+text = "0 WPM"
+horizontal_alignment = 2
+script = ExtResource("5_6q2ix")
+typing_controler = NodePath("../../../../../../Body/HBoxContainer/SmoothScrollContainer/TypingLabel")
+
+[node name="PageLabelMarginContainer" type="MarginContainer" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer/HBoxContainer" unique_id=917692457]
+custom_minimum_size = Vector2(50, 0)
 layout_mode = 2
 theme_override_constants/margin_left = 10
 theme_override_constants/margin_top = 10
 theme_override_constants/margin_right = 10
 theme_override_constants/margin_bottom = 10
 
-[node name="PageLabel" type="Label" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer/PageLabelMarginContainer" unique_id=932703280]
+[node name="PageLabel" type="Label" parent="VBoxContainer/Topbar/VBoxContainer/HBoxContainer/HBoxContainer/PageLabelMarginContainer" unique_id=932703280]
 layout_mode = 2
 size_flags_horizontal = 8
 theme = ExtResource("2_6e2yo")

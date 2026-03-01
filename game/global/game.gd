@@ -190,7 +190,6 @@ func _save_book_progress(WPM: int = 0, incorrect: int = 0) -> void:
 	if FileAccess.file_exists(filepath):
 		var json: String = FileAccess.get_file_as_string(filepath)
 		save = JSON.parse_string(json)
-		print(save)
 	
 	# Book completion check
 	if book_page >= book_metadata.get("pages", 0): # Book complete

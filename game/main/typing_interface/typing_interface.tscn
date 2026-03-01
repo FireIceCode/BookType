@@ -40,9 +40,6 @@ grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_0860d")
 book_title = "Default Title"
-page_text = null
-page_number = null
-max_page_number = null
 
 [node name="Background" type="Panel" parent="." unique_id=1780821857]
 layout_mode = 1

@@ -77,7 +77,7 @@ func refresh_text() -> void:
 
 ## Returns current WPM
 func get_wpm() -> float:
-	var seconds: float = float(Time.get_ticks_msec()) / 1000
+	var seconds: float = float(Time.get_ticks_msec() - starting_timestamp) / 1000
 	# Takes character index, considers a word to be length 5, and divides by seconds.
 	var WPM = snappedf(float(character_index) / 5 / seconds * 60, 0.01)
 	return WPM

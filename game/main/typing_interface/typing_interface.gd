@@ -27,6 +27,5 @@ func setup_book() -> void:
 
 
 func _page_complete():
-	print(main_textbox.number_incorrect)
-	print(main_textbox.get_wpm())
+	# args: WPM, incorrect character count
 	emit_signal("page_complete", main_textbox.get_wpm(), main_textbox.number_incorrect)

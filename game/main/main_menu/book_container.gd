@@ -40,16 +40,22 @@ func _create_child_book_selector_boxes(directories : PackedStringArray) -> void:
 	# Load title and other relevant information into book selector box
 	for metadata: Dictionary in metadatas:
 		var child = book_selector_box.instantiate()
+		
+		# Metadata loading
 		child.book_directory = metadata.get("directory", "user://books/builtin/ArtofWar")
 		child.book_title = metadata.get("title", "Title metadata not found!")
+		child.max_pages = metadata.get("pages", 1)
 		
-		var page: int = 0
+		# Get save data
+		var save: Dictionary
 		var json_string: String = FileAccess.get_file_as_string("user://saves/" + metadata.get("title") + ".save")
 		if not json_string == "":
-			var save: Dictionary = JSON.parse_string(json_string)
-			page = save.get("page", 0)
-			if save.get("complete", false):
-				child.complete = true
+			save = JSON.parse_string(json_string)
+		var page = save.get("page", 0)
+		
+		# Load save data
+		child.complete = save.get("complete", false)
+		child.current_page = page
 		
 		if page == 0:
 			child.button_text = "Start"

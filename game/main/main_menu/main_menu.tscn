@@ -1,5 +1,6 @@
 [gd_scene format=3 uid="uid://oh0q0nknvqrb"]
 
+[ext_resource type="Texture2D" uid="uid://ckxmkwkjdscsh" path="res://game/assets/booktype_logo_white.svg" id="1_0o1p5"]
 [ext_resource type="Script" uid="uid://dlbid3gbfujw" path="res://game/main/main_menu/add_file_script.gd" id="1_7vrkn"]
 [ext_resource type="Theme" uid="uid://dpl2do44yaxqr" path="res://game/themes/Dark.tres" id="1_kp4qi"]
 [ext_resource type="Script" uid="uid://nhhb8wd8w0h7" path="res://game/main/main_menu/book_container.gd" id="2_fu7sn"]
@@ -25,7 +26,7 @@ grow_vertical = 2
 size_flags_horizontal = 6
 size_flags_vertical = 3
 
-[node name="Panel" type="Panel" parent="." unique_id=499001987]
+[node name="Background" type="Panel" parent="." unique_id=499001987]
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -51,46 +52,34 @@ theme_override_constants/margin_top = 5
 theme_override_constants/margin_bottom = 5
 
 [node name="VBoxContainer" type="VBoxContainer" parent="Main Menu/SidebarMarginContainer" unique_id=116647438]
+custom_minimum_size = Vector2(250, 0)
 layout_mode = 2
 
-[node name="Control" type="Control" parent="Main Menu/SidebarMarginContainer/VBoxContainer" unique_id=1481284083]
+[node name="Control" type="HBoxContainer" parent="Main Menu/SidebarMarginContainer/VBoxContainer" unique_id=1339289761]
 custom_minimum_size = Vector2(0, 50)
 layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="Main Menu/SidebarMarginContainer/VBoxContainer/Control" unique_id=1012579158]
+custom_minimum_size = Vector2(50, 50)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+texture = ExtResource("1_0o1p5")
+expand_mode = 1
+stretch_mode = 4
 
 [node name="Label" type="Label" parent="Main Menu/SidebarMarginContainer/VBoxContainer/Control" unique_id=1287935044]
 custom_minimum_size = Vector2(0, 50)
-layout_mode = 1
-anchors_preset = 8
-anchor_left = 0.5
-anchor_top = 0.5
-anchor_right = 0.5
-anchor_bottom = 0.5
-offset_left = -150.0
-offset_top = -25.0
-offset_right = 150.0
-offset_bottom = 25.0
-grow_horizontal = 2
-grow_vertical = 2
-size_flags_vertical = 0
+layout_mode = 2
 theme = ExtResource("1_kp4qi")
-theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.101960786)
-theme_override_constants/line_spacing = 3
-theme_override_constants/shadow_offset_x = 2
-theme_override_constants/shadow_offset_y = 2
-theme_override_constants/outline_size = 0
-theme_override_constants/shadow_outline_size = 5
-theme_override_font_sizes/font_size = 32
-text = "-= BookType =-"
+theme_override_colors/font_color = Color(0.8, 0.8, 0.8, 1)
+theme_override_font_sizes/font_size = 37
+text = "BookType"
 horizontal_alignment = 1
 vertical_alignment = 1
 
-[node name="TextureRect" type="TextureRect" parent="Main Menu/SidebarMarginContainer/VBoxContainer/Control" unique_id=1012579158]
-layout_mode = 0
-offset_right = 40.0
-offset_bottom = 40.0
-
 [node name="AddFileButton" type="Button" parent="Main Menu/SidebarMarginContainer/VBoxContainer" unique_id=1063680482]
-custom_minimum_size = Vector2(300, 25)
+custom_minimum_size = Vector2(0, 25)
 layout_mode = 2
 size_flags_vertical = 4
 theme = ExtResource("1_kp4qi")

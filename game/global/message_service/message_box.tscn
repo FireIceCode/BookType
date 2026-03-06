@@ -44,13 +44,14 @@ theme_override_styles/panel = SubResource("StyleBoxFlat_s2l3i")
 
 [node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer" unique_id=535065258]
 layout_mode = 2
+theme_override_constants/separation = 0
 
 [node name="MarginContainer" type="MarginContainer" parent="PanelContainer/VBoxContainer" unique_id=130126949]
 layout_mode = 2
 theme_override_constants/margin_left = 5
-theme_override_constants/margin_top = 0
+theme_override_constants/margin_top = 2
 theme_override_constants/margin_right = 5
-theme_override_constants/margin_bottom = -3
+theme_override_constants/margin_bottom = 0
 
 [node name="Title Label" type="Label" parent="PanelContainer/VBoxContainer/MarginContainer" unique_id=44713106]
 layout_mode = 2
@@ -65,9 +66,9 @@ vertical_alignment = 1
 [node name="MarginContainer2" type="MarginContainer" parent="PanelContainer/VBoxContainer" unique_id=1617602140]
 layout_mode = 2
 theme_override_constants/margin_left = 5
-theme_override_constants/margin_top = -2
+theme_override_constants/margin_top = 0
 theme_override_constants/margin_right = 5
-theme_override_constants/margin_bottom = 1
+theme_override_constants/margin_bottom = 3
 
 [node name="Body Label" type="Label" parent="PanelContainer/VBoxContainer/MarginContainer2" unique_id=1809266490]
 modulate = Color(0.78352344, 0.7835234, 0.7835234, 1)

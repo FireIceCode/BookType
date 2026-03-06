@@ -91,7 +91,7 @@ func _input(event: InputEvent) -> void:
 	# Ensure correct input type
 	if event is InputEventKey and !event.is_echo() and !event.is_released():
 		# Check for typing start, or calculate WPM
-		if starting_timestamp == 0:
+		if character_index == 0:
 			starting_timestamp = Time.get_ticks_msec()
 		
 		# Check for backspace

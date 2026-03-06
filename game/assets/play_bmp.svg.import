@@ -1,0 +1,16 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+uid="uid://drfa4ls85rwjh"
+path="res://.godot/imported/play_bmp.svg-757a3a60c6edf73be0409b4347087962.res"
+
+[deps]
+
+source_file="res://game/assets/play_bmp.svg"
+dest_files=["res://.godot/imported/play_bmp.svg-757a3a60c6edf73be0409b4347087962.res"]
+
+[params]
+
+create_from=0
+threshold=0.0

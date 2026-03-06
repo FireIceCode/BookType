@@ -24,13 +24,13 @@ func _process(delta: float) -> void:
 func set_message(title: String, body: String, style: int = 0) -> void:
 	match style:
 		0: # INFO
-			_set_stylebox_border_color(Color("#6a6a6a"))
+			_set_stylebox_border_color(Color("566e7fff"))
 		1: # SUCCESS
-			_set_stylebox_border_color(Color("#79a271"))
+			_set_stylebox_border_color(Color("db9100ff"))
 		2: # WARN
-			_set_stylebox_border_color(Color("c9ab5fff"))
+			_set_stylebox_border_color(Color("ff5a9dff"))
 		3: # ERROR
-			_set_stylebox_border_color(Color(0.822, 0.383, 0.313, 1.0))
+			_set_stylebox_border_color(Color(0.698, 0.127, 0.186, 1.0))
 	
 	if title == "":
 		title_label.queue_free()

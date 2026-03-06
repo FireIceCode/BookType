@@ -9,7 +9,7 @@ extends Control
 
 @onready var completion_label = $HBoxContainer/Completion
 @onready var title_label: Label = $HBoxContainer/Title
-@onready var button: Button = $HBoxContainer/MarginContainer/Button
+@onready var button: TextureButton = $HBoxContainer/MarginContainer/Button
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
@@ -21,7 +21,7 @@ func _ready() -> void:
 		@warning_ignore("integer_division")
 		var percent: int = current_page * 100 / max_pages
 		completion_label.text = str(percent, "%")
-	button.text = button_text
+#	button.text = button_text
 
 
 func _on_button_pressed() -> void:

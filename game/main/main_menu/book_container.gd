@@ -44,7 +44,7 @@ func _create_child_book_selector_boxes(directories : PackedStringArray) -> void:
 		# Metadata loading
 		child.book_directory = metadata.get("directory", "user://books/builtin/ArtofWar")
 		child.book_title = metadata.get("title", "Title metadata not found!")
-		child.max_pages = metadata.get("pages", 1)
+		child.max_pages = maxi(1, metadata.get("pages", 1)) # Max ensures > 0
 		
 		# Get save data
 		var save: Dictionary

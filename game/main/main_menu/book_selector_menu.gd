@@ -27,6 +27,7 @@ func _id_pressed(id: int):
 				var book_title = BookSelectorBox.book_title
 				DirAccess.remove_absolute("user://saves/" + book_title + ".save")
 				MessageService.message_info("", "Cleared " + book_title + " save data.")
+				Game.transition_main_menu()
 		Menu_Buttons.DELETE:
 			print("TODO")
 		_: # Catch other potential cases.

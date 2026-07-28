@@ -1,0 +1,49 @@
+{
+  "fill" : {
+	"automatic-gradient" : "display-p3:0.17592,0.60230,0.43474,1.00000"
+  },
+  "groups" : [
+	{
+	  "layers" : [
+		{
+		  "blend-mode" : "normal",
+		  "fill" : {
+			"solid" : "srgb:1.00000,1.00000,1.00000,1.00000"
+		  },
+		  "glass-specializations" : [
+			{
+			  "value" : true
+			},
+			{
+			  "appearance" : "light",
+			  "value" : true
+			}
+		  ],
+		  "hidden" : false,
+		  "image-name" : "booktype_logo_white 3.svg",
+		  "name" : "booktype_logo_white 3",
+		  "position" : {
+			"scale" : 0.32,
+			"translation-in-points" : [
+			  0,
+			  0
+			]
+		  }
+		}
+	  ],
+	  "shadow" : {
+		"kind" : "neutral",
+		"opacity" : 0.5
+	  },
+	  "translucency" : {
+		"enabled" : true,
+		"value" : 0.5
+	  }
+	}
+  ],
+  "supported-platforms" : {
+	"squares" : [
+      "macOS"
+	]
+  }
+}

@@ -22,7 +22,7 @@ config/quit_on_go_back=false
 config/features=PackedStringArray("4.7", "GL Compatibility")
 boot_splash/bg_color=Color(0, 0, 0, 1)
 boot_splash/image="uid://dtkoiaxkqoem2"
-config/icon="uid://cv5uxtqybhbvr"
+config/icon="uid://dxyy2bsbwusdn"
 boot_splash/minimum_display_time=1000
 
 [autoload]
@@ -37,6 +37,12 @@ window/size/viewport_width=1150
 window/size/viewport_height=655
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
+
+[file_customization]
+
+folder_colors={
+"res://game/assets/BookTypeLogo-MacOS.icon/": "red"
+}
 
 [global_group]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dixgdbjn2f8w8"
-path="res://.godot/imported/booktype_desktop_logo.svg-0e45530b4fbcf39db4f4635e171f1940.ctex"
+uid="uid://dxyy2bsbwusdn"
+path="res://.godot/imported/BookTypeLogo-MacOS.png-9f0edb107d18b6d5e34e6cfb64ba934a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://game/assets/booktype_desktop_logo.svg"
-dest_files=["res://.godot/imported/booktype_desktop_logo.svg-0e45530b4fbcf39db4f4635e171f1940.ctex"]
+source_file="res://game/assets/BookTypeLogo-MacOS.png"
+dest_files=["res://.godot/imported/BookTypeLogo-MacOS.png-9f0edb107d18b6d5e34e6cfb64ba934a.ctex"]
 
 [params]
 
@@ -38,6 +38,3 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
-svg/scale=1.0
-editor/scale_with_editor_scale=false
-editor/convert_colors_with_editor_theme=false

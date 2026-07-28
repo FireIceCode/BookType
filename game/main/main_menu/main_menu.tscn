@@ -9,12 +9,10 @@
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_kp4qi"]
 bg_color = Color(0.1764706, 0.1764706, 0.1764706, 1)
 
-[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_0o1p5"]
-bg_color = Color(1, 1, 1, 0.050980393)
-corner_radius_top_left = 5
-corner_radius_top_right = 5
-corner_radius_bottom_right = 5
-corner_radius_bottom_left = 5
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_jktx3"]
+bg_color = Color(0.21770102, 0.21770108, 0.21770096, 1)
+shadow_color = Color(0, 0, 0, 0.40784314)
+shadow_size = 5
 
 [node name="Control" type="Control" unique_id=1951986409]
 layout_mode = 3
@@ -36,8 +34,8 @@ grow_vertical = 2
 theme_override_styles/panel = SubResource("StyleBoxFlat_kp4qi")
 
 [node name="Main Menu" type="HBoxContainer" parent="." unique_id=337169855]
-clip_contents = true
 custom_minimum_size = Vector2(500, 500)
+clip_contents = true
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
@@ -46,24 +44,28 @@ grow_horizontal = 2
 grow_vertical = 2
 theme_override_constants/separation = 0
 
-[node name="SidebarMarginContainer" type="MarginContainer" parent="Main Menu" unique_id=162256094]
+[node name="NavagationBar" type="PanelContainer" parent="Main Menu" unique_id=1861363004]
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_jktx3")
+
+[node name="SidebarMarginContainer" type="MarginContainer" parent="Main Menu/NavagationBar" unique_id=162256094]
 layout_mode = 2
 theme_override_constants/margin_left = 5
 theme_override_constants/margin_top = 5
 theme_override_constants/margin_right = 5
 theme_override_constants/margin_bottom = 5
 
-[node name="VBoxContainer" type="VBoxContainer" parent="Main Menu/SidebarMarginContainer" unique_id=116647438]
-custom_minimum_size = Vector2(250, 0)
+[node name="VBoxContainer" type="VBoxContainer" parent="Main Menu/NavagationBar/SidebarMarginContainer" unique_id=116647438]
+custom_minimum_size = Vector2(200, 0)
 layout_mode = 2
 
-[node name="Control" type="HBoxContainer" parent="Main Menu/SidebarMarginContainer/VBoxContainer" unique_id=1339289761]
+[node name="Control" type="HBoxContainer" parent="Main Menu/NavagationBar/SidebarMarginContainer/VBoxContainer" unique_id=1339289761]
 custom_minimum_size = Vector2(0, 50)
 layout_mode = 2
 theme_override_constants/separation = 0
 alignment = 1
 
-[node name="TextureRect" type="TextureRect" parent="Main Menu/SidebarMarginContainer/VBoxContainer/Control" unique_id=1012579158]
+[node name="TextureRect" type="TextureRect" parent="Main Menu/NavagationBar/SidebarMarginContainer/VBoxContainer/Control" unique_id=1012579158]
 custom_minimum_size = Vector2(50, 50)
 layout_mode = 2
 size_flags_horizontal = 4
@@ -72,38 +74,19 @@ texture = ExtResource("1_0o1p5")
 expand_mode = 1
 stretch_mode = 4
 
-[node name="MarginContainer" type="MarginContainer" parent="Main Menu/SidebarMarginContainer/VBoxContainer/Control" unique_id=1631454180]
-layout_mode = 2
-size_flags_horizontal = 4
-theme_override_constants/margin_left = 0
-theme_override_constants/margin_top = 4
-theme_override_constants/margin_right = 8
-theme_override_constants/margin_bottom = -4
-
-[node name="Label" type="Label" parent="Main Menu/SidebarMarginContainer/VBoxContainer/Control/MarginContainer" unique_id=1287935044]
-custom_minimum_size = Vector2(0, 50)
-layout_mode = 2
-theme = ExtResource("1_kp4qi")
-theme_override_colors/font_color = Color(0.8, 0.8, 0.8, 1)
-theme_override_font_sizes/font_size = 37
-text = "BookType"
-horizontal_alignment = 1
-vertical_alignment = 1
-
-[node name="AddFileButton" type="Button" parent="Main Menu/SidebarMarginContainer/VBoxContainer" unique_id=1063680482]
+[node name="AddFileButton" type="Button" parent="Main Menu/NavagationBar/SidebarMarginContainer/VBoxContainer" unique_id=1063680482]
 custom_minimum_size = Vector2(0, 25)
 layout_mode = 2
 size_flags_vertical = 4
 theme = ExtResource("1_kp4qi")
-text = "Import Text File"
+text = "Import Book"
 script = ExtResource("1_7vrkn")
 
-[node name="FileDialog" type="FileDialog" parent="Main Menu/SidebarMarginContainer/VBoxContainer/AddFileButton" unique_id=1706285761]
-title = "Open a File"
+[node name="FileDialog" type="FileDialog" parent="Main Menu/NavagationBar/SidebarMarginContainer/VBoxContainer/AddFileButton" unique_id=1706285761]
+title = "Select File"
 initial_position = 2
 always_on_top = true
 exclude_from_capture = true
-force_native = true
 ok_button_text = "Open"
 dialog_hide_on_ok = true
 file_mode = 0
@@ -111,28 +94,37 @@ access = 2
 filters = PackedStringArray("*.txt")
 use_native_dialog = true
 folder_creation_enabled = false
+overwrite_warning_enabled = false
+deleting_enabled = false
 script = ExtResource("2_y7416")
 
-[node name="DivMarginContainer" type="MarginContainer" parent="Main Menu" unique_id=205293432]
+[node name="Label" type="Label" parent="Main Menu/NavagationBar/SidebarMarginContainer/VBoxContainer" unique_id=1287935044]
 layout_mode = 2
-theme_override_constants/margin_top = 5
-theme_override_constants/margin_bottom = 5
+size_flags_horizontal = 4
+size_flags_vertical = 10
+theme = ExtResource("1_kp4qi")
+theme_override_colors/font_color = Color(0.5890956, 0.58909565, 0.58909535, 1)
+theme_override_font_sizes/font_size = 14
+text = "BookType"
+horizontal_alignment = 1
+vertical_alignment = 1
 
-[node name="Panel2" type="Panel" parent="Main Menu/DivMarginContainer" unique_id=1276948929]
-custom_minimum_size = Vector2(5, 0)
+[node name="SelectionArea" type="MarginContainer" parent="Main Menu" unique_id=1356313267]
 layout_mode = 2
-theme_override_styles/panel = SubResource("StyleBoxFlat_0o1p5")
+size_flags_horizontal = 3
+theme_override_constants/margin_left = 5
 
-[node name="BodyScrollContainer" type="ScrollContainer" parent="Main Menu" unique_id=754148199]
+[node name="ScrollContainer" type="ScrollContainer" parent="Main Menu/SelectionArea" unique_id=754148199]
 layout_mode = 2
 size_flags_horizontal = 3
 size_flags_stretch_ratio = 0.0
 
-[node name="BookContainer" type="VBoxContainer" parent="Main Menu/BodyScrollContainer" unique_id=133058819]
+[node name="BookContainer" type="VBoxContainer" parent="Main Menu/SelectionArea/ScrollContainer" unique_id=133058819]
+unique_name_in_owner = true
 layout_mode = 2
 size_flags_horizontal = 3
 size_flags_stretch_ratio = 0.0
 script = ExtResource("2_fu7sn")
 
-[connection signal="pressed" from="Main Menu/SidebarMarginContainer/VBoxContainer/AddFileButton" to="Main Menu/SidebarMarginContainer/VBoxContainer/AddFileButton" method="_on_pressed"]
-[connection signal="file_selected" from="Main Menu/SidebarMarginContainer/VBoxContainer/AddFileButton/FileDialog" to="Main Menu/SidebarMarginContainer/VBoxContainer/AddFileButton/FileDialog" method="_on_file_selected"]
+[connection signal="pressed" from="Main Menu/NavagationBar/SidebarMarginContainer/VBoxContainer/AddFileButton" to="Main Menu/NavagationBar/SidebarMarginContainer/VBoxContainer/AddFileButton" method="_on_pressed"]
+[connection signal="file_selected" from="Main Menu/NavagationBar/SidebarMarginContainer/VBoxContainer/AddFileButton/FileDialog" to="Main Menu/NavagationBar/SidebarMarginContainer/VBoxContainer/AddFileButton/FileDialog" method="_on_file_selected"]

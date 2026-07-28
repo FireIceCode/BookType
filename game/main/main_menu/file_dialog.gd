@@ -1,5 +1,5 @@
 extends FileDialog
-@onready var book_container: VBoxContainer = $"../../../../BodyScrollContainer/BookContainer"
+@onready var book_container: VBoxContainer = %BookContainer
 
 
 func _on_file_selected(path: String) -> void:

@@ -13,7 +13,7 @@ var allowed_characters: String = "`1234567890-=~!@#$%^&*()_+qwertyuiop[]\\QWERTY
 func register_book(file_path_txt: String, book_title: String) -> void:
 	var book_text: String = FileAccess.get_file_as_string(file_path_txt)
 	if book_text == null:
-		printerr("Unable to parse the provided file.")
+		printerr("Unable to read the provided file.")
 		return
 	book_text = _clean_text(book_text)
 	
@@ -72,10 +72,15 @@ func _clean_text(text: String) -> String:
 	var length = text.length()
 	while true:
 		index += 1
+		
+		# Return after exceeding text length.
 		if index >= length:
 			return text
+		
+		# Remove improper characters.
 		if not text[index] in allowed_characters:
 			text = text.remove_chars(text[index])
-			print(text[index])
+			index -= 1
 			length = text.length()
+	
 	return text

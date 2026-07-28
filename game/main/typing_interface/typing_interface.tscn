@@ -175,8 +175,8 @@ vertical_scroll_mode = 3
 script = ExtResource("5_50335")
 
 [node name="TypingLabel" type="RichTextLabel" parent="VBoxContainer/Body/HBoxContainer/SmoothScrollContainer" unique_id=1370903237 node_paths=PackedStringArray("smooth_progress_bar", "smooth_scroll_container", "smooth_caret")]
-clip_contents = false
 custom_minimum_size = Vector2(750, 500)
+clip_contents = false
 layout_mode = 2
 size_flags_horizontal = 3
 size_flags_vertical = 2

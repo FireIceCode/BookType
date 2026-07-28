@@ -7,7 +7,6 @@ extends RichTextLabel
 @export var typed_color: String = "#dddddd"
 @export var incorrect_color: String = "#cc8888"
 @export var caret_highlight_color: String = "#509080"
-@export var font_size: int = 24
 @export var smooth_progress_bar: SmoothProgressBar
 @export var smooth_scroll_container: SmoothScrollContainer
 @export var smooth_caret: SmoothCaret
@@ -162,8 +161,14 @@ func _update_scroll() -> void:
 	smooth_scroll_container.set_progress(line_ratio)
 
 
+# Sets the font size to the provided int
+func _set_font_size(font_size: int) -> void:
+	add_theme_font_size_override("normal_font_size", font_size)
+
+
 # Gets the x and y position of the provided character's index.
 func _get_character_position(index: int) -> Vector2:
+	var font_size = get_theme_font_size("normal_font_size")
 	var line: int = get_character_line(index)
 	
 	# Get x

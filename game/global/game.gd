@@ -6,6 +6,7 @@ enum Scene {MAIN_MENU, TYPING_INTERFACE}
 @onready var animation_player: AnimationPlayer
 
 var transitioning: bool = false
+var preferences: ConfigFile = ConfigFile.new()
 
 # Active book data
 var book_directory: String = "user://books/builtin/Art of War"
@@ -18,12 +19,24 @@ var book_page: int = 0
 var page_WPM: float = 0.0
 
 
+# - 
+# BUILTIN FUNCTIONS
+# -
+
 ## Called on game startup
 func _ready() -> void:
 	_create_directory()
+	_load_preferences()
 	await _get_scene_manager()
 	await _get_animation_player()
 
+## Called on game exit
+func _exit_tree() -> void:
+	_save_active_preferences()
+
+# -
+# PUBLIC FUNCTIONS
+# -
 
 ## Transitions to main menu scene
 func transition_main_menu() -> void:
@@ -48,6 +61,10 @@ func set_book(dir: String) -> void:
 		else:
 			book_page = 0
 
+
+# -
+# PRIVATE FUNCTIONS
+# -
 
 ## Creates the main folders, and copies the built in files to the builtin folder
 func _create_directory() -> void:
@@ -84,7 +101,7 @@ func _timer(seconds: float) -> void:
 ## Gets the scence manager node
 func _get_scene_manager() -> void:
 	while true:
-		scene_node = get_tree().get_first_node_in_group("scene_manager")	
+		scene_node = get_tree().get_first_node_in_group("scene_manager")
 		if scene_node is Control:
 			break
 		else:
@@ -208,4 +225,37 @@ func _save_book_progress(WPM: int = 0, incorrect: int = 0) -> void:
 	# Save data
 	var json_string: String = JSON.stringify(save)
 	FileAccess.open(filepath, FileAccess.WRITE).store_string(json_string)
+
+
+## Updates and saves the current user preferences to preferences.cfg
+func _save_active_preferences() -> void:
+	var window_size: Vector2 = get_window().size
+	preferences.set_value("WINDOW", "resolution", window_size)
 	
+	preferences.save("user://preferences.cfg")
+
+
+## Attempts to load and apply user prefrences from preferences.cfg
+func _load_preferences() -> void:
+	var err = preferences.load("user://preferences.cfg")
+	
+	if err != OK:
+		preferences = _default_prefrences()
+		return
+	
+	var window_size: Vector2i = preferences.get_value("WINDOW", "resolution")
+	get_window().size = window_size
+	get_window().move_to_center()
+
+## Returns a default prefrences ConfigFile
+func _default_prefrences() -> ConfigFile:
+	var default_config := ConfigFile.new()
+	
+	# WINDOW
+	var window_size: Vector2i = get_window().size
+	default_config.set_value("WINDOW", "resolution", window_size)
+	
+	# INTERFACE
+	default_config.set_value("INTERFACE", "font_size", 24)
+	
+	return default_config

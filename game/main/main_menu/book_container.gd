@@ -10,7 +10,7 @@ func _ready() -> void:
 
 
 func load_books() -> void:
-	# Prepare for new book selector boxes
+	# Clear old children
 	for child in self.get_children():
 		child.queue_free()
 	
@@ -36,6 +36,9 @@ func _create_child_book_selector_boxes(directories : PackedStringArray) -> void:
 			var metadata: Dictionary = JSON.parse_string(json_string)
 			metadata.set("directory", dir)
 			metadatas.append(metadata)
+		else:
+			printerr("Book metadata not found!")
+	
 	
 	# Load title and other relevant information into book selector box
 	for metadata: Dictionary in metadatas:
